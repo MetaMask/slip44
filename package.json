@@ -1,0 +1,24 @@
+{
+  "name": "@metamask/slip44",
+  "version": "1.0.0",
+  "description": "A simple mapping between slip44 IDs and their network names.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MetaMask/slip44.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "Cryptocurrency",
+    "Cryptography"
+  ],
+  "author": "Dan Finlay <dan@danfinlay.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetaMask/slip44/issues"
+  },
+  "homepage": "https://github.com/MetaMask/slip44#readme"
+}
