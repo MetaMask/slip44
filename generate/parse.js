@@ -23,7 +23,6 @@ for (let i = 0; i < lines.length; i++) {
     if (coin.indexOf('[') === 0) {
       // This is a markdown link
       name = coin.substr(1).split(']')[0]
-      console.log(coin);
       link = coin.split('(')[1].split(')')[0]
 
     } else {
