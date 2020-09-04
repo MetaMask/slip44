@@ -4,7 +4,7 @@ const slip44Path = path.join(__dirname, '..', 'slip44.md');
 const slip44 = fs.readFileSync(slip44Path).toString();
 
 const lines = slip44.split('\n');
-const entries = [];
+const entries = {};
 
 let started = false;
 let ended = false;
@@ -29,10 +29,10 @@ for (let i = 0; i < lines.length; i++) {
       // This is just a name, no link
       name = coin;
     }
-    entries.push({
+    entries[index] = {
       index, hex, symbol, name, link,
-    })
+    }
   }
 }
 
-console.log(JSON.stringify(entries,null,2))
+console.log('module.exports = ' + JSON.stringify(entries,null,2))
