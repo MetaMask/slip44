@@ -7,12 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.0.0]
-### Uncategorized
-- Fix changelog
-- Standardize repository
-- Add readme
-- Standardize repository
-- Add readme
+### Added
+- Changelog
+- Readme
+
+### Changed
+- **BREAKING:** Convert primary export from `.js` to `.json`
+  - This may be breaking for TypeScript projects, since some `tsc` configurations disallow importing JSON modules.
+- Update SLIP-44 data
+  - Current as of [satoshilabs/slips#6279209](https://github.com/satoshilabs/slips/blob/6279209c5686c2910d67a37ddeef2643228472b1/slip-0044.md).
 
 ## [1.0.0]
 ### Changed
