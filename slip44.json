@@ -1,10 +1,10 @@
-module.exports = {
+{
   "0": {
     "index": "0",
     "hex": "0x80000000",
     "symbol": "BTC",
     "name": "Bitcoin",
-    "link": "https://bitcoin.org/"
+    "link": "https://bitcoin.org"
   },
   "1": {
     "index": "1",
@@ -17,7 +17,7 @@ module.exports = {
     "hex": "0x80000002",
     "symbol": "LTC",
     "name": "Litecoin",
-    "link": "https://litecoin.org/"
+    "link": "https://litecoin.org"
   },
   "3": {
     "index": "3",
@@ -44,35 +44,35 @@ module.exports = {
     "hex": "0x80000006",
     "symbol": "PPC",
     "name": "Peercoin",
-    "link": "https://peercoin.net/"
+    "link": "https://peercoin.net"
   },
   "7": {
     "index": "7",
     "hex": "0x80000007",
     "symbol": "NMC",
     "name": "Namecoin",
-    "link": "http://namecoin.info/"
+    "link": "https://www.namecoin.org"
   },
   "8": {
     "index": "8",
     "hex": "0x80000008",
     "symbol": "FTC",
     "name": "Feathercoin",
-    "link": "https://www.feathercoin.com/"
+    "link": "https://www.feathercoin.com"
   },
   "9": {
     "index": "9",
     "hex": "0x80000009",
     "symbol": "XCP",
     "name": "Counterparty",
-    "link": "http://counterparty.io/"
+    "link": "https://counterparty.io"
   },
   "10": {
     "index": "10",
     "hex": "0x8000000a",
     "symbol": "BLK",
     "name": "Blackcoin",
-    "link": "http://blackcoin.co/"
+    "link": "https://blackcoin.org"
   },
   "11": {
     "index": "11",
@@ -213,14 +213,14 @@ module.exports = {
     "hex": "0x80000021",
     "symbol": "VASH",
     "name": "Virtual Cash",
-    "link": "http://www.bitnet.cc/"
+    "link": "http://www.bitnet.cc"
   },
   "34": {
     "index": "34",
     "hex": "0x80000022",
     "symbol": "CDN",
     "name": "Canada eCoin",
-    "link": "https://github.com/Canada-eCoin/"
+    "link": "https://github.com/Canada-eCoin"
   },
   "35": {
     "index": "35",
@@ -233,7 +233,7 @@ module.exports = {
     "hex": "0x80000024",
     "symbol": "PKB",
     "name": "ParkByte",
-    "link": "https://github.com/parkbyte/"
+    "link": "https://github.com/parkbyte"
   },
   "37": {
     "index": "37",
@@ -259,21 +259,21 @@ module.exports = {
     "hex": "0x80000028",
     "symbol": "EXP",
     "name": "Expanse",
-    "link": "http://www.expanse.tech/"
+    "link": "https://expanse.tech"
   },
   "41": {
     "index": "41",
     "hex": "0x80000029",
     "symbol": "EMC2",
     "name": "Einsteinium",
-    "link": "https://www.emc2.foundation/"
+    "link": "https://www.emc2.foundation"
   },
   "42": {
     "index": "42",
     "hex": "0x8000002a",
     "symbol": "DCR",
     "name": "Decred",
-    "link": "https://decred.org/"
+    "link": "https://decred.org"
   },
   "43": {
     "index": "43",
@@ -287,14 +287,13 @@ module.exports = {
     "hex": "0x8000002c",
     "symbol": "PART",
     "name": "Particl",
-    "link": "https://particl.io/"
+    "link": "https://particl.io"
   },
   "45": {
     "index": "45",
     "hex": "0x8000002d",
     "symbol": "ARG",
-    "name": "Argentum",
-    "link": "http://www.argentum.io"
+    "name": "Argentum (dead)"
   },
   "46": {
     "index": "46",
@@ -341,7 +340,7 @@ module.exports = {
     "index": "52",
     "hex": "0x80000034",
     "symbol": "BTCD",
-    "name": "Bitcoindark",
+    "name": "BitcoinDark",
     "link": "https://github.com/jl777/btcd"
   },
   "53": {
@@ -397,8 +396,8 @@ module.exports = {
     "index": "60",
     "hex": "0x8000003c",
     "symbol": "ETH",
-    "name": "Ether",
-    "link": "https://ethereum.org/ether"
+    "name": "Ethereum",
+    "link": "https://ethereum.org"
   },
   "61": {
     "index": "61",
@@ -418,15 +417,14 @@ module.exports = {
     "index": "63",
     "hex": "0x8000003f",
     "symbol": "LDCN",
-    "name": "Landcoin",
-    "link": "http://landcoin.co/"
+    "name": "Landcoin (dead)"
   },
   "64": {
     "index": "64",
     "hex": "0x80000040",
     "symbol": "",
     "name": "Open Chain",
-    "link": "https://github.com/openchain/"
+    "link": "https://github.com/openchain"
   },
   "65": {
     "index": "65",
@@ -440,28 +438,28 @@ module.exports = {
     "hex": "0x80000042",
     "symbol": "IOP",
     "name": "Internet of People",
-    "link": "http://www.fermat.org"
+    "link": "https://iop.global"
   },
   "67": {
     "index": "67",
     "hex": "0x80000043",
     "symbol": "NXS",
     "name": "Nexus",
-    "link": "http://www.nexusearth.com/"
+    "link": "https://nexus.io"
   },
   "68": {
     "index": "68",
     "hex": "0x80000044",
     "symbol": "INSN",
     "name": "InsaneCoin",
-    "link": "http://insanecoin.com"
+    "link": "https://insane.network"
   },
   "69": {
     "index": "69",
     "hex": "0x80000045",
     "symbol": "OK",
     "name": "OKCash",
-    "link": "https://github.com/okcashpro/"
+    "link": "https://github.com/okcashpro"
   },
   "70": {
     "index": "70",
@@ -482,7 +480,7 @@ module.exports = {
     "hex": "0x80000048",
     "symbol": "CRW",
     "name": "Crown",
-    "link": "http://crown.tech/"
+    "link": "https://www.crownplatform.com"
   },
   "73": {
     "index": "73",
@@ -496,56 +494,56 @@ module.exports = {
     "hex": "0x8000004a",
     "symbol": "ICX",
     "name": "ICON",
-    "link": "https://icon.foundation/"
+    "link": "https://icon.foundation"
   },
   "75": {
     "index": "75",
     "hex": "0x8000004b",
     "symbol": "FJC",
     "name": "FujiCoin",
-    "link": "http://www.fujicoin.org/"
+    "link": "https://fujicoin.org"
   },
   "76": {
     "index": "76",
     "hex": "0x8000004c",
     "symbol": "MIX",
     "name": "MIX",
-    "link": "https://www.mix-blockchain.org/"
+    "link": "https://www.mix-blockchain.org"
   },
   "77": {
     "index": "77",
     "hex": "0x8000004d",
     "symbol": "XVG",
-    "name": "Verge",
-    "link": "https://github.com/vergecurrency/verge/"
+    "name": "Verge Currency",
+    "link": "https://vergecurrency.com"
   },
   "78": {
     "index": "78",
     "hex": "0x8000004e",
     "symbol": "EFL",
     "name": "Electronic Gulden",
-    "link": "https://egulden.org/"
+    "link": "https://egulden.org"
   },
   "79": {
     "index": "79",
     "hex": "0x8000004f",
     "symbol": "CLUB",
     "name": "ClubCoin",
-    "link": "https://clubcoin.co/"
+    "link": "https://clubcoin.co"
   },
   "80": {
     "index": "80",
     "hex": "0x80000050",
     "symbol": "RICHX",
     "name": "RichCoin",
-    "link": "https://richcoin.us/"
+    "link": "https://richcoin.us"
   },
   "81": {
     "index": "81",
     "hex": "0x80000051",
     "symbol": "POT",
     "name": "Potcoin",
-    "link": "http://potcoin.com/"
+    "link": "https://www.potcoin.com"
   },
   "82": {
     "index": "82",
@@ -558,7 +556,7 @@ module.exports = {
     "hex": "0x80000053",
     "symbol": "TRC",
     "name": "Terracoin",
-    "link": "https://terracoin.io/"
+    "link": "https://terracoin.io"
   },
   "84": {
     "index": "84",
@@ -571,7 +569,7 @@ module.exports = {
     "hex": "0x80000055",
     "symbol": "AUR",
     "name": "Auroracoin",
-    "link": "http://auroracoin.is/"
+    "link": "http://auroracoin.is"
   },
   "86": {
     "index": "86",
@@ -584,21 +582,21 @@ module.exports = {
     "hex": "0x80000057",
     "symbol": "NLG",
     "name": "Gulden",
-    "link": "https://Gulden.com/"
+    "link": "https://Gulden.com"
   },
   "88": {
     "index": "88",
     "hex": "0x80000058",
     "symbol": "BITB",
     "name": "BitBean",
-    "link": "http://bitbean.org/"
+    "link": "http://bitbean.org"
   },
   "89": {
     "index": "89",
     "hex": "0x80000059",
     "symbol": "BTA",
     "name": "Bata",
-    "link": "http://bata.io/"
+    "link": "http://bata.io"
   },
   "90": {
     "index": "90",
@@ -619,14 +617,14 @@ module.exports = {
     "hex": "0x8000005c",
     "symbol": "UNO",
     "name": "Unobtanium",
-    "link": "http://http://unobtanium.uno/"
+    "link": "http://http://unobtanium.uno"
   },
   "93": {
     "index": "93",
     "hex": "0x8000005d",
     "symbol": "MTR",
     "name": "MasterTrader",
-    "link": "https://github.com/CrypticApplications/MTR-Update/"
+    "link": "https://github.com/CrypticApplications/MTR-Update"
   },
   "94": {
     "index": "94",
@@ -675,7 +673,7 @@ module.exports = {
     "hex": "0x80000064",
     "symbol": "BIGUP",
     "name": "BigUp",
-    "link": "https://github.com/BigUps/"
+    "link": "https://github.com/BigUps"
   },
   "101": {
     "index": "101",
@@ -724,7 +722,7 @@ module.exports = {
     "hex": "0x8000006b",
     "symbol": "MARS",
     "name": "MarsCoin",
-    "link": "http://www.marscoin.org/"
+    "link": "http://www.marscoin.org"
   },
   "108": {
     "index": "108",
@@ -738,7 +736,7 @@ module.exports = {
     "hex": "0x8000006d",
     "symbol": "PTC",
     "name": "Pesetacoin",
-    "link": "http://pesetacoin.info/"
+    "link": "http://pesetacoin.info"
   },
   "110": {
     "index": "110",
@@ -836,7 +834,7 @@ module.exports = {
     "hex": "0x8000007b",
     "symbol": "ZNY",
     "name": "BitZeny",
-    "link": "https://bitzeny.tech/"
+    "link": "https://bitzeny.tech"
   },
   "124": {
     "index": "124",
@@ -871,7 +869,7 @@ module.exports = {
     "hex": "0x80000080",
     "symbol": "XMR",
     "name": "Monero",
-    "link": "https://getmonero.org/"
+    "link": "https://getmonero.org"
   },
   "129": {
     "index": "129",
@@ -913,7 +911,7 @@ module.exports = {
     "hex": "0x80000086",
     "symbol": "LSK",
     "name": "Lisk",
-    "link": "https://lisk.io/"
+    "link": "https://lisk.io"
   },
   "135": {
     "index": "135",
@@ -934,7 +932,7 @@ module.exports = {
     "hex": "0x80000089",
     "symbol": "RBTC",
     "name": "RSK",
-    "link": "http://www.rsk.co/"
+    "link": "http://www.rsk.co"
   },
   "138": {
     "index": "138",
@@ -955,21 +953,21 @@ module.exports = {
     "hex": "0x8000008c",
     "symbol": "LBC",
     "name": "LBRY Credits",
-    "link": "https://lbry.io/"
+    "link": "https://lbry.io"
   },
   "141": {
     "index": "141",
     "hex": "0x8000008d",
     "symbol": "KMD",
     "name": "Komodo",
-    "link": "https://komodoplatform.com/"
+    "link": "https://komodoplatform.com"
   },
   "142": {
     "index": "142",
     "hex": "0x8000008e",
     "symbol": "BSQ",
     "name": "bisq Token",
-    "link": "http://bisq.io/"
+    "link": "http://bisq.io"
   },
   "143": {
     "index": "143",
@@ -1004,14 +1002,14 @@ module.exports = {
     "hex": "0x80000093",
     "symbol": "ZCL",
     "name": "ZClassic",
-    "link": "http://zclassic.org/"
+    "link": "http://zclassic.org"
   },
   "148": {
     "index": "148",
     "hex": "0x80000094",
     "symbol": "XLM",
     "name": "Stellar Lumens",
-    "link": "https://www.stellar.org/"
+    "link": "https://www.stellar.org"
   },
   "149": {
     "index": "149",
@@ -1025,14 +1023,14 @@ module.exports = {
     "hex": "0x80000096",
     "symbol": "WHL",
     "name": "WhaleCoin",
-    "link": "https://whalecoin.org/"
+    "link": "https://whalecoin.org"
   },
   "151": {
     "index": "151",
     "hex": "0x80000097",
     "symbol": "ERC",
     "name": "EuropeCoin",
-    "link": "https://www.europecoin.eu.org/"
+    "link": "https://www.europecoin.eu.org"
   },
   "152": {
     "index": "152",
@@ -1058,9 +1056,9 @@ module.exports = {
   "155": {
     "index": "155",
     "hex": "0x8000009b",
-    "symbol": "XWC",
-    "name": "Whitecoin",
-    "link": "https://www.whitecoin.info"
+    "symbol": "XWCC",
+    "name": "Whitecoin Classic",
+    "link": "https://old.whitecoin.info"
   },
   "156": {
     "index": "156",
@@ -1081,7 +1079,7 @@ module.exports = {
     "hex": "0x8000009e",
     "symbol": "SSN",
     "name": "SuperSkynet",
-    "link": "http://wwww.superskynet.org/"
+    "link": "http://wwww.superskynet.org"
   },
   "159": {
     "index": "159",
@@ -1102,14 +1100,14 @@ module.exports = {
     "hex": "0x800000a1",
     "symbol": "ACC",
     "name": "Adcoin",
-    "link": "https://www.getadcoin.com/"
+    "link": "https://www.getadcoin.com"
   },
   "162": {
     "index": "162",
     "hex": "0x800000a2",
     "symbol": "BCO",
     "name": "Bridgecoin",
-    "link": "https://bridgecoin.org/"
+    "link": "https://bridgecoin.org"
   },
   "163": {
     "index": "163",
@@ -1128,7 +1126,7 @@ module.exports = {
   "165": {
     "index": "165",
     "hex": "0x800000a5",
-    "symbol": "NANO",
+    "symbol": "XNO",
     "name": "Nano",
     "link": "https://nano.org"
   },
@@ -1137,7 +1135,7 @@ module.exports = {
     "hex": "0x800000a6",
     "symbol": "VIVO",
     "name": "Vivo",
-    "link": "https://www.vivocrypto.com/"
+    "link": "https://www.vivocrypto.com"
   },
   "167": {
     "index": "167",
@@ -1151,26 +1149,26 @@ module.exports = {
     "hex": "0x800000a8",
     "symbol": "HNC",
     "name": "Helleniccoin",
-    "link": "http://www.helleniccoin.gr/"
+    "link": "http://www.helleniccoin.gr"
   },
   "169": {
     "index": "169",
     "hex": "0x800000a9",
     "symbol": "BUZZ",
     "name": "BUZZ",
-    "link": "http://www.buzzcoin.info/"
+    "link": "http://www.buzzcoin.info"
   },
   "170": {
     "index": "170",
     "hex": "0x800000aa",
     "symbol": "MBRS",
     "name": "Ember",
-    "link": "https://www.embercoin.io/"
+    "link": "https://www.embercoin.io"
   },
   "171": {
     "index": "171",
     "hex": "0x800000ab",
-    "symbol": "HSR",
+    "symbol": "HC",
     "name": "Hcash",
     "link": "https://h.cash"
   },
@@ -1179,28 +1177,28 @@ module.exports = {
     "hex": "0x800000ac",
     "symbol": "HTML",
     "name": "HTMLCOIN",
-    "link": "https://htmlcoin.com/"
+    "link": "https://htmlcoin.com"
   },
   "173": {
     "index": "173",
     "hex": "0x800000ad",
     "symbol": "ODN",
     "name": "Obsidian",
-    "link": "https://obsidianplatform.com/"
+    "link": "https://obsidianplatform.com"
   },
   "174": {
     "index": "174",
     "hex": "0x800000ae",
     "symbol": "ONX",
     "name": "OnixCoin",
-    "link": "https://www.onixcoin.com/"
+    "link": "https://www.onixcoin.com"
   },
   "175": {
     "index": "175",
     "hex": "0x800000af",
     "symbol": "RVN",
     "name": "Ravencoin",
-    "link": "https://ravencoin.org/"
+    "link": "https://ravencoin.org"
   },
   "176": {
     "index": "176",
@@ -1214,7 +1212,7 @@ module.exports = {
     "hex": "0x800000b1",
     "symbol": "BTCZ",
     "name": "BitcoinZ",
-    "link": "https://btcz.rocks/en/"
+    "link": "https://btcz.rocks/en"
   },
   "178": {
     "index": "178",
@@ -1291,21 +1289,21 @@ module.exports = {
     "hex": "0x800000bc",
     "symbol": "WBTC",
     "name": "World Bitcoin",
-    "link": "http://www.wbtcteam.org/"
+    "link": "http://www.wbtcteam.org"
   },
   "189": {
     "index": "189",
     "hex": "0x800000bd",
     "symbol": "LCH",
     "name": "LiteCash",
-    "link": "http://www.litecash.info/"
+    "link": "http://www.litecash.info"
   },
   "190": {
     "index": "190",
     "hex": "0x800000be",
     "symbol": "EXCL",
     "name": "ExclusiveCoin",
-    "link": "https://exclusivecoin.pw/"
+    "link": "https://exclusivecoin.pw"
   },
   "191": {
     "index": "191",
@@ -1410,7 +1408,7 @@ module.exports = {
     "hex": "0x800000cd",
     "symbol": "RIN",
     "name": "Ringo",
-    "link": "http://dkwzjw.github.io/ringo/"
+    "link": "http://dkwzjw.github.io/ringo"
   },
   "206": {
     "index": "206",
@@ -1445,28 +1443,28 @@ module.exports = {
     "hex": "0x800000d2",
     "symbol": "NEET",
     "name": "NEETCOIN",
-    "link": "https://neetcoin.jp/"
+    "link": "https://neetcoin.jp"
   },
   "211": {
     "index": "211",
     "hex": "0x800000d3",
     "symbol": "BOPO",
     "name": "BopoChain",
-    "link": "http://www.bopochain.org/"
+    "link": "http://www.bopochain.org"
   },
   "212": {
     "index": "212",
     "hex": "0x800000d4",
     "symbol": "OOT",
     "name": "Utrum",
-    "link": "https://utrum.io/ootcoin/"
+    "link": "https://utrum.io/ootcoin"
   },
   "213": {
     "index": "213",
     "hex": "0x800000d5",
-    "symbol": "XSPEC",
-    "name": "Spectrecoin",
-    "link": "https://spectreproject.io/"
+    "symbol": "ALIAS",
+    "name": "Alias",
+    "link": "https://alias.cash"
   },
   "214": {
     "index": "214",
@@ -1480,14 +1478,14 @@ module.exports = {
     "hex": "0x800000d7",
     "symbol": "BOXY",
     "name": "BoxyCoin",
-    "link": "http://www.boxycoin.org/"
+    "link": "http://www.boxycoin.org"
   },
   "216": {
     "index": "216",
     "hex": "0x800000d8",
     "symbol": "FLO",
     "name": "Flo",
-    "link": "https://www.flo.cash/"
+    "link": "https://www.flo.cash"
   },
   "217": {
     "index": "217",
@@ -1508,21 +1506,21 @@ module.exports = {
     "hex": "0x800000db",
     "symbol": "XAX",
     "name": "Artax",
-    "link": "https://www.artaxcoin.org/"
+    "link": "https://www.artaxcoin.org"
   },
   "220": {
     "index": "220",
     "hex": "0x800000dc",
     "symbol": "ANON",
     "name": "ANON",
-    "link": "https://www.anonfork.io/"
+    "link": "https://www.anonfork.io"
   },
   "221": {
     "index": "221",
     "hex": "0x800000dd",
     "symbol": "LTZ",
     "name": "LitecoinZ",
-    "link": "https://litecoinz.org/"
+    "link": "https://litecoinz.org"
   },
   "222": {
     "index": "222",
@@ -1534,9 +1532,9 @@ module.exports = {
   "223": {
     "index": "223",
     "hex": "0x800000df",
-    "symbol": "ASK",
-    "name": "AskCoin",
-    "link": "https://askcoin.org"
+    "symbol": "ICP",
+    "name": "Internet Computer (DFINITY)",
+    "link": "DFINITY"
   },
   "224": {
     "index": "224",
@@ -1557,14 +1555,14 @@ module.exports = {
     "hex": "0x800000e2",
     "symbol": "HLM",
     "name": "Helium",
-    "link": "https://www.heliumlabs.org/"
+    "link": "https://www.heliumlabs.org"
   },
   "227": {
     "index": "227",
     "hex": "0x800000e3",
     "symbol": "WEB",
     "name": "Webchain",
-    "link": "https://webchain.network/"
+    "link": "https://webchain.network"
   },
   "228": {
     "index": "228",
@@ -1620,7 +1618,7 @@ module.exports = {
     "hex": "0x800000eb",
     "symbol": "FIO",
     "name": "FIO",
-    "link": "https://fio.foundation"
+    "link": "https://fioprotocol.io"
   },
   "236": {
     "index": "236",
@@ -1634,14 +1632,14 @@ module.exports = {
     "hex": "0x800000ed",
     "symbol": "DXN",
     "name": "DEXON",
-    "link": "https://dexon.org/"
+    "link": "https://dexon.org"
   },
   "238": {
     "index": "238",
     "hex": "0x800000ee",
     "symbol": "QRL",
     "name": "Quantum Resistant Ledger",
-    "link": "https://www.theqrl.org/"
+    "link": "https://www.theqrl.org"
   },
   "239": {
     "index": "239",
@@ -1669,21 +1667,21 @@ module.exports = {
     "hex": "0x800000f2",
     "symbol": "NIM",
     "name": "Nimiq",
-    "link": "https://nimiq.com/"
+    "link": "https://nimiq.com"
   },
   "243": {
     "index": "243",
     "hex": "0x800000f3",
     "symbol": "SOV",
     "name": "Sovereign Coin",
-    "link": "http://www.sovcore.org/"
+    "link": "http://www.sovcore.org"
   },
   "244": {
     "index": "244",
     "hex": "0x800000f4",
     "symbol": "JCT",
     "name": "Jibital Coin",
-    "link": "https://jibital.ir/"
+    "link": "https://jibital.ir"
   },
   "245": {
     "index": "245",
@@ -1725,14 +1723,14 @@ module.exports = {
     "hex": "0x800000fa",
     "symbol": "SOOM",
     "name": "Soom",
-    "link": "http://www.fourthblockchain.org/"
+    "link": "http://www.fourthblockchain.org"
   },
   "251": {
     "index": "251",
     "hex": "0x800000fb",
     "symbol": "XRD",
     "name": "Redstone",
-    "link": "https://www.redstoneplatform.com/"
+    "link": "https://www.redstoneplatform.com"
   },
   "252": {
     "index": "252",
@@ -1781,7 +1779,7 @@ module.exports = {
     "hex": "0x80000102",
     "symbol": "",
     "name": "Zen Protocol",
-    "link": "https://www.zenprotocol.com/"
+    "link": "https://www.zenprotocol.com"
   },
   "259": {
     "index": "259",
@@ -1802,7 +1800,7 @@ module.exports = {
     "hex": "0x80000105",
     "symbol": "PION",
     "name": "Pion",
-    "link": "https://pioncoin.org/"
+    "link": "https://pioncoin.org"
   },
   "262": {
     "index": "262",
@@ -1865,7 +1863,7 @@ module.exports = {
     "hex": "0x8000010e",
     "symbol": "ONE",
     "name": "ONE",
-    "link": "http://www.onechain.one/"
+    "link": "http://www.onechain.one"
   },
   "271": {
     "index": "271",
@@ -1886,14 +1884,14 @@ module.exports = {
     "hex": "0x80000111",
     "symbol": "DMTC",
     "name": "Dominantchain",
-    "link": "https://dominantchain.com/"
+    "link": "https://dominantchain.com"
   },
   "274": {
     "index": "274",
     "hex": "0x80000112",
     "symbol": "OGC",
     "name": "Onegram",
-    "link": "https://onegram.org/"
+    "link": "https://onegram.org"
   },
   "275": {
     "index": "275",
@@ -1935,7 +1933,7 @@ module.exports = {
     "hex": "0x80000118",
     "symbol": "HTR",
     "name": "Hathor Network",
-    "link": "https://hathor.network/"
+    "link": "https://hathor.network"
   },
   "281": {
     "index": "281",
@@ -1949,14 +1947,14 @@ module.exports = {
     "hex": "0x8000011a",
     "symbol": "BRAVO",
     "name": "BRAVO",
-    "link": "https://bravocoin.com/"
+    "link": "https://bravocoin.com"
   },
   "283": {
     "index": "283",
     "hex": "0x8000011b",
     "symbol": "ALGO",
     "name": "Algorand",
-    "link": "https://www.algorand.com/"
+    "link": "https://www.algorand.com"
   },
   "284": {
     "index": "284",
@@ -1970,14 +1968,14 @@ module.exports = {
     "hex": "0x8000011d",
     "symbol": "GXX",
     "name": "GravityCoin",
-    "link": "https://www.gravitycoin.io/"
+    "link": "https://www.gravitycoin.io"
   },
   "286": {
     "index": "286",
     "hex": "0x8000011e",
     "symbol": "HEAT",
     "name": "HEAT",
-    "link": "https://heatledger.com/"
+    "link": "https://heatledger.com"
   },
   "287": {
     "index": "287",
@@ -1991,7 +1989,7 @@ module.exports = {
     "hex": "0x80000120",
     "symbol": "FSN",
     "name": "FUSION",
-    "link": "https://www.fusion.org/"
+    "link": "https://www.fusion.org"
   },
   "289": {
     "index": "289",
@@ -2012,7 +2010,7 @@ module.exports = {
     "hex": "0x80000123",
     "symbol": "IOST",
     "name": "IOST",
-    "link": "https://iost.io/"
+    "link": "https://iost.io"
   },
   "292": {
     "index": "292",
@@ -2033,7 +2031,7 @@ module.exports = {
     "hex": "0x80000126",
     "symbol": "BCZ",
     "name": "BitcoinCZ",
-    "link": "https://www.bitcoincz.org/"
+    "link": "https://www.bitcoincz.org"
   },
   "295": {
     "index": "295",
@@ -2061,21 +2059,21 @@ module.exports = {
     "hex": "0x8000012a",
     "symbol": "FAIR",
     "name": "FairCoin",
-    "link": "https://faircoin.world/"
+    "link": "https://faircoin.world"
   },
   "299": {
     "index": "299",
     "hex": "0x8000012b",
     "symbol": "NUKO",
     "name": "Nekonium",
-    "link": "https://nekonium.github.io/"
+    "link": "https://nekonium.github.io"
   },
   "300": {
     "index": "300",
     "hex": "0x8000012c",
     "symbol": "GNX",
     "name": "Genaro Network",
-    "link": "https://genaro.network/"
+    "link": "https://genaro.network"
   },
   "301": {
     "index": "301",
@@ -2096,14 +2094,14 @@ module.exports = {
     "hex": "0x8000012f",
     "symbol": "EUNO",
     "name": "EUNO",
-    "link": "https://euno.co/"
+    "link": "https://euno.co"
   },
   "304": {
     "index": "304",
     "hex": "0x80000130",
     "symbol": "IOTX",
     "name": "IoTeX",
-    "link": "https://iotex.io/"
+    "link": "https://iotex.io"
   },
   "305": {
     "index": "305",
@@ -2124,14 +2122,14 @@ module.exports = {
     "hex": "0x80000133",
     "symbol": "ATC",
     "name": "AToken Coin",
-    "link": "https://www.atoken.com/"
+    "link": "https://www.atoken.com"
   },
   "308": {
     "index": "308",
     "hex": "0x80000134",
     "symbol": "BTS",
     "name": "Bitshares",
-    "link": "https://bitshares.org/"
+    "link": "https://bitshares.org"
   },
   "309": {
     "index": "309",
@@ -2145,63 +2143,63 @@ module.exports = {
     "hex": "0x80000136",
     "symbol": "UGAS",
     "name": "Ultrain",
-    "link": "https://www.ultrain.io/"
+    "link": "https://www.ultrain.io"
   },
   "311": {
     "index": "311",
     "hex": "0x80000137",
     "symbol": "ADS",
     "name": "Adshares",
-    "link": "https://adshares.net/"
+    "link": "https://adshares.net"
   },
   "312": {
     "index": "312",
     "hex": "0x80000138",
     "symbol": "ARA",
     "name": "Aura",
-    "link": "https://auraledger.com/"
+    "link": "https://auraledger.com"
   },
   "313": {
     "index": "313",
     "hex": "0x80000139",
     "symbol": "ZIL",
     "name": "Zilliqa",
-    "link": "https://zilliqa.com/"
+    "link": "https://zilliqa.com"
   },
   "314": {
     "index": "314",
     "hex": "0x8000013a",
     "symbol": "MOAC",
     "name": "MOAC",
-    "link": "https://moac.io/"
+    "link": "https://moac.io"
   },
   "315": {
     "index": "315",
     "hex": "0x8000013b",
     "symbol": "SWTC",
     "name": "SWTC",
-    "link": "http://swtc.top/"
+    "link": "http://swtc.top"
   },
   "316": {
     "index": "316",
     "hex": "0x8000013c",
     "symbol": "VNSC",
     "name": "vnscoin",
-    "link": "http://www.vnscoin.org/"
+    "link": "http://www.vnscoin.org"
   },
   "317": {
     "index": "317",
     "hex": "0x8000013d",
     "symbol": "PLUG",
     "name": "Pl^g",
-    "link": "https://www.poweredbyplug.com/"
+    "link": "https://www.poweredbyplug.com"
   },
   "318": {
     "index": "318",
     "hex": "0x8000013e",
     "symbol": "MAN",
     "name": "Matrix AI Network",
-    "link": "https://www.matrix.io/"
+    "link": "https://www.matrix.io"
   },
   "319": {
     "index": "319",
@@ -2215,63 +2213,63 @@ module.exports = {
     "hex": "0x80000140",
     "symbol": "RPD",
     "name": "Rapids",
-    "link": "https://www.rapidsnetwork.io/"
+    "link": "https://www.rapidsnetwork.io"
   },
   "321": {
     "index": "321",
     "hex": "0x80000141",
     "symbol": "RAP",
     "name": "Rapture",
-    "link": "https://our-rapture.com/"
+    "link": "https://our-rapture.com"
   },
   "322": {
     "index": "322",
     "hex": "0x80000142",
     "symbol": "GARD",
     "name": "Hashgard",
-    "link": "https://www.hashgard.io/"
+    "link": "https://www.hashgard.io"
   },
   "323": {
     "index": "323",
     "hex": "0x80000143",
     "symbol": "ZER",
     "name": "Zero",
-    "link": "https://www.zerocurrency.io/"
+    "link": "https://www.zerocurrency.io"
   },
   "324": {
     "index": "324",
     "hex": "0x80000144",
     "symbol": "EBST",
     "name": "eBoost",
-    "link": "https://eboost.fun/"
+    "link": "https://eboost.fun"
   },
   "325": {
     "index": "325",
     "hex": "0x80000145",
     "symbol": "SHARD",
     "name": "Shard",
-    "link": "https://shardcoin.io/"
+    "link": "https://shardcoin.io"
   },
   "326": {
     "index": "326",
     "hex": "0x80000146",
     "symbol": "LINDA",
     "name": "Linda Coin",
-    "link": "https://lindacoin.com/"
+    "link": "https://lindacoin.com"
   },
   "327": {
     "index": "327",
     "hex": "0x80000147",
     "symbol": "CMM",
     "name": "Commercium",
-    "link": "https://www.commercium.net/"
+    "link": "https://www.commercium.net"
   },
   "328": {
     "index": "328",
     "hex": "0x80000148",
     "symbol": "BLOCK",
     "name": "Blocknet",
-    "link": "https://blocknet.co/"
+    "link": "https://blocknet.co"
   },
   "329": {
     "index": "329",
@@ -2362,14 +2360,14 @@ module.exports = {
     "hex": "0x80000155",
     "symbol": "MTNS",
     "name": "OmotenashiCoin",
-    "link": "http://omotenashicoin.site/"
+    "link": "http://omotenashicoin.site"
   },
   "342": {
     "index": "342",
     "hex": "0x80000156",
     "symbol": "BLAST",
     "name": "BLAST",
-    "link": "https://blastblastblast.com/"
+    "link": "https://blastblastblast.com"
   },
   "343": {
     "index": "343",
@@ -2390,21 +2388,21 @@ module.exports = {
     "hex": "0x80000159",
     "symbol": "USDP",
     "name": "USDP",
-    "link": "http://www.usdp.pro/"
+    "link": "http://www.usdp.pro"
   },
   "346": {
     "index": "346",
     "hex": "0x8000015a",
     "symbol": "HTDF",
     "name": "HTDF",
-    "link": "https://www.orientwalt.com/"
+    "link": "https://www.orientwalt.com"
   },
   "347": {
     "index": "347",
     "hex": "0x8000015b",
     "symbol": "YEC",
     "name": "Ycash",
-    "link": "https://www.ycash.xyz/"
+    "link": "https://www.ycash.xyz"
   },
   "348": {
     "index": "348",
@@ -2418,28 +2416,28 @@ module.exports = {
     "hex": "0x8000015d",
     "symbol": "TEA",
     "name": "Icetea Blockchain",
-    "link": "https://icetea.io/"
+    "link": "https://icetea.io"
   },
   "350": {
     "index": "350",
     "hex": "0x8000015e",
     "symbol": "ARW",
     "name": "ArrowChain",
-    "link": "https://www.arrowchain.io/"
+    "link": "https://www.arrowchain.io"
   },
   "351": {
     "index": "351",
     "hex": "0x8000015f",
     "symbol": "MDM",
     "name": "Medium",
-    "link": "https://www.themedium.io/"
+    "link": "https://www.themedium.io"
   },
   "352": {
     "index": "352",
     "hex": "0x80000160",
     "symbol": "CYB",
     "name": "Cybex",
-    "link": "https://dex.cybex.io/"
+    "link": "https://dex.cybex.io"
   },
   "353": {
     "index": "353",
@@ -2453,14 +2451,14 @@ module.exports = {
     "hex": "0x80000162",
     "symbol": "DOT",
     "name": "Polkadot",
-    "link": "https://polkadot.network/"
+    "link": "https://polkadot.network"
   },
   "355": {
     "index": "355",
     "hex": "0x80000163",
     "symbol": "AEON",
     "name": "Aeon",
-    "link": "https://www.aeon.cash/"
+    "link": "https://www.aeon.cash"
   },
   "356": {
     "index": "356",
@@ -2474,7 +2472,7 @@ module.exports = {
     "hex": "0x80000165",
     "symbol": "AYA",
     "name": "Aryacoin",
-    "link": "https://aryacoin.io/"
+    "link": "https://aryacoin.io"
   },
   "358": {
     "index": "358",
@@ -2495,7 +2493,7 @@ module.exports = {
     "hex": "0x80000168",
     "symbol": "VSYS",
     "name": "V Systems",
-    "link": "https://www.v.systems/"
+    "link": "https://www.v.systems"
   },
   "361": {
     "index": "361",
@@ -2537,21 +2535,21 @@ module.exports = {
     "hex": "0x8000016e",
     "symbol": "CZR",
     "name": "Canonchain",
-    "link": "http://www.canonchain.com/"
+    "link": "http://www.canonchain.com"
   },
   "367": {
     "index": "367",
     "hex": "0x8000016f",
     "symbol": "ABBC",
     "name": "ABBC",
-    "link": "https://www.abbcfoundation.com/"
+    "link": "https://www.abbcfoundation.com"
   },
   "368": {
     "index": "368",
     "hex": "0x80000170",
     "symbol": "HET",
     "name": "HET",
-    "link": "http://www.hetcoin.info/"
+    "link": "http://www.hetcoin.info"
   },
   "369": {
     "index": "369",
@@ -2607,14 +2605,14 @@ module.exports = {
     "hex": "0x80000178",
     "symbol": "MXW",
     "name": "Maxonrow",
-    "link": "https://maxonrow.com/"
+    "link": "https://maxonrow.com"
   },
   "377": {
     "index": "377",
     "hex": "0x80000179",
     "symbol": "ZNZ",
     "name": "ZENZO",
-    "link": "https://zenzo.io/"
+    "link": "https://zenzo.io"
   },
   "378": {
     "index": "378",
@@ -2628,14 +2626,14 @@ module.exports = {
     "hex": "0x8000017b",
     "symbol": "SOX",
     "name": "SonicX",
-    "link": "https://sonicx.org/"
+    "link": "https://sonicx.org"
   },
   "380": {
     "index": "380",
     "hex": "0x8000017c",
     "symbol": "NYZO",
     "name": "Nyzo",
-    "link": "https://nyzo.co/"
+    "link": "https://nyzo.co"
   },
   "381": {
     "index": "381",
@@ -2649,49 +2647,49 @@ module.exports = {
     "hex": "0x8000017e",
     "symbol": "RYO",
     "name": "Ryo Currency",
-    "link": "https://ryo-currency.com/"
+    "link": "https://ryo-currency.com"
   },
   "383": {
     "index": "383",
     "hex": "0x8000017f",
     "symbol": "KAL",
     "name": "Kaleidochain",
-    "link": "https://kaleidochain.io/"
+    "link": "https://kaleidochain.io"
   },
   "384": {
     "index": "384",
     "hex": "0x80000180",
     "symbol": "XSN",
     "name": "Stakenet",
-    "link": "https://xsncoin.io/"
+    "link": "https://xsncoin.io"
   },
   "385": {
     "index": "385",
     "hex": "0x80000181",
     "symbol": "DOGEC",
     "name": "DogeCash",
-    "link": "https://dogec.io/"
+    "link": "https://dogec.io"
   },
   "386": {
     "index": "386",
     "hex": "0x80000182",
     "symbol": "BMV",
     "name": "Bitcoin Matteo's Vision",
-    "link": "https://btcmv.org/"
+    "link": "https://btcmv.org"
   },
   "387": {
     "index": "387",
     "hex": "0x80000183",
     "symbol": "QBC",
     "name": "Quebecoin",
-    "link": "https://github.com/QuebecoinQBC/quebecoin/"
+    "link": "https://github.com/QuebecoinQBC/quebecoin"
   },
   "388": {
     "index": "388",
     "hex": "0x80000184",
     "symbol": "IMG",
     "name": "ImageCoin",
-    "link": "https://imagecoin.imagehosty.com/"
+    "link": "https://imagecoin.imagehosty.com"
   },
   "389": {
     "index": "389",
@@ -2726,14 +2724,14 @@ module.exports = {
     "hex": "0x80000189",
     "symbol": "HSN",
     "name": "Hyper Speed Network",
-    "link": "https://www.hsn.link/"
+    "link": "https://www.hsn.link"
   },
   "394": {
     "index": "394",
     "hex": "0x8000018a",
     "symbol": "CRO",
-    "name": "Crypto.com Chain",
-    "link": "https://github.com/crypto-com/chain"
+    "name": "Crypto.org Chain",
+    "link": "https://crypto.org"
   },
   "395": {
     "index": "395",
@@ -2746,29 +2744,29 @@ module.exports = {
     "index": "396",
     "hex": "0x8000018c",
     "symbol": "TON",
-    "name": "TON is dead",
-    "link": "https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12"
+    "name": "Free TON",
+    "link": "https://freeton.org"
   },
   "397": {
     "index": "397",
     "hex": "0x8000018d",
     "symbol": "NEAR",
     "name": "NEAR Protocol",
-    "link": "https://nearprotocol.com/"
+    "link": "https://nearprotocol.com"
   },
   "398": {
     "index": "398",
     "hex": "0x8000018e",
     "symbol": "XPC",
     "name": "XPChain",
-    "link": "https://www.xpchain.io/"
+    "link": "https://www.xpchain.io"
   },
   "399": {
     "index": "399",
     "hex": "0x8000018f",
     "symbol": "ZOC",
     "name": "01coin",
-    "link": "https://01coin.io/"
+    "link": "https://01coin.io"
   },
   "400": {
     "index": "400",
@@ -2789,14 +2787,14 @@ module.exports = {
     "hex": "0x80000192",
     "symbol": "GALI",
     "name": "Galilel",
-    "link": "https://galilel.org/"
+    "link": "https://galilel.org"
   },
   "403": {
     "index": "403",
     "hex": "0x80000193",
     "symbol": "OLT",
     "name": "Oneledger",
-    "link": "https://www.oneledger.io/"
+    "link": "https://www.oneledger.io"
   },
   "404": {
     "index": "404",
@@ -2810,14 +2808,14 @@ module.exports = {
     "hex": "0x80000195",
     "symbol": "DONU",
     "name": "DONU",
-    "link": "https://donu.io/"
+    "link": "https://donu.io"
   },
   "406": {
     "index": "406",
     "hex": "0x80000196",
     "symbol": "EARTHS",
     "name": "Earths",
-    "link": "https://earths.ga/"
+    "link": "https://earths.ga"
   },
   "407": {
     "index": "407",
@@ -2831,21 +2829,21 @@ module.exports = {
     "hex": "0x80000198",
     "symbol": "SUGAR",
     "name": "Sugarchain",
-    "link": "https://sugarchain.org/"
+    "link": "https://sugarchain.org"
   },
   "409": {
     "index": "409",
     "hex": "0x80000199",
     "symbol": "AILE",
     "name": "AileCoin",
-    "link": "https://ailecoin.com/"
+    "link": "https://ailecoin.com"
   },
   "410": {
     "index": "410",
     "hex": "0x8000019a",
-    "symbol": "XSG",
-    "name": "SnowGem",
-    "link": "https://snowgem.org/"
+    "symbol": "TENT",
+    "name": "TENT",
+    "link": "https://tent.app"
   },
   "411": {
     "index": "411",
@@ -2887,28 +2885,28 @@ module.exports = {
     "hex": "0x800001a0",
     "symbol": "BYTZ",
     "name": "BYTZ",
-    "link": "https://bytz.gg/"
+    "link": "https://bytz.gg"
   },
   "417": {
     "index": "417",
     "hex": "0x800001a1",
     "symbol": "WOW",
     "name": "Wownero",
-    "link": "http://wownero.org/"
+    "link": "http://wownero.org"
   },
   "418": {
     "index": "418",
     "hex": "0x800001a2",
     "symbol": "XTNC",
     "name": "XtendCash",
-    "link": "https://xtendcash.com/"
+    "link": "https://xtendcash.com"
   },
   "419": {
     "index": "419",
     "hex": "0x800001a3",
     "symbol": "LTHN",
     "name": "Lethean",
-    "link": "https://lethean.io/"
+    "link": "https://lethean.io"
   },
   "420": {
     "index": "420",
@@ -2936,7 +2934,7 @@ module.exports = {
     "hex": "0x800001a7",
     "symbol": "TNET",
     "name": "Title Network",
-    "link": "https://title.network/"
+    "link": "https://title.network"
   },
   "424": {
     "index": "424",
@@ -2957,7 +2955,7 @@ module.exports = {
     "hex": "0x800001aa",
     "symbol": "BC",
     "name": "Bitcoin Confidential",
-    "link": "https://www.bitcoinconfidential.cc/"
+    "link": "https://www.bitcoinconfidential.cc"
   },
   "427": {
     "index": "427",
@@ -2985,14 +2983,14 @@ module.exports = {
     "hex": "0x800001ae",
     "symbol": "PESO",
     "name": "Criptopeso",
-    "link": "https://criptopeso.io/"
+    "link": "https://criptopeso.io"
   },
   "431": {
     "index": "431",
     "hex": "0x800001af",
     "symbol": "BTC2",
     "name": "Bitcoin 2",
-    "link": "https://www.bitc2.org/"
+    "link": "https://www.bitc2.org"
   },
   "432": {
     "index": "432",
@@ -3041,7 +3039,7 @@ module.exports = {
     "hex": "0x800001b6",
     "symbol": "LN",
     "name": "LINK",
-    "link": "https://link.network/"
+    "link": "https://link.network"
   },
   "439": {
     "index": "439",
@@ -3062,7 +3060,7 @@ module.exports = {
     "hex": "0x800001b9",
     "symbol": "AERGO",
     "name": "AERGO",
-    "link": "https://www.aergo.io/"
+    "link": "https://www.aergo.io"
   },
   "442": {
     "index": "442",
@@ -3076,7 +3074,7 @@ module.exports = {
     "hex": "0x800001bb",
     "symbol": "LV",
     "name": "Lava",
-    "link": "https://www.lavatech.org/"
+    "link": "https://www.lavatech.org"
   },
   "444": {
     "index": "444",
@@ -3090,35 +3088,35 @@ module.exports = {
     "hex": "0x800001bd",
     "symbol": "VITAE",
     "name": "Vitae",
-    "link": "https://www.vitaetoken.io/"
+    "link": "https://www.vitaetoken.io"
   },
   "446": {
     "index": "446",
     "hex": "0x800001be",
     "symbol": "COCOS",
     "name": "Cocos-BCX",
-    "link": "https://www.cocosbcx.io/"
+    "link": "https://www.cocosbcx.io"
   },
   "447": {
     "index": "447",
     "hex": "0x800001bf",
     "symbol": "DIN",
     "name": "Dinero",
-    "link": "https://dinerocoin.org/"
+    "link": "https://dinerocoin.org"
   },
   "448": {
     "index": "448",
     "hex": "0x800001c0",
     "symbol": "SPL",
     "name": "Simplicity",
-    "link": "https://simplicity-coin.com/"
+    "link": "https://simplicity-coin.com"
   },
   "449": {
     "index": "449",
     "hex": "0x800001c1",
     "symbol": "YCE",
     "name": "MYCE",
-    "link": "https://myce.world/"
+    "link": "https://myce.world"
   },
   "450": {
     "index": "450",
@@ -3167,7 +3165,7 @@ module.exports = {
     "hex": "0x800001c8",
     "symbol": "SEELE",
     "name": "Seele",
-    "link": "https://seelenet.com/"
+    "link": "https://seelenet.com"
   },
   "457": {
     "index": "457",
@@ -3181,7 +3179,7 @@ module.exports = {
     "hex": "0x800001ca",
     "symbol": "ODX",
     "name": "ObsidianX",
-    "link": "https://obsidianproject.org/"
+    "link": "https://obsidianproject.org"
   },
   "459": {
     "index": "459",
@@ -3202,14 +3200,14 @@ module.exports = {
     "hex": "0x800001cd",
     "symbol": "FIL",
     "name": "Filecoin",
-    "link": "https://filecoin.io/"
+    "link": "https://filecoin.io"
   },
   "462": {
     "index": "462",
     "hex": "0x800001ce",
     "symbol": "RUTA",
     "name": "Rutanio",
-    "link": "https://rutanio.com/"
+    "link": "https://rutanio.com"
   },
   "463": {
     "index": "463",
@@ -3244,7 +3242,7 @@ module.exports = {
     "hex": "0x800001d3",
     "symbol": "DX",
     "name": "DxChain Token",
-    "link": "https://dxchain.com/"
+    "link": "https://dxchain.com"
   },
   "468": {
     "index": "468",
@@ -3272,7 +3270,7 @@ module.exports = {
     "hex": "0x800001d7",
     "symbol": "FIMK",
     "name": "FIMK",
-    "link": "https://wallet.fimk.fi/"
+    "link": "https://wallet.fimk.fi"
   },
   "472": {
     "index": "472",
@@ -3293,7 +3291,7 @@ module.exports = {
     "hex": "0x800001da",
     "symbol": "ROSE",
     "name": "Oasis Network",
-    "link": "https://www.oasis-protocol.org/"
+    "link": "https://www.oasis-protocol.org"
   },
   "475": {
     "index": "475",
@@ -3342,7 +3340,7 @@ module.exports = {
     "hex": "0x800001e1",
     "symbol": "MOON",
     "name": "Mooncoin",
-    "link": "https://mooncoin.eco/"
+    "link": "https://mooncoin.eco"
   },
   "482": {
     "index": "482",
@@ -3356,42 +3354,42 @@ module.exports = {
     "hex": "0x800001e3",
     "symbol": "BNT",
     "name": "Bluzelle Native",
-    "link": "https://bluzelle.com/"
+    "link": "https://bluzelle.com"
   },
   "484": {
     "index": "484",
     "hex": "0x800001e4",
     "symbol": "AMO",
     "name": "AMO Blockchain",
-    "link": "https://amo.foundation/"
+    "link": "https://amo.foundation"
   },
   "485": {
     "index": "485",
     "hex": "0x800001e5",
     "symbol": "FCH",
     "name": "FreeCash",
-    "link": "https://www.freecash.org/"
+    "link": "https://www.freecash.org"
   },
   "486": {
     "index": "486",
     "hex": "0x800001e6",
     "symbol": "LAT",
     "name": "LatticeX",
-    "link": "https://latticex.foundation/"
+    "link": "https://latticex.foundation"
   },
   "487": {
     "index": "487",
     "hex": "0x800001e7",
     "symbol": "COIN",
     "name": "Bitcoin Bank",
-    "link": "https://github.com/coin-core/coin/"
+    "link": "https://github.com/coin-core/coin"
   },
   "488": {
     "index": "488",
     "hex": "0x800001e8",
     "symbol": "VEO",
     "name": "Amoveo",
-    "link": "https://github.com/zack-bitcoin/amoveo/"
+    "link": "https://github.com/zack-bitcoin/amoveo"
   },
   "489": {
     "index": "489",
@@ -3461,7 +3459,7 @@ module.exports = {
     "hex": "0x800001f2",
     "symbol": "CS",
     "name": "Credits",
-    "link": "https://credits.com/"
+    "link": "https://credits.com"
   },
   "499": {
     "index": "499",
@@ -3475,7 +3473,7 @@ module.exports = {
     "hex": "0x800001f4",
     "symbol": "THETA",
     "name": "Theta",
-    "link": "https://www.thetatoken.org/"
+    "link": "https://www.thetatoken.org"
   },
   "501": {
     "index": "501",
@@ -3496,14 +3494,14 @@ module.exports = {
     "hex": "0x800001f7",
     "symbol": "CFX",
     "name": "Conflux",
-    "link": "https://confluxnetwork.org/"
+    "link": "https://confluxnetwork.org"
   },
   "504": {
     "index": "504",
     "hex": "0x800001f8",
     "symbol": "KUMA",
     "name": "Kumacoin",
-    "link": "https://www.kumacoin.dev/"
+    "link": "https://www.kumacoin.dev"
   },
   "505": {
     "index": "505",
@@ -3515,9 +3513,9 @@ module.exports = {
   "506": {
     "index": "506",
     "hex": "0x800001fa",
-    "symbol": "CLX",
-    "name": "CasperLabs",
-    "link": "https://casperlabs.io"
+    "symbol": "CSPR",
+    "name": "Casper",
+    "link": "https://casper.network"
   },
   "507": {
     "index": "507",
@@ -3531,42 +3529,42 @@ module.exports = {
     "hex": "0x800001fc",
     "symbol": "ERD",
     "name": "Elrond",
-    "link": "https://elrond.com/"
+    "link": "https://elrond.com"
   },
   "509": {
     "index": "509",
     "hex": "0x800001fd",
     "symbol": "CHI",
     "name": "Xaya",
-    "link": "https://xaya.io/"
+    "link": "https://xaya.io"
   },
   "510": {
     "index": "510",
     "hex": "0x800001fe",
     "symbol": "KOTO",
     "name": "Koto",
-    "link": "https://ko-to.org/"
+    "link": "https://ko-to.org"
   },
   "511": {
     "index": "511",
     "hex": "0x800001ff",
     "symbol": "OTC",
     "name": "θ",
-    "link": "https://otc.network/"
+    "link": "https://otc.network"
   },
   "512": {
     "index": "512",
     "hex": "0x80000200",
     "symbol": "XRD",
     "name": "Radiant",
-    "link": "https://radiant.cash/"
+    "link": "https://radiant.cash"
   },
   "513": {
     "index": "513",
     "hex": "0x80000201",
     "symbol": "SEELEN",
     "name": "Seele-N",
-    "link": "https://seelen.pro/"
+    "link": "https://seelen.pro"
   },
   "514": {
     "index": "514",
@@ -3587,35 +3585,35 @@ module.exports = {
     "hex": "0x80000204",
     "symbol": "VEE",
     "name": "Virtual Economy Era",
-    "link": "https://www.vee.tech/"
+    "link": "https://www.vee.tech"
   },
   "517": {
     "index": "517",
     "hex": "0x80000205",
     "symbol": "SIERRA",
     "name": "SierraCoin",
-    "link": "https://sierracoin.org/"
+    "link": "https://sierracoin.org"
   },
   "518": {
     "index": "518",
     "hex": "0x80000206",
     "symbol": "LET",
     "name": "Linkeye",
-    "link": "https://www.linkeye.com/"
+    "link": "https://www.linkeye.com"
   },
   "519": {
     "index": "519",
     "hex": "0x80000207",
     "symbol": "BSC",
     "name": "Bitcoin Smart Contract",
-    "link": "https://bsc.net/"
+    "link": "https://bsc.net"
   },
   "520": {
     "index": "520",
     "hex": "0x80000208",
     "symbol": "BTCV",
     "name": "BitcoinVIP",
-    "link": "https://www.bitvip.org/"
+    "link": "https://www.bitvip.org"
   },
   "521": {
     "index": "521",
@@ -3636,28 +3634,28 @@ module.exports = {
     "hex": "0x8000020b",
     "symbol": "EDG",
     "name": "Edgeware",
-    "link": "https://edgewa.re/"
+    "link": "https://edgewa.re"
   },
   "524": {
     "index": "524",
     "hex": "0x8000020c",
     "symbol": "AMS",
     "name": "AmsterdamCoin",
-    "link": "https://www.amsterdamcoin.com/"
+    "link": "https://www.amsterdamcoin.com"
   },
   "525": {
     "index": "525",
     "hex": "0x8000020d",
     "symbol": "GOSS",
     "name": "GOSSIP Coin",
-    "link": "https://gossipcoin.net/"
+    "link": "https://gossipcoin.net"
   },
   "526": {
     "index": "526",
     "hex": "0x8000020e",
     "symbol": "BU",
     "name": "BUMO",
-    "link": "https://www.bumo.io/"
+    "link": "https://www.bumo.io"
   },
   "527": {
     "index": "527",
@@ -3671,49 +3669,49 @@ module.exports = {
     "hex": "0x80000210",
     "symbol": "YAP",
     "name": "Yapstone",
-    "link": "https://yapstone.pro/"
+    "link": "https://yapstone.pro"
   },
   "529": {
     "index": "529",
     "hex": "0x80000211",
     "symbol": "SCRT",
     "name": "Secret Network",
-    "link": "https://scrt.network/"
+    "link": "https://scrt.network"
   },
   "530": {
     "index": "530",
     "hex": "0x80000212",
     "symbol": "NOVO",
     "name": "Novo",
-    "link": "https://novocurrency.com/"
+    "link": "https://novocurrency.com"
   },
   "531": {
     "index": "531",
     "hex": "0x80000213",
     "symbol": "GHOST",
     "name": "Ghost",
-    "link": "https://ghostbymcafee.com/"
+    "link": "https://ghostbymcafee.com"
   },
   "532": {
     "index": "532",
     "hex": "0x80000214",
     "symbol": "HST",
     "name": "HST",
-    "link": "https://www.hschain.io/"
+    "link": "https://www.hschain.io"
   },
   "533": {
     "index": "533",
     "hex": "0x80000215",
     "symbol": "PRJ",
     "name": "ProjectCoin",
-    "link": "https://projectcoin.net/"
+    "link": "https://projectcoin.net"
   },
   "534": {
     "index": "534",
     "hex": "0x80000216",
     "symbol": "YOU",
     "name": "YOUChain",
-    "link": "https://youchain.cc/"
+    "link": "https://youchain.cc"
   },
   "535": {
     "index": "535",
@@ -3741,14 +3739,14 @@ module.exports = {
     "hex": "0x8000021a",
     "symbol": "VAL",
     "name": "Valorbit",
-    "link": "https://valorbit.com/"
+    "link": "https://valorbit.com"
   },
   "539": {
     "index": "539",
     "hex": "0x8000021b",
     "symbol": "FLOW",
     "name": "Flow",
-    "link": "https://www.onflow.org/"
+    "link": "https://www.onflow.org"
   },
   "540": {
     "index": "540",
@@ -3762,7 +3760,7 @@ module.exports = {
     "hex": "0x8000021d",
     "symbol": "SCDO",
     "name": "SCDO",
-    "link": "https://scdoproject.org/"
+    "link": "https://scdoproject.org"
   },
   "542": {
     "index": "542",
@@ -3776,7 +3774,7 @@ module.exports = {
     "hex": "0x8000021f",
     "symbol": "BIND",
     "name": "Compendia",
-    "link": "https://compendia.org/"
+    "link": "https://compendia.org"
   },
   "544": {
     "index": "544",
@@ -3797,14 +3795,14 @@ module.exports = {
     "hex": "0x80000222",
     "symbol": "HYN",
     "name": "Hyperion",
-    "link": "https://www.hyn.space/"
+    "link": "https://www.hyn.space"
   },
   "547": {
     "index": "547",
     "hex": "0x80000223",
     "symbol": "BHP",
     "name": "BHP",
-    "link": "https://www.bhpa.io/"
+    "link": "https://www.bhpa.io"
   },
   "548": {
     "index": "548",
@@ -3818,7 +3816,7 @@ module.exports = {
     "hex": "0x80000225",
     "symbol": "MKF",
     "name": "MarketFinance",
-    "link": "https://mkf.io/"
+    "link": "https://mkf.io"
   },
   "550": {
     "index": "550",
@@ -3832,7 +3830,7 @@ module.exports = {
     "hex": "0x80000227",
     "symbol": "STR",
     "name": "Straightedge",
-    "link": "https://straighted.ge/"
+    "link": "https://straighted.ge"
   },
   "552": {
     "index": "552",
@@ -3846,14 +3844,13 @@ module.exports = {
     "hex": "0x80000229",
     "symbol": "HBC",
     "name": "HuobiChain",
-    "link": "https://www.huobichain.com/"
+    "link": "https://www.huobichain.com"
   },
   "554": {
     "index": "554",
     "hex": "0x8000022a",
-    "symbol": "SPARK",
-    "name": "Flare Spark",
-    "link": "https://flare.xyz/"
+    "symbol": "---",
+    "name": "reserved"
   },
   "555": {
     "index": "555",
@@ -3874,7 +3871,7 @@ module.exports = {
     "hex": "0x8000022d",
     "symbol": "LKR",
     "name": "Lkrcoin",
-    "link": "https://lkrcoin.io/"
+    "link": "https://lkrcoin.io"
   },
   "558": {
     "index": "558",
@@ -3886,384 +3883,443 @@ module.exports = {
   "559": {
     "index": "559",
     "hex": "0x8000022f",
-    "symbol": "",
-    "name": ""
+    "symbol": "XWC",
+    "name": "Whitecoin",
+    "link": "https://www.whitecoin.info"
   },
   "560": {
     "index": "560",
     "hex": "0x80000230",
     "symbol": "DEAL",
     "name": "DEAL",
-    "link": "https://idealcash.io/"
+    "link": "https://idealcash.io"
   },
   "561": {
     "index": "561",
     "hex": "0x80000231",
     "symbol": "NTY",
     "name": "Nexty",
-    "link": "https://nexty.io/"
+    "link": "https://nexty.io"
   },
   "562": {
     "index": "562",
     "hex": "0x80000232",
-    "symbol": "",
-    "name": ""
+    "symbol": "TOP",
+    "name": "TOP NetWork",
+    "link": "https://www.topnetwork.org"
   },
   "563": {
     "index": "563",
     "hex": "0x80000233",
-    "symbol": "",
-    "name": ""
+    "symbol": "STARS",
+    "name": "Stargaze",
+    "link": "https://www.stargaze.fi"
   },
   "564": {
     "index": "564",
     "hex": "0x80000234",
-    "symbol": "",
-    "name": ""
+    "symbol": "AG",
+    "name": "Agoric",
+    "link": "https://agoric.com"
   },
   "565": {
     "index": "565",
     "hex": "0x80000235",
-    "symbol": "",
-    "name": ""
+    "symbol": "CICO",
+    "name": "Coinicles",
+    "link": "https://github.com/coinicles/cico"
   },
   "566": {
     "index": "566",
     "hex": "0x80000236",
-    "symbol": "",
-    "name": ""
+    "symbol": "IRIS",
+    "name": "Irisnet",
+    "link": "https://www.irisnet.org"
   },
   "567": {
     "index": "567",
     "hex": "0x80000237",
-    "symbol": "",
-    "name": ""
+    "symbol": "NCG",
+    "name": "Nine Chronicles",
+    "link": "https://nine-chronicles.com"
   },
   "568": {
     "index": "568",
     "hex": "0x80000238",
-    "symbol": "",
-    "name": ""
+    "symbol": "LRG",
+    "name": "Large Coin",
+    "link": "https://www.largocoin.io"
   },
   "569": {
     "index": "569",
     "hex": "0x80000239",
-    "symbol": "",
-    "name": ""
+    "symbol": "SERO",
+    "name": "Super Zero Protocol",
+    "link": "https://sero.cash"
   },
   "570": {
     "index": "570",
     "hex": "0x8000023a",
-    "symbol": "",
-    "name": ""
+    "symbol": "BDX",
+    "name": "Beldex",
+    "link": "https://www.beldex.io"
   },
   "571": {
     "index": "571",
     "hex": "0x8000023b",
-    "symbol": "",
-    "name": ""
+    "symbol": "CCXX",
+    "name": "Counos X",
+    "link": "https://www.counos.io/CounosX"
   },
   "572": {
     "index": "572",
     "hex": "0x8000023c",
-    "symbol": "",
-    "name": ""
+    "symbol": "SLS",
+    "name": "Saluscoin",
+    "link": "https://saluscoin.info"
   },
   "573": {
     "index": "573",
     "hex": "0x8000023d",
-    "symbol": "",
-    "name": ""
+    "symbol": "SRM",
+    "name": "Serum",
+    "link": "https://projectserum.com"
   },
   "574": {
     "index": "574",
     "hex": "0x8000023e",
-    "symbol": "",
-    "name": ""
+    "symbol": "VLX",
+    "name": "Velas",
+    "link": "https://velas.com"
   },
   "575": {
     "index": "575",
     "hex": "0x8000023f",
-    "symbol": "",
-    "name": ""
+    "symbol": "VIVT",
+    "name": "VIDT Datalink",
+    "link": "https://about.v-id.org"
   },
   "576": {
     "index": "576",
     "hex": "0x80000240",
-    "symbol": "",
-    "name": ""
+    "symbol": "BPS",
+    "name": "BitcoinPoS",
+    "link": "https://bitcoinpos.net"
   },
   "577": {
     "index": "577",
     "hex": "0x80000241",
-    "symbol": "",
-    "name": ""
+    "symbol": "NKN",
+    "name": "NKN",
+    "link": "https://www.nkn.org"
   },
   "578": {
     "index": "578",
     "hex": "0x80000242",
-    "symbol": "",
-    "name": ""
+    "symbol": "ICL",
+    "name": "ILCOIN",
+    "link": "https://ilcoincrypto.com"
   },
   "579": {
     "index": "579",
     "hex": "0x80000243",
-    "symbol": "",
-    "name": ""
+    "symbol": "BONO",
+    "name": "Bonorum",
+    "link": "https://www.bonorum.io"
   },
   "580": {
     "index": "580",
     "hex": "0x80000244",
-    "symbol": "",
-    "name": ""
+    "symbol": "PLC",
+    "name": "PLATINCOIN",
+    "link": "https://platincoin.com/en"
   },
   "581": {
     "index": "581",
     "hex": "0x80000245",
-    "symbol": "",
-    "name": ""
+    "symbol": "DUN",
+    "name": "Dune",
+    "link": "https://dune.network"
   },
   "582": {
     "index": "582",
     "hex": "0x80000246",
-    "symbol": "",
-    "name": ""
+    "symbol": "DMCH",
+    "name": "Darmacash",
+    "link": "https://www.darmacash.com"
   },
   "583": {
     "index": "583",
     "hex": "0x80000247",
-    "symbol": "",
-    "name": ""
+    "symbol": "CTC",
+    "name": "Creditcoin",
+    "link": "https://www.creditcoin.org"
   },
   "584": {
     "index": "584",
     "hex": "0x80000248",
-    "symbol": "",
-    "name": ""
+    "symbol": "KELP",
+    "name": "Haidai Network",
+    "link": "https://haidai.one"
   },
   "585": {
     "index": "585",
     "hex": "0x80000249",
-    "symbol": "",
-    "name": ""
+    "symbol": "GBCR",
+    "name": "GoldBCR",
+    "link": "https://goldbcr.io"
   },
   "586": {
     "index": "586",
     "hex": "0x8000024a",
-    "symbol": "",
-    "name": ""
+    "symbol": "XDAG",
+    "name": "XDAG",
+    "link": "https://xdag.io"
   },
   "587": {
     "index": "587",
     "hex": "0x8000024b",
-    "symbol": "",
-    "name": ""
+    "symbol": "PRV",
+    "name": "Incognito Privacy",
+    "link": "https://incognito.org"
   },
   "588": {
     "index": "588",
     "hex": "0x8000024c",
-    "symbol": "",
-    "name": ""
+    "symbol": "SCAP",
+    "name": "SafeCapital",
+    "link": "https://www.safecapital.io"
   },
   "589": {
     "index": "589",
     "hex": "0x8000024d",
-    "symbol": "",
-    "name": ""
+    "symbol": "TFUEL",
+    "name": "Theta Fuel",
+    "link": "https://community.theta.tv/tfuel-on-sliver-faq"
   },
   "590": {
     "index": "590",
     "hex": "0x8000024e",
-    "symbol": "",
-    "name": ""
+    "symbol": "GTM",
+    "name": "Gentarium",
+    "link": "https://gtmcoin.io"
   },
   "591": {
     "index": "591",
     "hex": "0x8000024f",
-    "symbol": "",
-    "name": ""
+    "symbol": "RNL",
+    "name": "RentalChain",
+    "link": "https://rentalchain.net"
   },
   "592": {
     "index": "592",
     "hex": "0x80000250",
-    "symbol": "",
-    "name": ""
+    "symbol": "GRIN",
+    "name": "Grin",
+    "link": "https://grin.mw"
   },
   "593": {
     "index": "593",
     "hex": "0x80000251",
-    "symbol": "",
-    "name": ""
+    "symbol": "MWC",
+    "name": "MimbleWimbleCoin",
+    "link": "https://www.mwc.mw"
   },
   "594": {
     "index": "594",
     "hex": "0x80000252",
-    "symbol": "",
-    "name": ""
+    "symbol": "DOCK",
+    "name": "Dock",
+    "link": "https://dock.io"
   },
   "595": {
     "index": "595",
     "hex": "0x80000253",
-    "symbol": "",
-    "name": ""
+    "symbol": "POLYX",
+    "name": "Polymesh",
+    "link": "https://polymath.network"
   },
   "596": {
     "index": "596",
     "hex": "0x80000254",
-    "symbol": "",
-    "name": ""
+    "symbol": "DIVER",
+    "name": "Divergenti",
+    "link": "https://www.divergenti.cl"
   },
   "597": {
     "index": "597",
     "hex": "0x80000255",
-    "symbol": "",
-    "name": ""
+    "symbol": "XEP",
+    "name": "Electra Protocol",
+    "link": "https://www.electraprotocol.com"
   },
   "598": {
     "index": "598",
     "hex": "0x80000256",
-    "symbol": "",
-    "name": ""
+    "symbol": "APN",
+    "name": "Apron",
+    "link": "https://apron.network"
   },
   "599": {
     "index": "599",
     "hex": "0x80000257",
-    "symbol": "",
-    "name": ""
+    "symbol": "TFC",
+    "name": "Turbo File Coin",
+    "link": "http://turbofil.cc"
   },
   "600": {
     "index": "600",
     "hex": "0x80000258",
     "symbol": "UTE",
     "name": "Unit-e",
-    "link": "https://dtr.org/unit-e/"
+    "link": "https://dtr.org/unit-e"
   },
   "601": {
     "index": "601",
     "hex": "0x80000259",
-    "symbol": "",
-    "name": ""
+    "symbol": "MTC",
+    "name": "Metacoin",
+    "link": "https://metacoin.network"
   },
   "602": {
     "index": "602",
     "hex": "0x8000025a",
-    "symbol": "",
-    "name": ""
+    "symbol": "NC",
+    "name": "NobodyCash",
+    "link": "https://nobodycash.world"
   },
   "603": {
     "index": "603",
     "hex": "0x8000025b",
-    "symbol": "",
-    "name": ""
+    "symbol": "XINY",
+    "name": "Xinyuehu",
+    "link": "https://xinyuehu.xyz"
   },
   "604": {
     "index": "604",
     "hex": "0x8000025c",
-    "symbol": "",
-    "name": ""
+    "symbol": "DYN",
+    "name": "Dynamo",
+    "link": "https://www.dynamocoin.org"
   },
   "605": {
     "index": "605",
     "hex": "0x8000025d",
-    "symbol": "",
-    "name": ""
+    "symbol": "BUFS",
+    "name": "Buffer",
+    "link": "https://bufferbufs.com"
   },
   "606": {
     "index": "606",
     "hex": "0x8000025e",
-    "symbol": "",
-    "name": ""
+    "symbol": "STOS",
+    "name": "Stratos",
+    "link": "https://thestratos.org"
   },
   "607": {
     "index": "607",
     "hex": "0x8000025f",
-    "symbol": "",
-    "name": ""
+    "symbol": "TON",
+    "name": "TON",
+    "link": "https://toncoin.org"
   },
   "608": {
     "index": "608",
     "hex": "0x80000260",
-    "symbol": "",
-    "name": ""
+    "symbol": "TAFT",
+    "name": "TAFT",
+    "link": "https://www.tafchain.com"
   },
   "609": {
     "index": "609",
     "hex": "0x80000261",
-    "symbol": "",
-    "name": ""
+    "symbol": "HYDRA",
+    "name": "HYDRA",
+    "link": "https://hydrachain.org"
   },
   "610": {
     "index": "610",
     "hex": "0x80000262",
-    "symbol": "",
-    "name": ""
+    "symbol": "NOR",
+    "name": "Noir",
+    "link": "http://www.noirofficial.org"
   },
   "611": {
     "index": "611",
     "hex": "0x80000263",
     "symbol": "",
-    "name": ""
+    "name": "Manta Network Private Asset",
+    "link": "https://manta.network"
   },
   "612": {
     "index": "612",
     "hex": "0x80000264",
     "symbol": "",
-    "name": ""
+    "name": "Calamari Network Private Asset",
+    "link": "https://calamari.manta.network"
   },
   "613": {
     "index": "613",
     "hex": "0x80000265",
-    "symbol": "",
-    "name": ""
+    "symbol": "WCN",
+    "name": "Widecoin",
+    "link": "https://Widecoin.org"
   },
   "614": {
     "index": "614",
     "hex": "0x80000266",
-    "symbol": "",
-    "name": ""
+    "symbol": "OPT",
+    "name": "Optimistic Ethereum",
+    "link": "https://www.optimism.io"
   },
   "615": {
     "index": "615",
     "hex": "0x80000267",
-    "symbol": "",
-    "name": ""
+    "symbol": "PSWAP",
+    "name": "PolkaSwap",
+    "link": "https://polkaswap.io"
   },
   "616": {
     "index": "616",
     "hex": "0x80000268",
-    "symbol": "",
-    "name": ""
+    "symbol": "VAL",
+    "name": "Validator",
+    "link": "https://sora.org/soratokens"
   },
   "617": {
     "index": "617",
     "hex": "0x80000269",
-    "symbol": "",
-    "name": ""
+    "symbol": "XOR",
+    "name": "Sora",
+    "link": "https://sora.org/soratokens"
   },
   "618": {
     "index": "618",
     "hex": "0x8000026a",
     "symbol": "SSP",
     "name": "SmartShare",
-    "link": "http://www.smartshare.vip/"
+    "link": "http://www.smartshare.vip"
   },
   "619": {
     "index": "619",
     "hex": "0x8000026b",
-    "symbol": "",
-    "name": ""
+    "symbol": "DEI",
+    "name": "DeimosX",
+    "link": "https://deimosx.org"
   },
   "620": {
     "index": "620",
     "hex": "0x8000026c",
-    "symbol": "",
-    "name": ""
+    "symbol": "AXL",
+    "name": "Axelar",
+    "link": "https://axelar.network"
   },
   "621": {
     "index": "621",
     "hex": "0x8000026d",
-    "symbol": "",
-    "name": ""
+    "symbol": "ZERO",
+    "name": "Singularity",
+    "link": "https://www.singularity.gold"
   },
   "622": {
     "index": "622",
@@ -4274,27 +4330,30 @@ module.exports = {
   "623": {
     "index": "623",
     "hex": "0x8000026f",
-    "symbol": "",
-    "name": ""
+    "symbol": "BDCASH",
+    "name": "BDCash Protocol",
+    "link": "https://bdcashprotocol.com"
   },
   "624": {
     "index": "624",
     "hex": "0x80000270",
-    "symbol": "",
-    "name": ""
+    "symbol": "NOBL",
+    "name": "Nobility",
+    "link": "https://github.com/nobilitysociety"
   },
   "625": {
     "index": "625",
     "hex": "0x80000271",
     "symbol": "EAST",
     "name": "Eastcoin",
-    "link": "http://easthub.io/"
+    "link": "http://easthub.io"
   },
   "626": {
     "index": "626",
     "hex": "0x80000272",
-    "symbol": "",
-    "name": ""
+    "symbol": "KDA",
+    "name": "Kadena",
+    "link": "https://kadena.io"
   },
   "627": {
     "index": "627",
@@ -4305,20 +4364,23 @@ module.exports = {
   "628": {
     "index": "628",
     "hex": "0x80000274",
-    "symbol": "",
-    "name": ""
+    "symbol": "LORE",
+    "name": "Gitopia",
+    "link": "https://gitopia.com"
   },
   "629": {
     "index": "629",
     "hex": "0x80000275",
-    "symbol": "",
-    "name": ""
+    "symbol": "FNR",
+    "name": "Fincor",
+    "link": "https://fincor.io"
   },
   "630": {
     "index": "630",
     "hex": "0x80000276",
-    "symbol": "",
-    "name": ""
+    "symbol": "NEXUS",
+    "name": "Nexus",
+    "link": "http://www.thenexus.game"
   },
   "631": {
     "index": "631",
@@ -4371,14 +4433,16 @@ module.exports = {
   "639": {
     "index": "639",
     "hex": "0x8000027f",
-    "symbol": "",
-    "name": ""
+    "symbol": "BTSG",
+    "name": "BitSong",
+    "link": "https://bitsong.io"
   },
   "640": {
     "index": "640",
     "hex": "0x80000280",
-    "symbol": "",
-    "name": ""
+    "symbol": "LFC",
+    "name": "Leofcoin",
+    "link": "https://leofcoin.org"
   },
   "641": {
     "index": "641",
@@ -4395,8 +4459,9 @@ module.exports = {
   "643": {
     "index": "643",
     "hex": "0x80000283",
-    "symbol": "",
-    "name": ""
+    "symbol": "AZERO",
+    "name": "Aleph Zero",
+    "link": "https://alephzero.org"
   },
   "644": {
     "index": "644",
@@ -4413,8 +4478,9 @@ module.exports = {
   "646": {
     "index": "646",
     "hex": "0x80000286",
-    "symbol": "",
-    "name": ""
+    "symbol": "XLN",
+    "name": "Lunarium",
+    "link": "https://www.lunariumcoin.com"
   },
   "647": {
     "index": "647",
@@ -4425,8 +4491,9 @@ module.exports = {
   "648": {
     "index": "648",
     "hex": "0x80000288",
-    "symbol": "",
-    "name": ""
+    "symbol": "ZRB",
+    "name": "Zarb",
+    "link": "https://zarb.network"
   },
   "649": {
     "index": "649",
@@ -4437,8 +4504,9 @@ module.exports = {
   "650": {
     "index": "650",
     "hex": "0x8000028a",
-    "symbol": "",
-    "name": ""
+    "symbol": "UCO",
+    "name": "ARCHEthic",
+    "link": "https://archethic.net"
   },
   "651": {
     "index": "651",
@@ -4497,8 +4565,9 @@ module.exports = {
   "660": {
     "index": "660",
     "hex": "0x80000294",
-    "symbol": "",
-    "name": ""
+    "symbol": "PIRATE",
+    "name": "PirateCash",
+    "link": "https://piratecash.net"
   },
   "661": {
     "index": "661",
@@ -4536,21 +4605,21 @@ module.exports = {
     "hex": "0x8000029a",
     "symbol": "ACT",
     "name": "Achain",
-    "link": "https://www.achain.com/"
+    "link": "https://www.achain.com"
   },
   "667": {
     "index": "667",
     "hex": "0x8000029b",
     "symbol": "PRKL",
     "name": "Perkle",
-    "link": "https://esprezzo.io/"
+    "link": "https://esprezzo.io"
   },
   "668": {
     "index": "668",
     "hex": "0x8000029c",
     "symbol": "SSC",
     "name": "SelfSell",
-    "link": "https://www.selfsell.com/"
+    "link": "https://www.selfsell.com"
   },
   "669": {
     "index": "669",
@@ -4604,14 +4673,16 @@ module.exports = {
   "677": {
     "index": "677",
     "hex": "0x800002a5",
-    "symbol": "",
-    "name": ""
+    "symbol": "YUNGE",
+    "name": "Yunge",
+    "link": "https://yunge.one"
   },
   "678": {
     "index": "678",
     "hex": "0x800002a6",
-    "symbol": "",
-    "name": ""
+    "symbol": "Voken",
+    "name": "Voken",
+    "link": "https://voken.io"
   },
   "679": {
     "index": "679",
@@ -4622,8 +4693,9 @@ module.exports = {
   "680": {
     "index": "680",
     "hex": "0x800002a8",
-    "symbol": "",
-    "name": ""
+    "symbol": "Evrynet",
+    "name": "Evrynet",
+    "link": "https://evrynet.io"
   },
   "681": {
     "index": "681",
@@ -4658,8 +4730,9 @@ module.exports = {
   "686": {
     "index": "686",
     "hex": "0x800002ae",
-    "symbol": "",
-    "name": ""
+    "symbol": "KAR",
+    "name": "Karura Network",
+    "link": "https://karura.network"
   },
   "687": {
     "index": "687",
@@ -4672,7 +4745,7 @@ module.exports = {
     "hex": "0x800002b0",
     "symbol": "CET",
     "name": "CoinEx Chain",
-    "link": "https://www.coinex.org/"
+    "link": "https://www.coinex.org"
   },
   "689": {
     "index": "689",
@@ -4738,8 +4811,9 @@ module.exports = {
   "699": {
     "index": "699",
     "hex": "0x800002bb",
-    "symbol": "",
-    "name": ""
+    "symbol": "GIO",
+    "name": "Gio",
+    "link": "https://github.com/qGio"
   },
   "700": {
     "index": "700",
@@ -4787,8 +4861,9 @@ module.exports = {
   "707": {
     "index": "707",
     "hex": "0x800002c3",
-    "symbol": "",
-    "name": ""
+    "symbol": "MCOIN",
+    "name": "Moneta Coin",
+    "link": "https://moneta.today/monetacoin"
   },
   "708": {
     "index": "708",
@@ -4813,7 +4888,7 @@ module.exports = {
     "hex": "0x800002c7",
     "symbol": "CHC",
     "name": "Chaincoin",
-    "link": "https://www.chaincoin.org/"
+    "link": "https://www.chaincoin.org"
   },
   "712": {
     "index": "712",
@@ -4845,8 +4920,9 @@ module.exports = {
   "716": {
     "index": "716",
     "hex": "0x800002cc",
-    "symbol": "",
-    "name": ""
+    "symbol": "DLN",
+    "name": "Delion",
+    "link": "https://delion.online"
   },
   "717": {
     "index": "717",
@@ -4899,8 +4975,9 @@ module.exports = {
   "725": {
     "index": "725",
     "hex": "0x800002d5",
-    "symbol": "",
-    "name": ""
+    "symbol": "MCX",
+    "name": "MultiCash",
+    "link": "https://multicash.io"
   },
   "726": {
     "index": "726",
@@ -4935,8 +5012,9 @@ module.exports = {
   "731": {
     "index": "731",
     "hex": "0x800002db",
-    "symbol": "",
-    "name": ""
+    "symbol": "BMK",
+    "name": "Bitmark",
+    "link": "https://bitmark.com"
   },
   "732": {
     "index": "732",
@@ -4953,8 +5031,9 @@ module.exports = {
   "734": {
     "index": "734",
     "hex": "0x800002de",
-    "symbol": "",
-    "name": ""
+    "symbol": "DENTX",
+    "name": "DENTNet",
+    "link": "https://www.dentnet.io"
   },
   "735": {
     "index": "735",
@@ -4971,8 +5050,8 @@ module.exports = {
   "737": {
     "index": "737",
     "hex": "0x800002e1",
-    "symbol": "",
-    "name": ""
+    "symbol": "ATOP",
+    "name": "Financial Blockchain"
   },
   "738": {
     "index": "738",
@@ -5031,8 +5110,9 @@ module.exports = {
   "747": {
     "index": "747",
     "hex": "0x800002eb",
-    "symbol": "",
-    "name": ""
+    "symbol": "RAD",
+    "name": "Centrifuge",
+    "link": "https://centrifuge.io"
   },
   "748": {
     "index": "748",
@@ -5049,8 +5129,9 @@ module.exports = {
   "750": {
     "index": "750",
     "hex": "0x800002ee",
-    "symbol": "",
-    "name": ""
+    "symbol": "XPRT",
+    "name": "Persistence",
+    "link": "https://persistence.one"
   },
   "751": {
     "index": "751",
@@ -5170,8 +5251,9 @@ module.exports = {
   "770": {
     "index": "770",
     "hex": "0x80000302",
-    "symbol": "",
-    "name": ""
+    "symbol": "COSA",
+    "name": "Cosanta",
+    "link": "https://github.com/cosanta"
   },
   "771": {
     "index": "771",
@@ -5268,26 +5350,30 @@ module.exports = {
   "786": {
     "index": "786",
     "hex": "0x80000312",
-    "symbol": "",
-    "name": ""
+    "symbol": "UIDD",
+    "name": "UIDD",
+    "link": "https://github.com/UIDD/UIDD"
   },
   "787": {
     "index": "787",
     "hex": "0x80000313",
-    "symbol": "",
-    "name": ""
+    "symbol": "ACA",
+    "name": "Acala",
+    "link": "https://acala.network"
   },
   "788": {
     "index": "788",
     "hex": "0x80000314",
-    "symbol": "",
-    "name": ""
+    "symbol": "BNC",
+    "name": "Bifrost",
+    "link": "https://bifrost.finance"
   },
   "789": {
     "index": "789",
     "hex": "0x80000315",
-    "symbol": "",
-    "name": ""
+    "symbol": "TAU",
+    "name": "Lamden",
+    "link": "https://lamden.io"
   },
   "790": {
     "index": "790",
@@ -5354,14 +5440,14 @@ module.exports = {
     "hex": "0x80000320",
     "symbol": "BEET",
     "name": "Beetle Coin",
-    "link": "https://beetlecoin.io/"
+    "link": "https://beetlecoin.io"
   },
   "801": {
     "index": "801",
     "hex": "0x80000321",
     "symbol": "DST",
     "name": "DSTRA",
-    "link": "https://dstra.io/"
+    "link": "https://dstra.io"
   },
   "802": {
     "index": "802",
@@ -5421,8 +5507,9 @@ module.exports = {
   "811": {
     "index": "811",
     "hex": "0x8000032b",
-    "symbol": "",
-    "name": ""
+    "symbol": "DVPN",
+    "name": "Sentinel",
+    "link": "https://sentinel.co"
   },
   "812": {
     "index": "812",
@@ -5465,20 +5552,21 @@ module.exports = {
     "hex": "0x80000332",
     "symbol": "VET",
     "name": "VeChain Token",
-    "link": "https://vechain.com/"
+    "link": "https://vechain.com"
   },
   "819": {
     "index": "819",
     "hex": "0x80000333",
-    "symbol": "",
-    "name": ""
+    "symbol": "REEF",
+    "name": "Reef",
+    "link": "https://reef.io/"
   },
   "820": {
     "index": "820",
     "hex": "0x80000334",
     "symbol": "CLO",
     "name": "Callisto",
-    "link": "http://callisto.network/"
+    "link": "http://callisto.network"
   },
   "821": {
     "index": "821",
@@ -5489,8 +5577,9 @@ module.exports = {
   "822": {
     "index": "822",
     "hex": "0x80000336",
-    "symbol": "",
-    "name": ""
+    "symbol": "BDB",
+    "name": "BigchainDB",
+    "link": "https://github.com/bigchaindb"
   },
   "823": {
     "index": "823",
@@ -5525,8 +5614,9 @@ module.exports = {
   "828": {
     "index": "828",
     "hex": "0x8000033c",
-    "symbol": "",
-    "name": ""
+    "symbol": "CCN",
+    "name": "ComputeCoin",
+    "link": "https://computecoin.network"
   },
   "829": {
     "index": "829",
@@ -5550,104 +5640,121 @@ module.exports = {
   "832": {
     "index": "832",
     "hex": "0x80000340",
-    "symbol": "",
-    "name": ""
+    "symbol": "SAPP",
+    "name": "Sapphire",
+    "link": "https://sappcoin.com"
   },
   "833": {
     "index": "833",
     "hex": "0x80000341",
-    "symbol": "",
-    "name": ""
+    "symbol": "777",
+    "name": "Jackpot",
+    "link": "https://777coin.win"
   },
   "834": {
     "index": "834",
     "hex": "0x80000342",
-    "symbol": "",
-    "name": ""
+    "symbol": "KYAN",
+    "name": "Kyanite",
+    "link": "https://kyancoin.net"
   },
   "835": {
     "index": "835",
     "hex": "0x80000343",
-    "symbol": "",
-    "name": ""
+    "symbol": "AZR",
+    "name": "Azzure",
+    "link": "https://azzurecoin.net"
   },
   "836": {
     "index": "836",
     "hex": "0x80000344",
-    "symbol": "",
-    "name": ""
+    "symbol": "CFL",
+    "name": "CryptoFlow",
+    "link": "https://cryptoflow.eu"
   },
   "837": {
     "index": "837",
     "hex": "0x80000345",
-    "symbol": "",
-    "name": ""
+    "symbol": "DASHD",
+    "name": "Dash Diamond",
+    "link": "https://dashdiamond.net"
   },
   "838": {
     "index": "838",
     "hex": "0x80000346",
-    "symbol": "",
-    "name": ""
+    "symbol": "TRTT",
+    "name": "Trittium",
+    "link": "https://github.com/Trittium/trittium"
   },
   "839": {
     "index": "839",
     "hex": "0x80000347",
-    "symbol": "",
-    "name": ""
+    "symbol": "UCR",
+    "name": "Ultra Clear",
+    "link": "https://ucrcoin.net"
   },
   "840": {
     "index": "840",
     "hex": "0x80000348",
-    "symbol": "",
-    "name": ""
+    "symbol": "PNY",
+    "name": "Peony",
+    "link": "https://github.com/PeonyTeam/peony"
   },
   "841": {
     "index": "841",
     "hex": "0x80000349",
-    "symbol": "",
-    "name": ""
+    "symbol": "BECN",
+    "name": "Beacon",
+    "link": "https://github.com/beaconcrypto/beacon"
   },
   "842": {
     "index": "842",
     "hex": "0x8000034a",
-    "symbol": "",
-    "name": ""
+    "symbol": "MONK",
+    "name": "Monk",
+    "link": "https://monkcoin.net"
   },
   "843": {
     "index": "843",
     "hex": "0x8000034b",
-    "symbol": "",
-    "name": ""
+    "symbol": "SAGA",
+    "name": "CryptoSaga",
+    "link": "https://github.com/cryptosagacoin/SAGA"
   },
   "844": {
     "index": "844",
     "hex": "0x8000034c",
-    "symbol": "",
-    "name": ""
+    "symbol": "SUV",
+    "name": "Suvereno",
+    "link": "https://github.com/decenomy/SUV"
   },
   "845": {
     "index": "845",
     "hex": "0x8000034d",
-    "symbol": "",
-    "name": ""
+    "symbol": "ESK",
+    "name": "EskaCoin",
+    "link": "https://eskacoin.com"
   },
   "846": {
     "index": "846",
     "hex": "0x8000034e",
-    "symbol": "",
-    "name": ""
+    "symbol": "OWO",
+    "name": "OneWorld Coin",
+    "link": "https://oneworldcoin.io"
   },
   "847": {
     "index": "847",
     "hex": "0x8000034f",
-    "symbol": "",
-    "name": ""
+    "symbol": "PEPS",
+    "name": "PEPS Coin",
+    "link": "https://project.peps.today"
   },
   "848": {
     "index": "848",
     "hex": "0x80000350",
-    "symbol": "",
-    "name": ""
+    "symbol": "BIR",
+    "name": "Birake",
+    "link": "https://birake.com"
   },
   "849": {
     "index": "849",
@@ -5677,8 +5784,9 @@ module.exports = {
   "853": {
     "index": "853",
     "hex": "0x80000355",
-    "symbol": "",
-    "name": ""
+    "symbol": "PRCY",
+    "name": "PRCY Coin",
+    "link": "https://prcycoin.com"
   },
   "854": {
     "index": "854",
@@ -5755,8 +5863,9 @@ module.exports = {
   "866": {
     "index": "866",
     "hex": "0x80000362",
-    "symbol": "",
-    "name": ""
+    "symbol": "MOB",
+    "name": "MobileCoin",
+    "link": "https://www.mobilecoin.com"
   },
   "867": {
     "index": "867",
@@ -5840,8 +5949,9 @@ module.exports = {
   "880": {
     "index": "880",
     "hex": "0x80000370",
-    "symbol": "",
-    "name": ""
+    "symbol": "LUM",
+    "name": "Lum Network",
+    "link": "https://lum.network"
   },
   "881": {
     "index": "881",
@@ -5858,8 +5968,9 @@ module.exports = {
   "883": {
     "index": "883",
     "hex": "0x80000373",
-    "symbol": "",
-    "name": ""
+    "symbol": "ZBC",
+    "name": "ZooBC",
+    "link": "https://zoobc.com"
   },
   "884": {
     "index": "884",
@@ -5891,21 +6002,21 @@ module.exports = {
     "hex": "0x80000378",
     "symbol": "NEO",
     "name": "NEO",
-    "link": "https://neo.org/"
+    "link": "https://neo.org"
   },
   "889": {
     "index": "889",
     "hex": "0x80000379",
     "symbol": "TOMO",
     "name": "TOMO",
-    "link": "https://tomochain.com/"
+    "link": "https://tomochain.com"
   },
   "890": {
     "index": "890",
     "hex": "0x8000037a",
     "symbol": "XSEL",
     "name": "Seln",
-    "link": "https://selnx.jp/"
+    "link": "https://selnx.jp"
   },
   "891": {
     "index": "891",
@@ -5940,8 +6051,9 @@ module.exports = {
   "896": {
     "index": "896",
     "hex": "0x80000380",
-    "symbol": "",
-    "name": ""
+    "symbol": "LKSC",
+    "name": "LKSCoin",
+    "link": "https://www.lkschain.io"
   },
   "897": {
     "index": "897",
@@ -5958,15 +6070,16 @@ module.exports = {
   "899": {
     "index": "899",
     "hex": "0x80000383",
-    "symbol": "",
-    "name": ""
+    "symbol": "XEC",
+    "name": "eCash",
+    "link": "https://e.cash"
   },
   "900": {
     "index": "900",
     "hex": "0x80000384",
     "symbol": "LMO",
     "name": "Lumeneo",
-    "link": "https://lumeneo.network/"
+    "link": "https://lumeneo.network"
   },
   "901": {
     "index": "901",
@@ -5989,9 +6102,9 @@ module.exports = {
   "904": {
     "index": "904",
     "hex": "0x80000388",
-    "symbol": "",
+    "symbol": "HNT",
     "name": "Helium",
-    "link": "https://helium.com/"
+    "link": "https://helium.com"
   },
   "905": {
     "index": "905",
@@ -6008,8 +6121,9 @@ module.exports = {
   "907": {
     "index": "907",
     "hex": "0x8000038b",
-    "symbol": "",
-    "name": ""
+    "symbol": "FIS",
+    "name": "StaFi",
+    "link": "https://stafi.io"
   },
   "908": {
     "index": "908",
@@ -6020,8 +6134,9 @@ module.exports = {
   "909": {
     "index": "909",
     "hex": "0x8000038d",
-    "symbol": "",
-    "name": ""
+    "symbol": "SAAGE",
+    "name": "Saage",
+    "link": "https://saage.io"
   },
   "910": {
     "index": "910",
@@ -6064,13 +6179,14 @@ module.exports = {
     "hex": "0x80000394",
     "symbol": "META",
     "name": "Metadium",
-    "link": "https://www.metadium.com/"
+    "link": "https://www.metadium.com"
   },
   "917": {
     "index": "917",
     "hex": "0x80000395",
-    "symbol": "",
-    "name": ""
+    "symbol": "FRA",
+    "name": "Findora",
+    "link": "https://www.findora.org"
   },
   "918": {
     "index": "918",
@@ -6117,8 +6233,9 @@ module.exports = {
   "925": {
     "index": "925",
     "hex": "0x8000039d",
-    "symbol": "",
-    "name": ""
+    "symbol": "DIP",
+    "name": "Dipper Network",
+    "link": "https://www.dippernetwork.com"
   },
   "926": {
     "index": "926",
@@ -6298,8 +6415,9 @@ module.exports = {
   "955": {
     "index": "955",
     "hex": "0x800003bb",
-    "symbol": "",
-    "name": ""
+    "symbol": "LTP",
+    "name": "LifetionCoin",
+    "link": "https://cointobanks.com"
   },
   "956": {
     "index": "956",
@@ -6317,7 +6435,8 @@ module.exports = {
     "index": "958",
     "hex": "0x800003be",
     "symbol": "",
-    "name": ""
+    "name": "KickSoccer",
+    "link": "https://kicksoccercoin.com"
   },
   "959": {
     "index": "959",
@@ -6364,8 +6483,9 @@ module.exports = {
   "966": {
     "index": "966",
     "hex": "0x800003c6",
-    "symbol": "",
-    "name": ""
+    "symbol": "MATIC",
+    "name": "Matic",
+    "link": "https://matic.network"
   },
   "967": {
     "index": "967",
@@ -6390,7 +6510,7 @@ module.exports = {
     "hex": "0x800003ca",
     "symbol": "TWINS",
     "name": "TWINS",
-    "link": "https://win.win/"
+    "link": "https://win.win"
   },
   "971": {
     "index": "971",
@@ -6491,20 +6611,23 @@ module.exports = {
   "987": {
     "index": "987",
     "hex": "0x800003db",
-    "symbol": "",
-    "name": ""
+    "symbol": "VCG",
+    "name": "VipCoin.Gold",
+    "link": "https://vipcoin.gold"
   },
   "988": {
     "index": "988",
     "hex": "0x800003dc",
-    "symbol": "",
-    "name": ""
+    "symbol": "XAZAB",
+    "name": "Xazab core",
+    "link": "https://github.com/xazab"
   },
   "989": {
     "index": "989",
     "hex": "0x800003dd",
-    "symbol": "",
-    "name": ""
+    "symbol": "AIOZ",
+    "name": "AIOZ",
+    "link": "https://aioz.network"
   },
   "990": {
     "index": "990",
@@ -6515,8 +6638,9 @@ module.exports = {
   "991": {
     "index": "991",
     "hex": "0x800003df",
-    "symbol": "",
-    "name": ""
+    "symbol": "PEC",
+    "name": "Phoenix",
+    "link": "https://github.com/phoenixchain/phoenix"
   },
   "992": {
     "index": "992",
@@ -6561,42 +6685,98 @@ module.exports = {
     "hex": "0x800003e6",
     "symbol": "LBTC",
     "name": "Lightning Bitcoin",
-    "link": "http://lbtc.io/"
+    "link": "http://lbtc.io"
   },
   "999": {
     "index": "999",
     "hex": "0x800003e7",
     "symbol": "BCD",
     "name": "Bitcoin Diamond",
-    "link": "http://btcd.io/"
+    "link": "http://btcd.io"
   },
   "1000": {
     "index": "1000",
     "hex": "0x800003e8",
     "symbol": "BTN",
     "name": "Bitcoin New",
-    "link": "http://bitcoinnew.org/"
+    "link": "http://bitcoinnew.org"
   },
   "1001": {
     "index": "1001",
     "hex": "0x800003e9",
     "symbol": "TT",
     "name": "ThunderCore",
-    "link": "https://thundercore.com/"
+    "link": "https://thundercore.com"
   },
   "1002": {
     "index": "1002",
     "hex": "0x800003ea",
     "symbol": "BKT",
     "name": "BanKitt",
-    "link": "https://www.bankitt.network/"
+    "link": "https://www.bankitt.network"
+  },
+  "1003": {
+    "index": "1003",
+    "hex": "0x800003eb",
+    "symbol": "NODL",
+    "name": "Nodle",
+    "link": "https://nodle.io"
+  },
+  "1007": {
+    "index": "1007",
+    "hex": "0x800003ef",
+    "symbol": "FTM",
+    "name": "Fantom",
+    "link": "https://fantom.foundation"
+  },
+  "1008": {
+    "index": "1008",
+    "hex": "0x800003f0",
+    "symbol": "RPG",
+    "name": "RPG",
+    "link": "https://rangersprotocol.com"
+  },
+  "1010": {
+    "index": "1010",
+    "hex": "0x800003f2",
+    "symbol": "HT",
+    "name": "Huobi ECO Chain",
+    "link": "https://www.hecochain.com"
+  },
+  "1011": {
+    "index": "1011",
+    "hex": "0x800003f3",
+    "symbol": "ELV",
+    "name": "Eluvio",
+    "link": "https://eluv.io"
+  },
+  "1013": {
+    "index": "1013",
+    "hex": "0x800003f5",
+    "symbol": "BIC",
+    "name": "Beincrypto",
+    "link": "https://beincrypto.org"
+  },
+  "1020": {
+    "index": "1020",
+    "hex": "0x800003fc",
+    "symbol": "EVC",
+    "name": "Evrice",
+    "link": "https://evrice.com"
+  },
+  "1022": {
+    "index": "1022",
+    "hex": "0x800003fe",
+    "symbol": "XRD",
+    "name": "Radix DLT",
+    "link": "https://www.radixdlt.com"
   },
   "1023": {
     "index": "1023",
     "hex": "0x800003ff",
     "symbol": "ONE",
     "name": "HARMONY-ONE",
-    "link": "https://harmony.one/"
+    "link": "https://harmony.one"
   },
   "1024": {
     "index": "1024",
@@ -6631,7 +6811,7 @@ module.exports = {
     "hex": "0x80000457",
     "symbol": "BBC",
     "name": "Big Bitcoin",
-    "link": "http://bigbitcoins.org/"
+    "link": "http://bigbitcoins.org"
   },
   "1120": {
     "index": "1120",
@@ -6652,14 +6832,21 @@ module.exports = {
     "hex": "0x80000468",
     "symbol": "ETSC",
     "name": "Ethereum Social",
-    "link": "https://ethereumsocial.kr/"
+    "link": "https://ethereumsocial.kr"
+  },
+  "1129": {
+    "index": "1129",
+    "hex": "0x80000469",
+    "symbol": "DFI",
+    "name": "DeFiChain",
+    "link": "https://defichain.com"
   },
   "1137": {
     "index": "1137",
     "hex": "0x80000471",
     "symbol": "$DAG",
     "name": "Constellation Labs",
-    "link": "https://constellationnetwork.io/"
+    "link": "https://constellationnetwork.io"
   },
   "1145": {
     "index": "1145",
@@ -6667,6 +6854,27 @@ module.exports = {
     "symbol": "CDY",
     "name": "Bitcoin Candy",
     "link": "http://www.bitcoincandy.one"
+  },
+  "1170": {
+    "index": "1170",
+    "hex": "0x80000492",
+    "symbol": "HOO",
+    "name": "Hoo Smart Chain",
+    "link": "https://www.hoosmartchain.com"
+  },
+  "1234": {
+    "index": "1234",
+    "hex": "0x800004d2",
+    "symbol": "ALPH",
+    "name": "Alephium",
+    "link": "https://github.com/alephium/alephium"
+  },
+  "1285": {
+    "index": "1285",
+    "hex": "0x80000505",
+    "symbol": "MOVR",
+    "name": "Moonriver",
+    "link": "https://github.com/PureStake/moonbeam"
   },
   "1337": {
     "index": "1337",
@@ -6682,6 +6890,12 @@ module.exports = {
     "name": "Hycon",
     "link": "https://hycon.io"
   },
+  "1410": {
+    "index": "1410",
+    "hex": "0x80000582",
+    "symbol": "TENTSLP",
+    "name": "TENT Simple Ledger Protocol"
+  },
   "1524": {
     "index": "1524",
     "hex": "0x800005f4",
@@ -6694,7 +6908,7 @@ module.exports = {
     "hex": "0x800005fd",
     "symbol": "BEAM",
     "name": "Beam",
-    "link": "https://www.beam.mw/"
+    "link": "https://www.beam.mw"
   },
   "1616": {
     "index": "1616",
@@ -6702,6 +6916,13 @@ module.exports = {
     "symbol": "ELF",
     "name": "AELF",
     "link": "https://aelf.io"
+  },
+  "1618": {
+    "index": "1618",
+    "hex": "0x80000652",
+    "symbol": "AUDL",
+    "name": "AUDL",
+    "link": "https://aud.one"
   },
   "1620": {
     "index": "1620",
@@ -6716,6 +6937,13 @@ module.exports = {
     "symbol": "NEW",
     "name": "Newton",
     "link": "https://www.newtonproject.org"
+  },
+  "1657": {
+    "index": "1657",
+    "hex": "0x80000679",
+    "symbol": "BTA",
+    "name": "Btachain",
+    "link": "https://bitcoinasset.io"
   },
   "1688": {
     "index": "1688",
@@ -6736,56 +6964,98 @@ module.exports = {
     "hex": "0x800006f0",
     "symbol": "LBTC",
     "name": "Liquid BTC",
-    "link": "https://blockstream.com/liquid/"
+    "link": "https://blockstream.com/liquid"
+  },
+  "1777": {
+    "index": "1777",
+    "hex": "0x800006f1",
+    "symbol": "BBP",
+    "name": "Biblepay",
+    "link": "https://www.biblepay.org"
+  },
+  "1784": {
+    "index": "1784",
+    "hex": "0x800006f8",
+    "symbol": "JPYS",
+    "name": "JPY Stablecoin",
+    "link": "https://settlenet.io"
+  },
+  "1789": {
+    "index": "1789",
+    "hex": "0x800006fd",
+    "symbol": "VEGA",
+    "name": "Vega Protocol",
+    "link": "https://vega.xyz"
   },
   "1815": {
     "index": "1815",
     "hex": "0x80000717",
     "symbol": "ADA",
     "name": "Cardano",
-    "link": "https://www.cardanohub.org/en/home/"
+    "link": "https://www.cardanohub.org/en/home"
   },
   "1856": {
     "index": "1856",
     "hex": "0x80000743",
     "symbol": "TES",
     "name": "Teslacoin",
-    "link": "https://www.tesla-coin.com/"
+    "link": "https://www.tesla-coin.com"
+  },
+  "1888": {
+    "index": "1888",
+    "hex": "0x80000760",
+    "symbol": "ZTX",
+    "name": "Zetrix",
+    "link": "https://zetrix.com/"
+  },
+  "1899": {
+    "index": "1899",
+    "hex": "0x8000076b",
+    "symbol": "XEC",
+    "name": "eCash token",
+    "link": "https://e.cash"
   },
   "1901": {
     "index": "1901",
     "hex": "0x8000076d",
     "symbol": "CLC",
     "name": "Classica",
-    "link": "https://github.com/classica/"
+    "link": "https://github.com/classica"
   },
   "1919": {
     "index": "1919",
     "hex": "0x8000077f",
     "symbol": "VIPS",
     "name": "VIPSTARCOIN",
-    "link": "https://www.vipstarcoin.jp/"
+    "link": "https://www.vipstarcoin.jp"
   },
   "1926": {
     "index": "1926",
     "hex": "0x80000786",
     "symbol": "CITY",
     "name": "City Coin",
-    "link": "https://city-chain.org/"
+    "link": "https://city-chain.org"
+  },
+  "1955": {
+    "index": "1955",
+    "hex": "0x800007a3",
+    "symbol": "XX",
+    "name": "xx coin",
+    "link": "https://xx.network"
   },
   "1977": {
     "index": "1977",
     "hex": "0x800007b9",
     "symbol": "XMX",
     "name": "Xuma",
-    "link": "http://www.xumacoin.org/"
+    "link": "http://www.xumacoin.org"
   },
   "1984": {
     "index": "1984",
     "hex": "0x800007c0",
     "symbol": "TRTL",
     "name": "TurtleCoin",
-    "link": "https://turtlecoin.lol/"
+    "link": "https://turtlecoin.lol"
   },
   "1987": {
     "index": "1987",
@@ -6799,119 +7069,154 @@ module.exports = {
     "hex": "0x800007c5",
     "symbol": "HODL",
     "name": "HOdlcoin",
-    "link": "https://hodlcoin.com/"
+    "link": "https://hodlcoin.com"
   },
   "1990": {
     "index": "1990",
     "hex": "0x800007c6",
     "symbol": "PHL",
     "name": "Placeholders",
-    "link": "https://placeh.io/"
+    "link": "https://placeh.io"
+  },
+  "1991": {
+    "index": "1991",
+    "hex": "0x800007c7",
+    "symbol": "SC",
+    "name": "Sia",
+    "link": "https://sia.tech"
+  },
+  "1996": {
+    "index": "1996",
+    "hex": "0x800007cc",
+    "symbol": "MYT",
+    "name": "Mineyourtime",
+    "link": "https://mineyourtime.com"
   },
   "1997": {
     "index": "1997",
     "hex": "0x800007cd",
     "symbol": "POLIS",
     "name": "Polis",
-    "link": "https://polispay.org/"
+    "link": "https://polispay.org"
   },
   "1998": {
     "index": "1998",
     "hex": "0x800007ce",
     "symbol": "XMCC",
     "name": "Monoeci",
-    "link": "https://monoeci.io/"
+    "link": "https://monoeci.io"
   },
   "1999": {
     "index": "1999",
     "hex": "0x800007cf",
     "symbol": "COLX",
     "name": "ColossusXT",
-    "link": "https://colossusxt.io/"
+    "link": "https://colossusxt.io"
   },
   "2000": {
     "index": "2000",
     "hex": "0x800007d0",
     "symbol": "GIN",
     "name": "GinCoin",
-    "link": "https://gincoin.io/"
+    "link": "https://gincoin.io"
   },
   "2001": {
     "index": "2001",
     "hex": "0x800007d1",
     "symbol": "MNP",
     "name": "MNPCoin",
-    "link": "https://mnpcoin.pro/"
+    "link": "https://mnpcoin.pro"
   },
   "2017": {
     "index": "2017",
     "hex": "0x800007e1",
     "symbol": "KIN",
     "name": "Kin",
-    "link": "https://www.kinecosystem.org/"
+    "link": "https://www.kinecosystem.org"
   },
   "2018": {
     "index": "2018",
     "hex": "0x800007e2",
     "symbol": "EOSC",
     "name": "EOSClassic",
-    "link": "https://eos-classic.io/"
+    "link": "https://eos-classic.io"
   },
   "2019": {
     "index": "2019",
     "hex": "0x800007e3",
     "symbol": "GBT",
     "name": "GoldBean Token",
-    "link": "http://www.adfunds.org/"
+    "link": "http://www.adfunds.org"
   },
   "2020": {
     "index": "2020",
     "hex": "0x800007e4",
     "symbol": "PKC",
     "name": "PKC",
-    "link": "https://www.pkc.ink/"
+    "link": "https://www.pkc.ink"
+  },
+  "2021": {
+    "index": "2021",
+    "hex": "0x800007e5",
+    "symbol": "SKT",
+    "name": "Sukhavati",
+    "link": "https://sukhavati.io"
+  },
+  "2022": {
+    "index": "2022",
+    "hex": "0x800007e6",
+    "symbol": "XHT",
+    "name": "Xinghuo Token",
+    "link": "https://xinghuo.space"
   },
   "2048": {
     "index": "2048",
     "hex": "0x80000800",
     "symbol": "MCASH",
     "name": "MCashChain",
-    "link": "https://mcash.network/"
+    "link": "https://mcash.network"
   },
   "2049": {
     "index": "2049",
     "hex": "0x80000801",
     "symbol": "TRUE",
     "name": "TrueChain",
-    "link": "https://www.truechain.pro/"
+    "link": "https://www.truechain.pro"
   },
   "2112": {
     "index": "2112",
     "hex": "0x80000840",
     "symbol": "IoTE",
     "name": "IoTE",
-    "link": "https://www.iote.one/"
+    "link": "https://www.iote.one"
+  },
+  "2137": {
+    "index": "2137",
+    "hex": "0x80000859",
+    "symbol": "XRG",
+    "name": "Ergon",
+    "link": "https://ergon.moe"
   },
   "2221": {
     "index": "2221",
     "hex": "0x800008ad",
     "symbol": "ASK",
     "name": "ASK",
-    "link": "https://permission.io/"
+    "link": "https://permission.io"
   },
   "2301": {
     "index": "2301",
     "hex": "0x800008fd",
     "symbol": "QTUM",
     "name": "QTUM",
-    "link": "https://qtum.org/en/"
+    "link": "https://qtum.org/en"
   },
   "2302": {
     "index": "2302",
     "hex": "0x800008fe",
     "symbol": "ETP",
     "name": "Metaverse",
-    "link": "https://mvs.org/"
+    "link": "https://mvs.org"
   },
   "2303": {
     "index": "2303",
@@ -6932,35 +7237,35 @@ module.exports = {
     "hex": "0x80000901",
     "symbol": "ELA",
     "name": "Elastos",
-    "link": "https://www.elastos.org/"
+    "link": "https://www.elastos.org"
   },
   "2338": {
     "index": "2338",
     "hex": "0x80000922",
     "symbol": "SNOW",
     "name": "Snowblossom",
-    "link": "https://snowblossom.org/"
+    "link": "https://snowblossom.org"
   },
   "2570": {
     "index": "2570",
     "hex": "0x80000a0a",
     "symbol": "AOA",
     "name": "Aurora",
-    "link": "https://www.aurorachain.io/"
+    "link": "https://www.aurorachain.io"
   },
   "2718": {
     "index": "2718",
     "hex": "0x80000a9e",
     "symbol": "NAS",
     "name": "Nebulas",
-    "link": "https://nebulas.io/"
+    "link": "https://nebulas.io"
   },
   "2894": {
     "index": "2894",
     "hex": "0x80000b4e",
     "symbol": "REOSC",
     "name": "REOSC Ecosystem",
-    "link": "https://www.reosc.io/"
+    "link": "https://www.reosc.io"
   },
   "2941": {
     "index": "2941",
@@ -6974,49 +7279,49 @@ module.exports = {
     "hex": "0x80000bbb",
     "symbol": "LUX",
     "name": "LUX",
-    "link": "https://luxcore.io/"
+    "link": "https://luxcore.io"
   },
   "3030": {
     "index": "3030",
     "hex": "0x80000bd6",
     "symbol": "XHB",
     "name": "Hedera HBAR",
-    "link": "https://www.hedera.com/"
+    "link": "https://www.hedera.com"
   },
   "3077": {
     "index": "3077",
     "hex": "0x80000c05",
     "symbol": "COS",
     "name": "Contentos",
-    "link": "https://www.contentos.io/"
+    "link": "https://www.contentos.io"
   },
   "3276": {
     "index": "3276",
     "hex": "0x80000ccc",
     "symbol": "CCC",
     "name": "CodeChain",
-    "link": "https://codechain.io/"
+    "link": "https://codechain.io"
   },
   "3377": {
     "index": "3377",
     "hex": "0x80000d31",
     "symbol": "ROI",
     "name": "ROIcoin",
-    "link": "https://roi-coin.com/"
+    "link": "https://roi-coin.com"
   },
   "3381": {
     "index": "3381",
     "hex": "0x80000d35",
     "symbol": "DYN",
     "name": "Dynamic",
-    "link": "https://duality.solutions/dynamic/"
+    "link": "https://duality.solutions/dynamic"
   },
   "3383": {
     "index": "3383",
     "hex": "0x80000d37",
     "symbol": "SEQ",
     "name": "Sequence",
-    "link": "https://duality.solutions/sequence/"
+    "link": "https://duality.solutions/sequence"
   },
   "3552": {
     "index": "3552",
@@ -7037,21 +7342,21 @@ module.exports = {
     "hex": "0x80000fc8",
     "symbol": "FC8",
     "name": "FCH Network",
-    "link": "https://fch.network/"
+    "link": "https://fch.network"
   },
   "4096": {
     "index": "4096",
     "hex": "0x80001000",
     "symbol": "YEE",
     "name": "YeeCo",
-    "link": "https://www.yeeco.io/"
+    "link": "https://www.yeeco.io"
   },
   "4218": {
     "index": "4218",
     "hex": "0x8000107a",
     "symbol": "IOTA",
     "name": "IOTA",
-    "link": "https://www.iota.org/"
+    "link": "https://www.iota.org"
   },
   "4242": {
     "index": "4242",
@@ -7095,6 +7400,13 @@ module.exports = {
     "name": "Blockstack",
     "link": "https://github.com/blockstack/blockstack-core"
   },
+  "5895": {
+    "index": "5895",
+    "hex": "0x80001707",
+    "symbol": "VOW",
+    "name": "VowChain VOW",
+    "link": "https://vowchain.net"
+  },
   "5920": {
     "index": "5920",
     "hex": "0x80001720",
@@ -7107,21 +7419,28 @@ module.exports = {
     "hex": "0x800017ac",
     "symbol": "GO",
     "name": "GoChain GO",
-    "link": "https://gochain.io/"
+    "link": "https://gochain.io"
+  },
+  "6174": {
+    "index": "6174",
+    "hex": "0x8000181e",
+    "symbol": "MOI",
+    "name": "My Own Internet",
+    "link": "https://moi-id.life"
   },
   "6666": {
     "index": "6666",
     "hex": "0x80001a0a",
     "symbol": "BPA",
     "name": "Bitcoin Pizza",
-    "link": "http://p.top/"
+    "link": "http://p.top"
   },
   "6688": {
     "index": "6688",
     "hex": "0x80001a20",
     "symbol": "SAFE",
     "name": "SAFE",
-    "link": "http://www.anwang.com/"
+    "link": "http://www.anwang.com"
   },
   "6969": {
     "index": "6969",
@@ -7129,6 +7448,13 @@ module.exports = {
     "symbol": "ROGER",
     "name": "TheHolyrogerCoin",
     "link": "https://github.com/TheHolyRoger/TheHolyRogerCoin"
+  },
+  "7091": {
+    "index": "7091",
+    "hex": "0x80001bb3",
+    "symbol": "TOPL",
+    "name": "Topl",
+    "link": "https://www.topl.co"
   },
   "7777": {
     "index": "7777",
@@ -7144,12 +7470,46 @@ module.exports = {
     "name": "Skycoin",
     "link": "https://www.skycoin.net"
   },
+  "8080": {
+    "index": "8080",
+    "hex": "0x80001f90",
+    "symbol": "",
+    "name": "DSRV",
+    "link": "https://www.dsrvlabs.com"
+  },
+  "8192": {
+    "index": "8192",
+    "hex": "0x80002000",
+    "symbol": "PAC",
+    "name": "pacprotocol",
+    "link": "https://www.pacprotocol.com"
+  },
+  "8217": {
+    "index": "8217",
+    "hex": "0x80002019",
+    "symbol": "KLAY",
+    "name": "KLAY",
+    "link": "https://www.klaytn.com"
+  },
   "8339": {
     "index": "8339",
     "hex": "0x80002093",
     "symbol": "BTQ",
     "name": "BitcoinQuark",
     "link": "https://www.bitcoinquark.org"
+  },
+  "8444": {
+    "index": "8444",
+    "hex": "0x800020fc",
+    "symbol": "XCH",
+    "name": "Chia",
+    "link": "https://www.chia.net"
+  },
+  "8520": {
+    "index": "8520",
+    "hex": "0x80002148",
+    "symbol": "---",
+    "name": "reserved"
   },
   "8888": {
     "index": "8888",
@@ -7172,12 +7532,61 @@ module.exports = {
     "name": "Bitcoin Pay",
     "link": "http://www.btceasypay.com"
   },
+  "9000": {
+    "index": "9000",
+    "hex": "0x80002328",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "link": "https://www.avax.network"
+  },
+  "9001": {
+    "index": "9001",
+    "hex": "0x80002329",
+    "symbol": "ARB",
+    "name": "Arbitrum",
+    "link": "https://arbitrum.io"
+  },
+  "9002": {
+    "index": "9002",
+    "hex": "0x8000232a",
+    "symbol": "BOBA",
+    "name": "Boba",
+    "link": "https://boba.network"
+  },
+  "9003": {
+    "index": "9003",
+    "hex": "0x8000232b",
+    "symbol": "LOOP",
+    "name": "Loopring",
+    "link": "https://loopring.org"
+  },
+  "9004": {
+    "index": "9004",
+    "hex": "0x8000232c",
+    "symbol": "STARK",
+    "name": "Starkware",
+    "link": "https://starkware.co"
+  },
+  "9005": {
+    "index": "9005",
+    "hex": "0x8000232d",
+    "symbol": "AVAXC",
+    "name": "Avalanche C-Chain",
+    "link": "https://www.avax.network"
+  },
+  "9006": {
+    "index": "9006",
+    "hex": "0x8000232e",
+    "symbol": "BSC",
+    "name": "Binance Smart Chain",
+    "link": "https://www.binance.org/en/smartChain"
+  },
   "9797": {
     "index": "9797",
     "hex": "0x80002645",
     "symbol": "NRG",
     "name": "Energi",
-    "link": "https://www.energi.world/"
+    "link": "https://www.energi.world"
   },
   "9888": {
     "index": "9888",
@@ -7198,21 +7607,35 @@ module.exports = {
     "hex": "0x80002710",
     "symbol": "FO",
     "name": "FIBOS",
-    "link": "https://fibos.io/"
+    "link": "https://fibos.io"
+  },
+  "10226": {
+    "index": "10226",
+    "hex": "0x800027f2",
+    "symbol": "RTM",
+    "name": "Raptoreum",
+    "link": "https://raptoreum.com"
   },
   "10291": {
     "index": "10291",
     "hex": "0x80002833",
-    "symbol": "BTR",
-    "name": "Bitcoin Rhodium",
-    "link": "https://www.bitcoinrh.org"
+    "symbol": "XRC",
+    "name": "XRhodium",
+    "link": "https://www.xrhodium.org"
+  },
+  "10605": {
+    "index": "10605",
+    "hex": "0x8000296d",
+    "symbol": "XPI",
+    "name": "Lotus",
+    "link": "https://givelotus.org"
   },
   "11111": {
     "index": "11111",
     "hex": "0x80002b67",
     "symbol": "ESS",
     "name": "Essentia One",
-    "link": "https://essentia.one/"
+    "link": "https://essentia.one"
   },
   "12345": {
     "index": "12345",
@@ -7220,6 +7643,13 @@ module.exports = {
     "symbol": "IPOS",
     "name": "IPOS",
     "link": "https://iposlab.com"
+  },
+  "12586": {
+    "index": "12586",
+    "hex": "0x8000312a",
+    "symbol": "MINA",
+    "name": "Mina",
+    "link": "https://minaprotocol.com"
   },
   "13107": {
     "index": "13107",
@@ -7256,6 +7686,13 @@ module.exports = {
     "name": "Ardor",
     "link": "https://www.jelurida.com"
   },
+  "18000": {
+    "index": "18000",
+    "hex": "0x80004650",
+    "symbol": "MTR",
+    "name": "Meter",
+    "link": "https://Meter.io"
+  },
   "19165": {
     "index": "19165",
     "hex": "0x80004add",
@@ -7266,9 +7703,9 @@ module.exports = {
   "19167": {
     "index": "19167",
     "hex": "0x80004adf",
-    "symbol": "ZEL",
-    "name": "ZelCash",
-    "link": "https://www.zel.cash"
+    "symbol": "FLUX",
+    "name": "Flux",
+    "link": "https://runonflux.io"
   },
   "19169": {
     "index": "19169",
@@ -7282,7 +7719,7 @@ module.exports = {
     "hex": "0x80004e44",
     "symbol": "XND",
     "name": "ndau",
-    "link": "https://ndau.io/"
+    "link": "https://ndau.io"
   },
   "22504": {
     "index": "22504",
@@ -7296,7 +7733,7 @@ module.exports = {
     "hex": "0x800062a4",
     "symbol": "BELL",
     "name": "Bellcoin",
-    "link": "https://bellcoin.web4u.jp/"
+    "link": "https://bellcoin.web4u.jp"
   },
   "25718": {
     "index": "25718",
@@ -7331,56 +7768,77 @@ module.exports = {
     "hex": "0x80008456",
     "symbol": "BTCS",
     "name": "Bitcoin Stake",
-    "link": "http://www.btcscoin.com/"
+    "link": "http://www.btcscoin.com"
   },
   "34952": {
     "index": "34952",
     "hex": "0x80008888",
     "symbol": "BTT",
     "name": "ByteTrade",
-    "link": "https://bytetrade.io/"
+    "link": "https://bytetrade.io"
   },
   "37992": {
     "index": "37992",
     "hex": "0x80009468",
     "symbol": "FXTC",
     "name": "FixedTradeCoin",
-    "link": "https://fixedtradecoin.org/"
+    "link": "https://fixedtradecoin.org"
   },
   "39321": {
     "index": "39321",
     "hex": "0x80009999",
     "symbol": "AMA",
     "name": "Amabig",
-    "link": "https://amabig.com/"
+    "link": "https://amabig.com"
+  },
+  "43028": {
+    "index": "43028",
+    "hex": "0x8000a814",
+    "symbol": "AXIV",
+    "name": "AXIV",
+    "link": "https://phore.io"
   },
   "49262": {
     "index": "49262",
     "hex": "0x8000c06e",
     "symbol": "EVE",
     "name": "evan.network",
-    "link": "https://evan.network/"
+    "link": "https://evan.network"
   },
   "49344": {
     "index": "49344",
     "hex": "0x8000c0c0",
     "symbol": "STASH",
     "name": "STASH",
-    "link": "https://stashpay.io/"
+    "link": "https://stashpay.io"
   },
   "52752": {
     "index": "52752",
     "hex": "0x8000ce10",
     "symbol": "CELO",
     "name": "Celo",
-    "link": "https://celo.org/"
+    "link": "https://celo.org"
   },
   "65536": {
     "index": "65536",
     "hex": "0x80010000",
     "symbol": "KETH",
     "name": "Krypton World",
-    "link": "http:/krypton.world/"
+    "link": "http:/krypton.world"
+  },
+  "69420": {
+    "index": "69420",
+    "hex": "0x80010f2c",
+    "symbol": "GRLC",
+    "name": "Garlicoin",
+    "link": "https://garlicoin.io"
+  },
+  "70007": {
+    "index": "70007",
+    "hex": "0x80011177",
+    "symbol": "GWL",
+    "name": "Gewel",
+    "link": "https://gewel.io"
   },
   "77777": {
     "index": "77777",
@@ -7394,7 +7852,7 @@ module.exports = {
     "hex": "0x80015b38",
     "symbol": "RYO",
     "name": "c0ban",
-    "link": "https://www.c0ban.co/"
+    "link": "https://www.c0ban.co"
   },
   "99999": {
     "index": "99999",
@@ -7402,6 +7860,27 @@ module.exports = {
     "symbol": "WICC",
     "name": "Waykichain",
     "link": "http://www.waykichain.com"
+  },
+  "100500": {
+    "index": "100500",
+    "hex": "0x80018894",
+    "symbol": "HOME",
+    "name": "HomeCoin",
+    "link": "https://homecoin.ru"
+  },
+  "101010": {
+    "index": "101010",
+    "hex": "0x80018a92",
+    "symbol": "STC",
+    "name": "Starcoin",
+    "link": "https://starcoin.org"
+  },
+  "105105": {
+    "index": "105105",
+    "hex": "0x80019a91",
+    "symbol": "STRAX",
+    "name": "Strax",
+    "link": "http://www.stratisplatform.com"
   },
   "200625": {
     "index": "200625",
@@ -7422,7 +7901,26 @@ module.exports = {
     "hex": "0x8003c301",
     "symbol": "ATS",
     "name": "ARTIS sigma1",
-    "link": "https://artis.eco/"
+    "link": "https://artis.eco"
+  },
+  "314159": {
+    "index": "314159",
+    "hex": "0x8004cb2f",
+    "symbol": "PI",
+    "name": "Pi Network",
+    "link": "http://minepi.com"
+  },
+  "333332": {
+    "index": "333332",
+    "hex": "0x80051614",
+    "symbol": "VALUE",
+    "name": "Value Chain"
+  },
+  "333333": {
+    "index": "333333",
+    "hex": "0x80051615",
+    "symbol": "3333",
+    "name": "Pi Value Consensus"
   },
   "424242": {
     "index": "424242",
@@ -7438,12 +7936,19 @@ module.exports = {
     "name": "Vite",
     "link": "https://www.vite.org"
   },
+  "888888": {
+    "index": "888888",
+    "hex": "0x800d9038",
+    "symbol": "SEA",
+    "name": "Second Exchange Alliance",
+    "link": "https://www.seaio.cc"
+  },
   "1171337": {
     "index": "1171337",
     "hex": "0x8011df89",
     "symbol": "ILT",
     "name": "iOlite",
-    "link": "https://iolite.io/"
+    "link": "https://iolite.io"
   },
   "1313114": {
     "index": "1313114",
@@ -7466,19 +7971,26 @@ module.exports = {
     "name": "LAPO",
     "link": "https://lapo.io"
   },
+  "3924011": {
+    "index": "3924011",
+    "hex": "0x803be02b",
+    "symbol": "EPK",
+    "name": "EPIK Protocol",
+    "link": "https://www.epik-protocol.io"
+  },
   "4741444": {
     "index": "4741444",
     "hex": "0x80485944",
     "symbol": "HYD",
     "name": "Hydra Token",
-    "link": "https://iop.global/hydra-token/"
+    "link": "https://iop.global/hydra-token"
   },
   "5249353": {
     "index": "5249353",
     "hex": "0x80501949",
     "symbol": "BCO",
     "name": "BitcoinOre",
-    "link": "http://bitcoinore.org/"
+    "link": "http://bitcoinore.org"
   },
   "5249354": {
     "index": "5249354",
@@ -7492,21 +8004,28 @@ module.exports = {
     "hex": "0x8050544e",
     "symbol": "PTN",
     "name": "PalletOne",
-    "link": "https://pallet.one/"
+    "link": "https://pallet.one"
   },
   "5718350": {
     "index": "5718350",
     "hex": "0x8057414e",
     "symbol": "WAN",
     "name": "Wanchain",
-    "link": "https://wanchain.org/"
+    "link": "https://wanchain.org"
   },
   "5741564": {
     "index": "5741564",
     "hex": "0x80579bfc",
     "symbol": "WAVES",
     "name": "Waves",
-    "link": "https://wavesplatform.com/"
+    "link": "https://wavesplatform.com"
+  },
+  "6517357": {
+    "index": "6517357",
+    "hex": "0x8063726d",
+    "symbol": "CRM",
+    "name": "Creamcoin",
+    "link": "https://explorer.creamcoin.com/"
   },
   "7562605": {
     "index": "7562605",
@@ -7520,7 +8039,14 @@ module.exports = {
     "hex": "0x80737978",
     "symbol": "ION",
     "name": "ION",
-    "link": "https://ionomy.com/"
+    "link": "https://ionomy.com"
+  },
+  "7777777": {
+    "index": "7777777",
+    "hex": "0x8076adf1",
+    "symbol": "FCT",
+    "name": "FirmaChain",
+    "link": "https://www.firmachain.org"
   },
   "7825266": {
     "index": "7825266",
@@ -7534,21 +8060,35 @@ module.exports = {
     "hex": "0x80776773",
     "symbol": "OBSR",
     "name": "OBServer",
-    "link": "https://obsr.org/"
+    "link": "https://obsr.org"
+  },
+  "8163271": {
+    "index": "8163271",
+    "hex": "0x807c8fc7",
+    "symbol": "AFS",
+    "name": "ANFS",
+    "link": "https://www.anfs.network"
+  },
+  "15118976": {
+    "index": "15118976",
+    "hex": "0x80e6b280",
+    "symbol": "XDS",
+    "name": "XDS",
+    "link": "https://github.com/xds-decentralised"
   },
   "61717561": {
     "index": "61717561",
     "hex": "0x83adbc39",
     "symbol": "AQUA",
     "name": "Aquachain",
-    "link": "https://aquachain.github.io/"
+    "link": "https://aquachain.github.io"
   },
   "88888888": {
     "index": "88888888",
     "hex": "0x854c5638",
     "symbol": "HATCH",
     "name": "Hatch",
-    "link": "https://hatch.ga/"
+    "link": "https://hatch.ga"
   },
   "91927009": {
     "index": "91927009",
@@ -7556,6 +8096,20 @@ module.exports = {
     "symbol": "kUSD",
     "name": "kUSD",
     "link": "https://kowala.tech"
+  },
+  "99999996": {
+    "index": "99999996",
+    "hex": "0x85f5e0fc",
+    "symbol": "GENS",
+    "name": "GENS",
+    "link": "https://genshiro.equilibrium.io"
+  },
+  "99999997": {
+    "index": "99999997",
+    "hex": "0x85f5e0fd",
+    "symbol": "EQ",
+    "name": "EQ",
+    "link": "https://equilibrium.io"
   },
   "99999998": {
     "index": "99999998",
@@ -7570,5 +8124,12 @@ module.exports = {
     "symbol": "QKC",
     "name": "QuarkChain",
     "link": "https://www.quarkchain.io"
+  },
+  "608589380": {
+    "index": "608589380",
+    "hex": "0xa4465644",
+    "symbol": "FVDC",
+    "name": "ForumCoin",
+    "link": "https://fvd.nl"
   }
 }
