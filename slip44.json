@@ -6785,6 +6785,13 @@
     "name": "Ontology",
     "link": "https://ont.io"
   },
+  "1025": {
+    "index": "1025",
+    "hex": "0x80000401",
+    "symbol": "CZZ",
+    "name": "Classzz",
+    "link": "https://classzz.com"
+  },
   "1026": {
     "index": "1026",
     "hex": "0x80000402",
