@@ -2253,9 +2253,9 @@
   "326": {
     "index": "326",
     "hex": "0x80000146",
-    "symbol": "LINDA",
-    "name": "Linda Coin",
-    "link": "https://lindacoin.com"
+    "symbol": "MRX",
+    "name": "Metrix Coin",
+    "link": "https://metrixcoin.com"
   },
   "327": {
     "index": "327",
@@ -2743,9 +2743,9 @@
   "396": {
     "index": "396",
     "hex": "0x8000018c",
-    "symbol": "TON",
-    "name": "Free TON",
-    "link": "https://freeton.org"
+    "symbol": "EVER",
+    "name": "Everscale",
+    "link": "https://everscale.network/"
   },
   "397": {
     "index": "397",
@@ -3988,9 +3988,8 @@
   "574": {
     "index": "574",
     "hex": "0x8000023e",
-    "symbol": "VLX",
-    "name": "Velas",
-    "link": "https://velas.com"
+    "symbol": "---",
+    "name": "reserved"
   },
   "575": {
     "index": "575",
@@ -4324,8 +4323,9 @@
   "622": {
     "index": "622",
     "hex": "0x8000026e",
-    "symbol": "",
-    "name": ""
+    "symbol": "ALPHA",
+    "name": "AlphaDAO",
+    "link": "https://www.alphadao.money"
   },
   "623": {
     "index": "623",
@@ -4358,8 +4358,9 @@
   "627": {
     "index": "627",
     "hex": "0x80000273",
-    "symbol": "",
-    "name": ""
+    "symbol": "SOUL",
+    "name": "Phantasma",
+    "link": "https://phantasma.io/"
   },
   "628": {
     "index": "628",
@@ -4385,8 +4386,9 @@
   "631": {
     "index": "631",
     "hex": "0x80000277",
-    "symbol": "",
-    "name": ""
+    "symbol": "QTZ",
+    "name": "Quartz",
+    "link": "https://unique.network/quartz/"
   },
   "632": {
     "index": "632",
@@ -4397,8 +4399,9 @@
   "633": {
     "index": "633",
     "hex": "0x80000279",
-    "symbol": "",
-    "name": ""
+    "symbol": "CALL",
+    "name": "Callchain",
+    "link": "https://www.callchain.cc"
   },
   "634": {
     "index": "634",
@@ -4409,14 +4412,16 @@
   "635": {
     "index": "635",
     "hex": "0x8000027b",
-    "symbol": "",
-    "name": ""
+    "symbol": "POKT",
+    "name": "Pocket Network",
+    "link": "https://www.pokt.network"
   },
   "636": {
     "index": "636",
     "hex": "0x8000027c",
-    "symbol": "",
-    "name": ""
+    "symbol": "EMIT",
+    "name": "EMIT",
+    "link": "https://emit.technology"
   },
   "637": {
     "index": "637",
@@ -4447,14 +4452,16 @@
   "641": {
     "index": "641",
     "hex": "0x80000281",
-    "symbol": "",
-    "name": ""
+    "symbol": "KCS",
+    "name": "KuCoin Shares",
+    "link": "https://kcs.foundation"
   },
   "642": {
     "index": "642",
     "hex": "0x80000282",
-    "symbol": "",
-    "name": ""
+    "symbol": "KCC",
+    "name": "KuCoin Community Chain",
+    "link": "https://kcc.io"
   },
   "643": {
     "index": "643",
@@ -4631,44 +4638,51 @@
   "670": {
     "index": "670",
     "hex": "0x8000029e",
-    "symbol": "",
-    "name": ""
+    "symbol": "PLGR",
+    "name": "Pledger",
+    "link": "https://www.pledger.finance"
   },
   "671": {
     "index": "671",
     "hex": "0x8000029f",
-    "symbol": "",
-    "name": ""
+    "symbol": "MPLGR",
+    "name": "Pledger",
+    "link": "https://www.pledger.finance"
   },
   "672": {
     "index": "672",
     "hex": "0x800002a0",
-    "symbol": "",
-    "name": ""
+    "symbol": "KNOX",
+    "name": "Knox",
+    "link": "https://www.knox.exchange"
   },
   "673": {
     "index": "673",
     "hex": "0x800002a1",
-    "symbol": "",
-    "name": ""
+    "symbol": "ZED",
+    "name": "ZED",
+    "link": "https://zed.network"
   },
   "674": {
     "index": "674",
     "hex": "0x800002a2",
-    "symbol": "",
-    "name": ""
+    "symbol": "CNDL",
+    "name": "Candle",
+    "link": "https://candlelabs.org"
   },
   "675": {
     "index": "675",
     "hex": "0x800002a3",
-    "symbol": "",
-    "name": ""
+    "symbol": "WLKR",
+    "name": "Walker Crypto Innovation Index",
+    "link": "https://wlkr.finance"
   },
   "676": {
     "index": "676",
     "hex": "0x800002a4",
-    "symbol": "",
-    "name": ""
+    "symbol": "WLKRR",
+    "name": "Walker",
+    "link": "https://wlkr.finance"
   },
   "677": {
     "index": "677",
@@ -4687,8 +4701,9 @@
   "679": {
     "index": "679",
     "hex": "0x800002a7",
-    "symbol": "",
-    "name": ""
+    "symbol": "APL",
+    "name": "Apollo",
+    "link": "https://aplfintech.com"
   },
   "680": {
     "index": "680",
@@ -4893,8 +4908,9 @@
   "712": {
     "index": "712",
     "hex": "0x800002c8",
-    "symbol": "",
-    "name": ""
+    "symbol": "SERF",
+    "name": "Serfnet",
+    "link": "https://serfnet.online"
   },
   "713": {
     "index": "713",
@@ -4927,8 +4943,9 @@
   "717": {
     "index": "717",
     "hex": "0x800002cd",
-    "symbol": "",
-    "name": ""
+    "symbol": "BONTE",
+    "name": "Bontecoin",
+    "link": "https://bontecoin.com"
   },
   "718": {
     "index": "718",
@@ -5110,7 +5127,7 @@
   "747": {
     "index": "747",
     "hex": "0x800002eb",
-    "symbol": "RAD",
+    "symbol": "CFG",
     "name": "Centrifuge",
     "link": "https://centrifuge.io"
   },
@@ -5172,8 +5189,9 @@
   "757": {
     "index": "757",
     "hex": "0x800002f5",
-    "symbol": "",
-    "name": ""
+    "symbol": "HONEY",
+    "name": "HoneyWood",
+    "link": "https://honeywood.io"
   },
   "758": {
     "index": "758",
@@ -5283,8 +5301,9 @@
   "775": {
     "index": "775",
     "hex": "0x80000307",
-    "symbol": "",
-    "name": ""
+    "symbol": "PLSR",
+    "name": "Pulsar Coin",
+    "link": "https://github.com/PulsarCoin/Pulsar-Coin-Cryptocurrency"
   },
   "776": {
     "index": "776",
@@ -5314,8 +5333,9 @@
   "780": {
     "index": "780",
     "hex": "0x8000030c",
-    "symbol": "",
-    "name": ""
+    "symbol": "PLCU",
+    "name": "PLC Ultima",
+    "link": "https://plcultima.com/"
   },
   "781": {
     "index": "781",
@@ -5432,8 +5452,9 @@
   "799": {
     "index": "799",
     "hex": "0x8000031f",
-    "symbol": "",
-    "name": ""
+    "symbol": "PDEX",
+    "name": "Polkadex",
+    "link": "https://polkadex.trade"
   },
   "800": {
     "index": "800",
@@ -5495,14 +5516,16 @@
   "809": {
     "index": "809",
     "hex": "0x80000329",
-    "symbol": "",
-    "name": ""
+    "symbol": "SDN",
+    "name": "Shiden Network",
+    "link": "https://shiden.astar.network/"
   },
   "810": {
     "index": "810",
     "hex": "0x8000032a",
-    "symbol": "",
-    "name": ""
+    "symbol": "ASTR",
+    "name": "Astar Network",
+    "link": "https://astar.network"
   },
   "811": {
     "index": "811",
@@ -5759,8 +5782,9 @@
   "849": {
     "index": "849",
     "hex": "0x80000351",
-    "symbol": "",
-    "name": ""
+    "symbol": "MOBIC",
+    "name": "MobilityCoin",
+    "link": "https://github.com/decenomy/MOBIC"
   },
   "850": {
     "index": "850",
@@ -6134,7 +6158,7 @@
   "909": {
     "index": "909",
     "hex": "0x8000038d",
-    "symbol": "SAAGE",
+    "symbol": "SGE",
     "name": "Saage",
     "link": "https://saage.io"
   },
@@ -6197,8 +6221,9 @@
   "919": {
     "index": "919",
     "hex": "0x80000397",
-    "symbol": "",
-    "name": ""
+    "symbol": "CCD",
+    "name": "Concordium",
+    "link": "https://www.concordium.com/"
   },
   "920": {
     "index": "920",
@@ -6331,14 +6356,16 @@
   "941": {
     "index": "941",
     "hex": "0x800003ad",
-    "symbol": "",
-    "name": ""
+    "symbol": "KCN",
+    "name": "Kylacoin",
+    "link": "https://kylacoin.eu.org"
   },
   "942": {
     "index": "942",
     "hex": "0x800003ae",
-    "symbol": "",
-    "name": ""
+    "symbol": "YCN",
+    "name": "Yilacoin",
+    "link": "https://yilacoin.eu.org"
   },
   "943": {
     "index": "943",
@@ -6496,8 +6523,9 @@
   "968": {
     "index": "968",
     "hex": "0x800003c8",
-    "symbol": "",
-    "name": ""
+    "symbol": "UNW",
+    "name": "UNW",
+    "link": "https://unichain.world"
   },
   "969": {
     "index": "969",
@@ -6599,8 +6627,9 @@
   "985": {
     "index": "985",
     "hex": "0x800003d9",
-    "symbol": "",
-    "name": ""
+    "symbol": "AU",
+    "name": "Autonomy",
+    "link": "https://bitmark.com/autonomy"
   },
   "986": {
     "index": "986",
@@ -6785,6 +6814,13 @@
     "name": "Ontology",
     "link": "https://ont.io"
   },
+  "1025": {
+    "index": "1025",
+    "hex": "0x80000401",
+    "symbol": "CZZ",
+    "name": "Classzz",
+    "link": "https://classzz.com/"
+  },
   "1026": {
     "index": "1026",
     "hex": "0x80000402",
@@ -6869,12 +6905,26 @@
     "name": "Alephium",
     "link": "https://github.com/alephium/alephium"
   },
+  "1237": {
+    "index": "1237",
+    "hex": "0x800004d5",
+    "symbol": "",
+    "name": "Nostr",
+    "link": "https://github.com/fiatjaf/nostr"
+  },
   "1285": {
     "index": "1285",
     "hex": "0x80000505",
     "symbol": "MOVR",
     "name": "Moonriver",
     "link": "https://github.com/PureStake/moonbeam"
+  },
+  "1308": {
+    "index": "1308",
+    "hex": "0x8000051c",
+    "symbol": "WEI",
+    "name": "WEI",
+    "link": "https://weicrypto.com"
   },
   "1337": {
     "index": "1337",
@@ -6895,6 +6945,13 @@
     "hex": "0x80000582",
     "symbol": "TENTSLP",
     "name": "TENT Simple Ledger Protocol"
+  },
+  "1512": {
+    "index": "1512",
+    "hex": "0x800005e8",
+    "symbol": "AAC",
+    "name": "Double-A Chain",
+    "link": "https://www.acuteangle.com/"
   },
   "1524": {
     "index": "1524",
@@ -6993,6 +7050,13 @@
     "symbol": "ADA",
     "name": "Cardano",
     "link": "https://www.cardanohub.org/en/home"
+  },
+  "1818": {
+    "index": "1818",
+    "hex": "0x8000071a",
+    "symbol": "CUBE",
+    "name": "Cube Chain Native Token",
+    "link": "https://www.cube.network/"
   },
   "1856": {
     "index": "1856",
@@ -7302,6 +7366,13 @@
     "name": "CodeChain",
     "link": "https://codechain.io"
   },
+  "3333": {
+    "index": "3333",
+    "hex": "0x80000d05",
+    "symbol": "SXP",
+    "name": "Solar",
+    "link": "https://solar.org"
+  },
   "3377": {
     "index": "3377",
     "hex": "0x80000d31",
@@ -7337,6 +7408,13 @@
     "name": "DeStream",
     "link": "https://destream.io"
   },
+  "3601": {
+    "index": "3601",
+    "hex": "0x80000e11",
+    "symbol": "CY",
+    "name": "Cybits",
+    "link": "https://cybits.org"
+  },
   "4040": {
     "index": "4040",
     "hex": "0x80000fc8",
@@ -7358,6 +7436,13 @@
     "name": "IOTA",
     "link": "https://www.iota.org"
   },
+  "4219": {
+    "index": "4219",
+    "hex": "0x8000107b",
+    "symbol": "SMR",
+    "name": "Shimmer",
+    "link": "https://shimmer.network"
+  },
   "4242": {
     "index": "4242",
     "hex": "0x80001092",
@@ -7372,6 +7457,13 @@
     "name": "Symbol",
     "link": "https://github.com/nemtech/catapult-server"
   },
+  "5006": {
+    "index": "5006",
+    "hex": "0x8000138e",
+    "symbol": "SBC",
+    "name": "Senior Block Coin",
+    "link": "https://seniorblockchain.io"
+  },
   "5248": {
     "index": "5248",
     "hex": "0x80001480",
@@ -7385,6 +7477,13 @@
     "symbol": "HNS",
     "name": "Handshake",
     "link": "https://handshake.org"
+  },
+  "5404": {
+    "index": "5404",
+    "hex": "0x8000151c",
+    "symbol": "ISK",
+    "name": "ISKRA",
+    "link": "https://iskra.world"
   },
   "5555": {
     "index": "5555",
@@ -7428,6 +7527,13 @@
     "name": "My Own Internet",
     "link": "https://moi-id.life"
   },
+  "6599": {
+    "index": "6599",
+    "hex": "0x800019c7",
+    "symbol": "RSC",
+    "name": "Royal Sports City",
+    "link": "https://royalsportscity.com"
+  },
   "6666": {
     "index": "6666",
     "hex": "0x80001a0a",
@@ -7455,6 +7561,13 @@
     "symbol": "TOPL",
     "name": "Topl",
     "link": "https://www.topl.co"
+  },
+  "7341": {
+    "index": "7341",
+    "hex": "0x80001cad",
+    "symbol": "SHFT",
+    "name": "Shyft",
+    "link": "https://shyft.network"
   },
   "7777": {
     "index": "7777",
@@ -7542,7 +7655,7 @@
   "9001": {
     "index": "9001",
     "hex": "0x80002329",
-    "symbol": "ARB",
+    "symbol": "ARB1",
     "name": "Arbitrum",
     "link": "https://arbitrum.io"
   },
@@ -7563,9 +7676,9 @@
   "9004": {
     "index": "9004",
     "hex": "0x8000232c",
-    "symbol": "STARK",
-    "name": "Starkware",
-    "link": "https://starkware.co"
+    "symbol": "STRK",
+    "name": "StarkNet",
+    "link": "https://starknet.io"
   },
   "9005": {
     "index": "9005",
@@ -7721,6 +7834,13 @@
     "name": "ndau",
     "link": "https://ndau.io"
   },
+  "21004": {
+    "index": "21004",
+    "hex": "0x8000520c",
+    "symbol": "C4EI",
+    "name": "c4ei",
+    "link": "https://c4ei.net"
+  },
   "22504": {
     "index": "22504",
     "hex": "0x800057e8",
@@ -7791,6 +7911,13 @@
     "name": "Amabig",
     "link": "https://amabig.com"
   },
+  "42069": {
+    "index": "42069",
+    "hex": "0x8000a455",
+    "symbol": "FACT",
+    "name": "FACT0RN",
+    "link": "https://github.com/FACT0RN/FACT0RN"
+  },
   "43028": {
     "index": "43028",
     "hex": "0x8000a814",
@@ -7818,6 +7945,13 @@
     "symbol": "CELO",
     "name": "Celo",
     "link": "https://celo.org"
+  },
+  "61616": {
+    "index": "61616",
+    "hex": "0x8000f0b0",
+    "symbol": "TH",
+    "name": "TianHe",
+    "link": "http://tianhe.io"
   },
   "65536": {
     "index": "65536",
@@ -7943,6 +8077,13 @@
     "name": "Second Exchange Alliance",
     "link": "https://www.seaio.cc"
   },
+  "1048576": {
+    "index": "1048576",
+    "hex": "0x80100000",
+    "symbol": "AMAX",
+    "name": "Armonia Meta Chain",
+    "link": "https://amax.network"
+  },
   "1171337": {
     "index": "1171337",
     "hex": "0x8011df89",
@@ -8006,6 +8147,13 @@
     "name": "PalletOne",
     "link": "https://pallet.one"
   },
+  "5655640": {
+    "index": "5655640",
+    "hex": "0x80564c58",
+    "symbol": "VLX",
+    "name": "Velas",
+    "link": "https://velas.com"
+  },
   "5718350": {
     "index": "5718350",
     "hex": "0x8057414e",
@@ -8019,6 +8167,20 @@
     "symbol": "WAVES",
     "name": "Waves",
     "link": "https://wavesplatform.com"
+  },
+  "5741565": {
+    "index": "5741565",
+    "hex": "0x80579bfd",
+    "symbol": "WEST",
+    "name": "Waves Enterprise",
+    "link": "https://wavesenterprise.com"
+  },
+  "6382179": {
+    "index": "6382179",
+    "hex": "0x80616263",
+    "symbol": "ABC",
+    "name": "Abcmint",
+    "link": "https://github.com/abcmint/abcmint"
   },
   "6517357": {
     "index": "6517357",
