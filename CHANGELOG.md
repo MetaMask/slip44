@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [2.1.0]
 ### Uncategorized
-- Regenerate SLIP44 JSON ([#3](https://github.com/MetaMask/slip44/pull/3))
+- Update SLIP-44 data ([#3](https://github.com/MetaMask/slip44/pull/3))
+  - Current as of [satoshilabs/slips#34a4034](https://github.com/satoshilabs/slips/blob/34a4034bdf0da30f49b7bb2fe24251c381d739fd/slip-0044.md)
 
 ## [2.0.0]
 ### Added
