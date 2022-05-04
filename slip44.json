@@ -6912,6 +6912,13 @@
     "name": "Nostr",
     "link": "https://github.com/fiatjaf/nostr"
   },
+  "1284": {
+    "index": "1284",
+    "hex": "0x80000504",
+    "symbol": "GLMR",
+    "name": "Moonbeam",
+    "link": "https://github.com/PureStake/moonbeam"
+  },
   "1285": {
     "index": "1285",
     "hex": "0x80000505",
