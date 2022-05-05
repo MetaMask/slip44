@@ -1,12 +1,14 @@
+/* eslint-disable node/no-sync */
 const fs = require('fs');
 const path = require('path');
 
-const slip44Path = path.join(__dirname, 'slip44.md');
-// eslint-disable-next-line node/no-sync
-const slip44 = fs.readFileSync(slip44Path, 'utf8');
+const rawSlip44Path = path.join(__dirname, 'slip44.md');
+const slip44OutputPath = path.join(__dirname, '../slip44.json');
+
+const slip44Content = fs.readFileSync(rawSlip44Path, 'utf8');
 
 const entries = {};
-for (const line of slip44.split('\n')) {
+for (const line of slip44Content.split('\n')) {
   const segments = line.split('|');
   if (segments.length === 4 && /^\d+\s*\|\s*0x[a-z0-9]+\s*\|/iu.test(line)) {
     const [index, hex, symbol, coin] = segments.map((seg) => seg.trim());
@@ -40,5 +42,4 @@ entries[60] = {
   link: 'https://ethereum.org',
 };
 
-// Push to stdout
-console.log(JSON.stringify(entries, null, 2));
+fs.writeFileSync(slip44OutputPath, `${JSON.stringify(entries, null, 2)}\n`);
