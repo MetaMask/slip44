@@ -1,6 +1,7 @@
 # @metamask/slip44
 
-A simple mapping between [SLIP-44](https://github.com/satoshilabs/slips/blob/master/slip-0044.md) identifiers and the associated metadata, parsed directly from the repository linked above.
+A simple mapping between [SLIP-44](https://github.com/satoshilabs/slips/blob/master/slip-0044.md)
+identifiers and the associated metadata, parsed directly from the repository linked above.
 
 ## Usage
 
@@ -35,7 +36,10 @@ type Slip44 = {
 
 ### Building
 
-To fetch the current SLIP-44 specification and re-generate the exported data, run `yarn build`.
+To fetch the current SLIP-44 specification and re-generate the exported data, run `yarn rebuild`.
+
+Note that the `yarn build` command simply rebuilds the JSON file from the raw Markdown committed to this repository.
+`yarn rebuild` re-fetches the markdown (via `yarn fetch`) and then runs `yarn build`.
 
 ### Testing and Linting
 
