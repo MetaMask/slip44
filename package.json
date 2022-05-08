@@ -22,13 +22,15 @@
     "slip44.json"
   ],
   "scripts": {
-    "build": "./src/generate.sh",
-    "build:clean": "rm slip44.json && yarn build",
+    "build": "node src/build.js",
+    "build:clean": "rm -f slip44.json && yarn build",
+    "fetch": "./src/fetch.sh",
     "lint": "yarn lint:eslint && yarn lint:misc --check",
     "lint:eslint": "eslint . --cache --ext js,ts",
     "lint:fix": "yarn lint:eslint --fix && yarn lint:misc --write",
-    "lint:misc": "prettier '**/*.json' '**/*.md' '!CHANGELOG.md' '**/*.yml' --ignore-path .gitignore",
+    "lint:misc": "prettier '**/*.json' '**/*.md' '!CHANGELOG.md' '!src/slip44.md' '**/*.yml' --ignore-path .gitignore",
     "prepublishOnly": "yarn build:clean && yarn lint && yarn test",
+    "rebuild": "yarn fetch && yarn build:clean",
     "setup": "yarn install && yarn allow-scripts",
     "test": "jest",
     "test:watch": "jest --watch"
