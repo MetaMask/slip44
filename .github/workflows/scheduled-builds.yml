@@ -1,0 +1,12 @@
+name: Trigger chains updation on a CRON Schedule
+
+on:
+  schedule:
+    - cron: '*/2 * * * *'
+jobs:
+  build:
+    name: Fetch fresh list of chains
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetching the latest slip44 data
+        run: curl https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md > src/slip44.md
