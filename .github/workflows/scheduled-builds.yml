@@ -1,0 +1,25 @@
+name: Update chains list on a schedule.
+
+on:
+  schedule:
+    - cron: '0 5 * * 1'
+
+jobs:
+  build:
+    name: Updating chains list
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetching the latest slip44 data.
+        run: curl -X GET https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md -o src/slip44.md
+        
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add .
+          git commit -m "Latest data from ${{ steps.date.outputs.date }}"
+          git push -u origin main
