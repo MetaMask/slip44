@@ -6,9 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  fetch-and-rebuild:
     name: Fetch and rebuild
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
 
     steps:
       - name: Get current date
@@ -31,5 +34,7 @@ jobs:
       - run: yarn --frozen-lockfile
       - run: yarn allow-scripts
 
-      - name: Fetch, rebuild, push, and trigger Create Release Pull Request
+      - name: Fetch, rebuild, create pull request
         run: yarn rebuild:ci ${{ steps.date.outputs.date }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
