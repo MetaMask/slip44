@@ -7,13 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [2.2.0]
-### Uncategorized
-- Update with latest data as of 2022-08-07 ([#14](https://github.com/MetaMask/slip44/pull/14))
-- Fix fetch and rebuild workflow ([#13](https://github.com/MetaMask/slip44/pull/13))
-- Implemented a CRON job to fetch the chain list ([#11](https://github.com/MetaMask/slip44/pull/11))
-- Bump @metamask/auto-changelog from 2.6.0 to 2.6.1 ([#9](https://github.com/MetaMask/slip44/pull/9))
-- Bump @metamask/auto-changelog from 2.5.0 to 2.6.0 ([#8](https://github.com/MetaMask/slip44/pull/8))
-- Fix build scripts ([#5](https://github.com/MetaMask/slip44/pull/5))
+### Changed
+- Update with latest SLIP-44 data as of 2022-08-07 ([#14](https://github.com/MetaMask/slip44/pull/14))
 
 ## [2.1.0]
 ### Changed
