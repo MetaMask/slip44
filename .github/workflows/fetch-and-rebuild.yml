@@ -6,9 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  fetch-and-rebuild:
     name: Fetch and rebuild
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Get current date
