@@ -1,6 +1,6 @@
 {
   "name": "@metamask/slip44",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "A simple mapping between slip44 IDs and their network metadata.",
   "keywords": [
     "Blockchain",
