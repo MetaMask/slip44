@@ -13,14 +13,42 @@ on:
       release-version:
         description: 'A specific version to bump to. Mutually exclusive with "release-type".'
         required: false
+  workflow_run:
+    branches: [main]
+    types:
+      - completed
+    workflows: [Fetch and Rebuild]
 
 jobs:
+  check-trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - if: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'failure' }}
+        run: exit 1
+
   create-release-pr:
+    needs: check-trigger
     runs-on: ubuntu-latest
     permissions:
       contents: write
       pull-requests: write
     steps:
+      - name: Set base branch
+        id: set-base-branch
+        run: |
+          input_base_branch=${{ github.event.inputs.base-branch }}
+          base_branch=${input_base_branch:-'main'}
+          echo ::set-output name=BASE_BRANCH::$base_branch
+
+      - name: Set release type
+        id: set-release-type
+        run: |
+          release_type=${{ github.event.inputs.release-type }}
+          if ${{ github.event_name == 'workflow_run' }}; then
+            release_type=${release_type:-'minor'}
+          fi
+          echo ::set-output name=RELEASE_TYPE::$release_type
+
       - uses: actions/checkout@v2
         with:
           # This is to guarantee that the most recent tag is fetched.
@@ -28,7 +56,7 @@ jobs:
           fetch-depth: 0
           # We check out the specified branch, which will be used as the base
           # branch for all git operations and the release PR.
-          ref: ${{ github.event.inputs.base-branch }}
+          ref: ${{ steps.set-base-branch.outputs.BASE_BRANCH }}
       - name: Get Node.js version
         id: nvm
         run: echo ::set-output name=NODE_VERSION::$(cat .nvmrc)
@@ -39,7 +67,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          release-type: ${{ github.event.inputs.release-type }}
+          release-type: ${{ steps.set-release-type.outputs.RELEASE_TYPE }}
           release-version: ${{ github.event.inputs.release-version }}
           artifacts-path: gh-action__release-authors
       # Upload the release author artifact for use in subsequent workflows
