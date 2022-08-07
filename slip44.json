@@ -1414,8 +1414,8 @@
     "index": "206",
     "hex": "0x800000ce",
     "symbol": "ATP",
-    "name": "PlatON",
-    "link": "https://www.platon.network"
+    "name": "Alaya",
+    "link": "https://www.alaya.network"
   },
   "207": {
     "index": "207",
@@ -3374,8 +3374,8 @@
     "index": "486",
     "hex": "0x800001e6",
     "symbol": "LAT",
-    "name": "LatticeX",
-    "link": "https://latticex.foundation"
+    "name": "PlatON",
+    "link": "https://www.platon.network"
   },
   "487": {
     "index": "487",
@@ -4309,9 +4309,8 @@
   "620": {
     "index": "620",
     "hex": "0x8000026c",
-    "symbol": "AXL",
-    "name": "Axelar",
-    "link": "https://axelar.network"
+    "symbol": "---",
+    "name": "reserved"
   },
   "621": {
     "index": "621",
@@ -4330,8 +4329,8 @@
   "623": {
     "index": "623",
     "hex": "0x8000026f",
-    "symbol": "BDCASH",
-    "name": "BDCash Protocol",
+    "symbol": "BDECO",
+    "name": "BDCashProtocol Ecosystem",
     "link": "https://bdcashprotocol.com"
   },
   "624": {
@@ -4426,8 +4425,9 @@
   "637": {
     "index": "637",
     "hex": "0x8000027d",
-    "symbol": "",
-    "name": ""
+    "symbol": "APTOS",
+    "name": "Aptos",
+    "link": "https://aptoslabs.com"
   },
   "638": {
     "index": "638",
@@ -4479,8 +4479,9 @@
   "645": {
     "index": "645",
     "hex": "0x80000285",
-    "symbol": "",
-    "name": ""
+    "symbol": "LX",
+    "name": "Lynx",
+    "link": "https://lynxprotocol.org"
   },
   "646": {
     "index": "646",
@@ -4512,7 +4513,7 @@
     "index": "650",
     "hex": "0x8000028a",
     "symbol": "UCO",
-    "name": "ARCHEthic",
+    "name": "Archethic",
     "link": "https://archethic.net"
   },
   "651": {
@@ -4542,8 +4543,9 @@
   "655": {
     "index": "655",
     "hex": "0x8000028f",
-    "symbol": "",
-    "name": ""
+    "symbol": "WMP",
+    "name": "WAMP",
+    "link": "https://wamp-proto.org/"
   },
   "656": {
     "index": "656",
@@ -4566,8 +4568,9 @@
   "659": {
     "index": "659",
     "hex": "0x80000293",
-    "symbol": "",
-    "name": ""
+    "symbol": "KOIN",
+    "name": "Koinos",
+    "link": "https://koinos.io/"
   },
   "660": {
     "index": "660",
@@ -4715,14 +4718,16 @@
   "681": {
     "index": "681",
     "hex": "0x800002a9",
-    "symbol": "",
-    "name": ""
+    "symbol": "NENG",
+    "name": "Nengcoin",
+    "link": "https://nengcoin.org/"
   },
   "682": {
     "index": "682",
     "hex": "0x800002aa",
-    "symbol": "",
-    "name": ""
+    "symbol": "CHTA",
+    "name": "Cheetahcoin",
+    "link": "https://cheetahcoin.org/"
   },
   "683": {
     "index": "683",
@@ -4771,8 +4776,9 @@
   "690": {
     "index": "690",
     "hex": "0x800002b2",
-    "symbol": "",
-    "name": ""
+    "symbol": "KLV",
+    "name": "KleverChain",
+    "link": "https://klever.finance/kleverchain/"
   },
   "691": {
     "index": "691",
@@ -4795,8 +4801,9 @@
   "694": {
     "index": "694",
     "hex": "0x800002b6",
-    "symbol": "",
-    "name": ""
+    "symbol": "VTBC",
+    "name": "VTB Community",
+    "link": "https://vtbcommunity.org"
   },
   "695": {
     "index": "695",
@@ -4826,9 +4833,9 @@
   "699": {
     "index": "699",
     "hex": "0x800002bb",
-    "symbol": "GIO",
-    "name": "Gio",
-    "link": "https://github.com/qGio"
+    "symbol": "GTB",
+    "name": "GotaBit",
+    "link": "https://github.com/gotabit"
   },
   "700": {
     "index": "700",
@@ -4840,14 +4847,16 @@
   "701": {
     "index": "701",
     "hex": "0x800002bd",
-    "symbol": "",
-    "name": ""
+    "symbol": "COM",
+    "name": "Commercio.network",
+    "link": "https://commercio.network"
   },
   "702": {
     "index": "702",
     "hex": "0x800002be",
-    "symbol": "",
-    "name": ""
+    "symbol": "CCC",
+    "name": "Commercio.network",
+    "link": "https://commercio.network"
   },
   "703": {
     "index": "703",
@@ -5340,8 +5349,9 @@
   "781": {
     "index": "781",
     "hex": "0x8000030d",
-    "symbol": "",
-    "name": ""
+    "symbol": "PLCUX",
+    "name": "PLC Ultima X",
+    "link": "https://plcultima.com/"
   },
   "782": {
     "index": "782",
@@ -5358,8 +5368,9 @@
   "784": {
     "index": "784",
     "hex": "0x80000310",
-    "symbol": "",
-    "name": ""
+    "symbol": "SUI",
+    "name": "Sui",
+    "link": "https://sui.io"
   },
   "785": {
     "index": "785",
@@ -5543,8 +5554,9 @@
   "813": {
     "index": "813",
     "hex": "0x8000032d",
-    "symbol": "",
-    "name": ""
+    "symbol": "MEER",
+    "name": "Qitmeer",
+    "link": "https://github.com/Qitmeer"
   },
   "814": {
     "index": "814",
@@ -5789,8 +5801,9 @@
   "850": {
     "index": "850",
     "hex": "0x80000352",
-    "symbol": "",
-    "name": ""
+    "symbol": "FLS",
+    "name": "Flits",
+    "link": "https://flitswallet.app/"
   },
   "851": {
     "index": "851",
@@ -6088,8 +6101,9 @@
   "898": {
     "index": "898",
     "hex": "0x80000382",
-    "symbol": "",
-    "name": ""
+    "symbol": "AS",
+    "name": "Assetchain",
+    "link": "https://github.com/assetcloud/AssetChain"
   },
   "899": {
     "index": "899",
@@ -6171,8 +6185,9 @@
   "911": {
     "index": "911",
     "hex": "0x8000038f",
-    "symbol": "",
-    "name": ""
+    "symbol": "GERT",
+    "name": "Gert",
+    "link": "https://gert.app"
   },
   "912": {
     "index": "912",
@@ -6579,8 +6594,9 @@
   "977": {
     "index": "977",
     "hex": "0x800003d1",
-    "symbol": "",
-    "name": ""
+    "symbol": "TLOS",
+    "name": "Telos",
+    "link": "https://www.telos.net/"
   },
   "978": {
     "index": "978",
@@ -6680,14 +6696,16 @@
   "993": {
     "index": "993",
     "hex": "0x800003e1",
-    "symbol": "",
-    "name": ""
+    "symbol": "XRB",
+    "name": "X Currency",
+    "link": "https://x-currency.org"
   },
   "994": {
     "index": "994",
     "hex": "0x800003e2",
-    "symbol": "",
-    "name": ""
+    "symbol": "QUAI",
+    "name": "Quai Network",
+    "link": "https://quai.network/"
   },
   "995": {
     "index": "995",
@@ -6750,6 +6768,13 @@
     "symbol": "NODL",
     "name": "Nodle",
     "link": "https://nodle.io"
+  },
+  "1004": {
+    "index": "1004",
+    "hex": "0x800003ec",
+    "symbol": "PCOIN",
+    "name": "PCOIN",
+    "link": "https://github.com/pcoinproject/pcoin"
   },
   "1007": {
     "index": "1007",
@@ -6891,6 +6916,13 @@
     "name": "Bitcoin Candy",
     "link": "http://www.bitcoincandy.one"
   },
+  "1155": {
+    "index": "1155",
+    "hex": "0x80000483",
+    "symbol": "EFI",
+    "name": "Efinity",
+    "link": "https://efinity.io/"
+  },
   "1170": {
     "index": "1170",
     "hex": "0x80000492",
@@ -6952,6 +6984,13 @@
     "hex": "0x80000582",
     "symbol": "TENTSLP",
     "name": "TENT Simple Ledger Protocol"
+  },
+  "1510": {
+    "index": "1510",
+    "hex": "0x800005e6",
+    "symbol": "XSC",
+    "name": "XT Smart Chain",
+    "link": "https://xsc.pub/"
   },
   "1512": {
     "index": "1512",
@@ -7268,6 +7307,13 @@
     "name": "Ergon",
     "link": "https://ergon.moe"
   },
+  "2182": {
+    "index": "2182",
+    "hex": "0x80000888",
+    "symbol": "CHZ",
+    "name": "Chiliz",
+    "link": "https://www.chiliz.com"
+  },
   "2221": {
     "index": "2221",
     "hex": "0x800008ad",
@@ -7316,6 +7362,13 @@
     "symbol": "SNOW",
     "name": "Snowblossom",
     "link": "https://snowblossom.org"
+  },
+  "2365": {
+    "index": "2365",
+    "hex": "0x8000093d",
+    "symbol": "XIN",
+    "name": "Mixin",
+    "link": "https://mixin.one"
   },
   "2570": {
     "index": "2570",
@@ -7492,6 +7545,13 @@
     "name": "ISKRA",
     "link": "https://iskra.world"
   },
+  "5467": {
+    "index": "5467",
+    "hex": "0x8000155B",
+    "symbol": "ALTME",
+    "name": "ALTME",
+    "link": "https://altme.io"
+  },
   "5555": {
     "index": "5555",
     "hex": "0x800015b3",
@@ -7503,8 +7563,8 @@
     "index": "5757",
     "hex": "0x8000167d",
     "symbol": "STX",
-    "name": "Blockstack",
-    "link": "https://github.com/blockstack/blockstack-core"
+    "name": "Stacks",
+    "link": "https://github.com/stacks-network/stacks-blockchain"
   },
   "5895": {
     "index": "5895",
@@ -7554,6 +7614,13 @@
     "symbol": "SAFE",
     "name": "SAFE",
     "link": "http://www.anwang.com"
+  },
+  "6779": {
+    "index": "6779",
+    "hex": "0x80001a7b",
+    "symbol": "COTI",
+    "name": "COTI",
+    "link": "https://coti.io"
   },
   "6969": {
     "index": "6969",
@@ -7868,6 +7935,13 @@
     "symbol": "CHX",
     "name": "Own",
     "link": "https://wallet.weown.com"
+  },
+  "30001": {
+    "index": "30001",
+    "hex": "0x80007531",
+    "symbol": "FLR",
+    "name": "Flare",
+    "link": "https://flare.xyz/"
   },
   "31102": {
     "index": "31102",

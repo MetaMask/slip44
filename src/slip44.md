@@ -234,7 +234,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 203   | 0x800000cb | CNMC   | [Cryptonodes](https://www.cryptonodes.ch)
 204   | 0x800000cc | BCN    | [Bytecoin](http://bytecoin.org)
 205   | 0x800000cd | RIN    | [Ringo](http://dkwzjw.github.io/ringo)
-206   | 0x800000ce | ATP    | [PlatON](https://www.platon.network)
+206   | 0x800000ce | ATP    | [Alaya](https://www.alaya.network)
 207   | 0x800000cf | EVT    | [everiToken](https://everiToken.io)
 208   | 0x800000d0 | ATN    | [ATN](https://atn.io)
 209   | 0x800000d1 | BIS    | [Bismuth](http://www.bismuth.cz)
@@ -514,7 +514,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 483   | 0x800001e3 | BNT    | [Bluzelle Native](https://bluzelle.com)
 484   | 0x800001e4 | AMO    | [AMO Blockchain](https://amo.foundation)
 485   | 0x800001e5 | FCH    | [FreeCash](https://www.freecash.org)
-486   | 0x800001e6 | LAT    | [LatticeX](https://latticex.foundation)
+486   | 0x800001e6 | LAT    | [PlatON](https://www.platon.network)
 487   | 0x800001e7 | COIN   | [Bitcoin Bank](https://github.com/coin-core/coin)
 488   | 0x800001e8 | VEO    | [Amoveo](https://github.com/zack-bitcoin/amoveo)
 489   | 0x800001e9 | CCA    | [Counos Coin](https://counos.io/cousnocoin)
@@ -648,10 +648,10 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 617   | 0x80000269 | XOR    | [Sora](https://sora.org/soratokens)
 618   | 0x8000026a | SSP    | [SmartShare](http://www.smartshare.vip)
 619   | 0x8000026b | DEI    | [DeimosX](https://deimosx.org)
-620   | 0x8000026c | AXL    | [Axelar](https://axelar.network)
+620   | 0x8000026c | ---    | reserved
 621   | 0x8000026d | ZERO   | [Singularity](https://www.singularity.gold)
 622   | 0x8000026e | ALPHA  | [AlphaDAO](https://www.alphadao.money)
-623   | 0x8000026f | BDCASH | [BDCash Protocol](https://bdcashprotocol.com)
+623   | 0x8000026f | BDECO  | [BDCashProtocol Ecosystem](https://bdcashprotocol.com)
 624   | 0x80000270 | NOBL   | [Nobility](https://github.com/nobilitysociety)
 625   | 0x80000271 | EAST   | [Eastcoin](http://easthub.io)
 626   | 0x80000272 | KDA    | [Kadena](https://kadena.io)
@@ -665,29 +665,29 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 634   | 0x8000027a |        |
 635   | 0x8000027b | POKT   | [Pocket Network](https://www.pokt.network)
 636   | 0x8000027c | EMIT   | [EMIT](https://emit.technology)
-637   | 0x8000027d |        |
+637   | 0x8000027d | APTOS  | [Aptos](https://aptoslabs.com)
 638   | 0x8000027e |        |
-639   | 0x8000027f | BTSG   |  [BitSong](https://bitsong.io)
-640   | 0x80000280 | LFC    |  [Leofcoin](https://leofcoin.org)
-641   | 0x80000281 | KCS    |  [KuCoin Shares](https://kcs.foundation)
-642   | 0x80000282 | KCC    |  [KuCoin Community Chain](https://kcc.io)
-643   | 0x80000283 | AZERO  |  [Aleph Zero](https://alephzero.org)
+639   | 0x8000027f | BTSG   | [BitSong](https://bitsong.io)
+640   | 0x80000280 | LFC    | [Leofcoin](https://leofcoin.org)
+641   | 0x80000281 | KCS    | [KuCoin Shares](https://kcs.foundation)
+642   | 0x80000282 | KCC    | [KuCoin Community Chain](https://kcc.io)
+643   | 0x80000283 | AZERO  | [Aleph Zero](https://alephzero.org)
 644   | 0x80000284 |        |
-645   | 0x80000285 |        |
+645   | 0x80000285 | LX     | [Lynx](https://lynxprotocol.org)
 646   | 0x80000286 | XLN    | [Lunarium](https://www.lunariumcoin.com)
 647   | 0x80000287 |        |
 648   | 0x80000288 | ZRB    | [Zarb](https://zarb.network)
 649   | 0x80000289 |        |
-650   | 0x8000028a | UCO    | [ARCHEthic](https://archethic.net)
+650   | 0x8000028a | UCO    | [Archethic](https://archethic.net)
 651   | 0x8000028b |        |
 652   | 0x8000028c |        |
 653   | 0x8000028d |        |
 654   | 0x8000028e |        |
-655   | 0x8000028f |        |
+655   | 0x8000028f | WMP    | [WAMP](https://wamp-proto.org/)
 656   | 0x80000290 |        |
 657   | 0x80000291 |        |
 658   | 0x80000292 |        |
-659   | 0x80000293 |        |
+659   | 0x80000293 | KOIN   | [Koinos](https://koinos.io/)
 660   | 0x80000294 | PIRATE | [PirateCash](https://piratecash.net)
 661   | 0x80000295 |        |
 662   | 0x80000296 |        |
@@ -709,8 +709,8 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 678   | 0x800002a6 | Voken  | [Voken](https://voken.io)
 679   | 0x800002a7 | APL    | [Apollo](https://aplfintech.com)
 680   | 0x800002a8 | Evrynet| [Evrynet](https://evrynet.io)
-681   | 0x800002a9 |        |
-682   | 0x800002aa |        |
+681   | 0x800002a9 | NENG   | [Nengcoin](https://nengcoin.org/)
+682   | 0x800002aa | CHTA   | [Cheetahcoin](https://cheetahcoin.org/)
 683   | 0x800002ab |        |
 684   | 0x800002ac |        |
 685   | 0x800002ad |        |
@@ -718,19 +718,19 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 687   | 0x800002af |        |
 688   | 0x800002b0 | CET    | [CoinEx Chain](https://www.coinex.org)
 689   | 0x800002b1 |        |
-690   | 0x800002b2 |        |
+690   | 0x800002b2 | KLV    | [KleverChain](https://klever.finance/kleverchain/)
 691   | 0x800002b3 |        |
 692   | 0x800002b4 |        |
 693   | 0x800002b5 |        |
-694   | 0x800002b6 |        |
+694   | 0x800002b6 | VTBC   | [VTB Community](https://vtbcommunity.org)
 695   | 0x800002b7 |        |
 696   | 0x800002b8 |        |
 697   | 0x800002b9 |        |
 698   | 0x800002ba | VEIL   | [Veil](https://www.veil-project.com)
-699   | 0x800002bb | GIO    | [Gio](https://github.com/qGio)
+699   | 0x800002bb | GTB    | [GotaBit](https://github.com/gotabit)
 700   | 0x800002bc | XDAI   | [xDai](https://blockscout.com/poa/dai)
-701   | 0x800002bd |        |
-702   | 0x800002be |        |
+701   | 0x800002bd | COM    | [Commercio.network](https://commercio.network)
+702   | 0x800002be | CCC    | [Commercio.network](https://commercio.network)
 703   | 0x800002bf |        |
 704   | 0x800002c0 |        |
 705   | 0x800002c1 |        |
@@ -809,10 +809,10 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 778   | 0x8000030a |        |
 779   | 0x8000030b |        |
 780   | 0x8000030c | PLCU   | [PLC Ultima](https://plcultima.com/)
-781   | 0x8000030d |        |
+781   | 0x8000030d | PLCUX  | [PLC Ultima X](https://plcultima.com/)
 782   | 0x8000030e |        |
 783   | 0x8000030f |        |
-784   | 0x80000310 |        |
+784   | 0x80000310 | SUI    | [Sui](https://sui.io)
 785   | 0x80000311 |        |
 786   | 0x80000312 | UIDD   | [UIDD](https://github.com/UIDD/UIDD)
 787   | 0x80000313 | ACA    | [Acala](https://acala.network)
@@ -841,7 +841,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 810   | 0x8000032a | ASTR   | [Astar Network](https://astar.network)
 811   | 0x8000032b | DVPN   | [Sentinel](https://sentinel.co)
 812   | 0x8000032c |        |
-813   | 0x8000032d |        |
+813   | 0x8000032d | MEER   | [Qitmeer](https://github.com/Qitmeer)
 814   | 0x8000032e |        |
 815   | 0x8000032f |        |
 816   | 0x80000330 |        |
@@ -878,7 +878,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 847   | 0x8000034f | PEPS   | [PEPS Coin](https://project.peps.today)
 848   | 0x80000350 | BIR    | [Birake](https://birake.com)
 849   | 0x80000351 | MOBIC  | [MobilityCoin](https://github.com/decenomy/MOBIC)
-850   | 0x80000352 |        |
+850   | 0x80000352 | FLS    | [Flits](https://flitswallet.app/)
 851   | 0x80000353 |        |
 852   | 0x80000354 | DSM    | [Desmos](https://desmos.network)
 853   | 0x80000355 | PRCY   | [PRCY Coin](https://prcycoin.com)
@@ -926,7 +926,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 895   | 0x8000037f |        |
 896   | 0x80000380 | LKSC   | [LKSCoin](https://www.lkschain.io)
 897   | 0x80000381 |        |
-898   | 0x80000382 |        |
+898   | 0x80000382 | AS     | [Assetchain](https://github.com/assetcloud/AssetChain)
 899   | 0x80000383 | XEC    | [eCash](https://e.cash)
 900   | 0x80000384 | LMO    | [Lumeneo](https://lumeneo.network)
 901   | 0x80000385 |        |
@@ -939,7 +939,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 908   | 0x8000038c |        |
 909   | 0x8000038d | SGE    | [Saage](https://saage.io)
 910   | 0x8000038e |        |
-911   | 0x8000038f |        |
+911   | 0x8000038f | GERT   | [Gert](https://gert.app)
 912   | 0x80000390 |        |
 913   | 0x80000391 |        |
 914   | 0x80000392 |        |
@@ -959,7 +959,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 928   | 0x800003a0 |        |
 929   | 0x800003a1 |        |
 930   | 0x800003a2 |        |
-931   | 0x800003a3 |  RUNE  | [THORChain (RUNE)](https://thorchain.org)
+931   | 0x800003a3 | RUNE   | [THORChain (RUNE)](https://thorchain.org)
 932   | 0x800003a4 |        |
 933   | 0x800003a5 |        |
 934   | 0x800003a6 |        |
@@ -1005,7 +1005,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 974   | 0x800003ce |        |
 975   | 0x800003cf |        |
 976   | 0x800003d0 |        |
-977   | 0x800003d1 |        |
+977   | 0x800003d1 | TLOS   | [Telos](https://www.telos.net/)
 978   | 0x800003d2 |        |
 979   | 0x800003d3 |        |
 980   | 0x800003d4 |        |
@@ -1015,14 +1015,14 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 984   | 0x800003d8 |        |
 985   | 0x800003d9 | AU     | [Autonomy](https://bitmark.com/autonomy)
 986   | 0x800003da |        |
-987   | 0x800003db | VCG    | [VipCoin.Gold](https://vipcoin.gold)  
+987   | 0x800003db | VCG    | [VipCoin.Gold](https://vipcoin.gold)
 988   | 0x800003dc | XAZAB  | [Xazab core](https://github.com/xazab)
 989   | 0x800003dd | AIOZ   | [AIOZ](https://aioz.network)
 990   | 0x800003de |        |
 991   | 0x800003df | PEC    | [Phoenix](https://github.com/phoenixchain/phoenix)
 992   | 0x800003e0 |        |
-993   | 0x800003e1 |        |
-994   | 0x800003e2 |        |
+993   | 0x800003e1 | XRB    | [X Currency](https://x-currency.org)
+994   | 0x800003e2 | QUAI   | [Quai Network](https://quai.network/)
 995   | 0x800003e3 |        |
 996   | 0x800003e4 | OKT    | [OKChain Token](https://www.okex.com/okchain)
 997   | 0x800003e5 | SUM    | [Solidum](https://solidum.network)
@@ -1032,6 +1032,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 1001  | 0x800003e9 | TT     | [ThunderCore](https://thundercore.com)
 1002  | 0x800003ea | BKT    | [BanKitt](https://www.bankitt.network)
 1003  | 0x800003eb | NODL   | [Nodle](https://nodle.io)
+1004  | 0x800003ec | PCOIN  | [PCOIN](https://github.com/pcoinproject/pcoin)
 1007  | 0x800003ef | FTM    | [Fantom](https://fantom.foundation)
 1008  | 0x800003f0 | RPG    | [RPG](https://rangersprotocol.com)
 1010  | 0x800003f2 | HT     | [Huobi ECO Chain](https://www.hecochain.com)
@@ -1052,6 +1053,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 1129  | 0x80000469 | DFI    | [DeFiChain](https://defichain.com)
 1137  | 0x80000471 | $DAG   | [Constellation Labs](https://constellationnetwork.io)
 1145  | 0x80000479 | CDY    | [Bitcoin Candy](http://www.bitcoincandy.one)
+1155  | 0x80000483 | EFI    | [Efinity](https://efinity.io/)
 1170  | 0x80000492 | HOO    | [Hoo Smart Chain](https://www.hoosmartchain.com)
 1234  | 0x800004d2 | ALPH   | [Alephium](https://github.com/alephium/alephium)
 1237  | 0x800004d5 |        | [Nostr](https://github.com/fiatjaf/nostr)
@@ -1061,6 +1063,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 1337  | 0x80000539 | DFC    | [Defcoin](http://defcoin-ng.org)
 1397  | 0x80000575 | HYC    | [Hycon](https://hycon.io)
 1410  | 0x80000582 | TENTSLP| TENT Simple Ledger Protocol
+1510  | 0x800005e6 | XSC    | [XT Smart Chain](https://xsc.pub/)
 1512  | 0x800005e8 | AAC    | [Double-A Chain](https://www.acuteangle.com/)
 1524  | 0x800005f4 |        | [Taler](http://taler.site)
 1533  | 0x800005fd | BEAM   | [Beam](https://www.beam.mw)
@@ -1106,6 +1109,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 2049  | 0x80000801 | TRUE   | [TrueChain](https://www.truechain.pro)
 2112  | 0x80000840 | IoTE   | [IoTE](https://www.iote.one)
 2137  | 0x80000859 | XRG    | [Ergon](https://ergon.moe)
+2182  | 0x80000888 | CHZ    | [Chiliz](https://www.chiliz.com)
 2221  | 0x800008ad | ASK    | [ASK](https://permission.io)
 2301  | 0x800008fd | QTUM   | [QTUM](https://qtum.org/en)
 2302  | 0x800008fe | ETP    | [Metaverse](https://mvs.org)
@@ -1113,6 +1117,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 2304  | 0x80000900 | CRP    | [CranePay](https://cranepay.io)
 2305  | 0x80000901 | ELA    | [Elastos](https://www.elastos.org)
 2338  | 0x80000922 | SNOW   | [Snowblossom](https://snowblossom.org)
+2365  | 0x8000093d | XIN    | [Mixin](https://mixin.one)
 2570  | 0x80000a0a | AOA    | [Aurora](https://www.aurorachain.io)
 2718  | 0x80000a9e | NAS    | [Nebulas](https://nebulas.io)
 2894  | 0x80000b4e | REOSC  | [REOSC Ecosystem](https://www.reosc.io)
@@ -1138,8 +1143,9 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 5248  | 0x80001480 | FIC    | [FIC](https://ficnetwork.com)
 5353  | 0x800014e9 | HNS    | [Handshake](https://handshake.org)
 5404  | 0x8000151c | ISK    | [ISKRA](https://iskra.world)
+5467  | 0x8000155B | ALTME  | [ALTME](https://altme.io)
 5555  | 0x800015b3 | FUND   | [Unification](https://unification.com)
-5757  | 0x8000167d | STX    | [Blockstack](https://github.com/blockstack/blockstack-core)
+5757  | 0x8000167d | STX    | [Stacks](https://github.com/stacks-network/stacks-blockchain)
 5895  | 0x80001707 | VOW    | [VowChain VOW](https://vowchain.net)
 5920  | 0x80001720 | SLU    | [SILUBIUM](https://github.com/SilubiumProject/slucore)
 6060  | 0x800017ac | GO     | [GoChain GO](https://gochain.io)
@@ -1147,6 +1153,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 6599  | 0x800019c7 | RSC    | [Royal Sports City](https://royalsportscity.com)
 6666  | 0x80001a0a | BPA    | [Bitcoin Pizza](http://p.top)
 6688  | 0x80001a20 | SAFE   | [SAFE](http://www.anwang.com)
+6779  | 0x80001a7b | COTI   | [COTI](https://coti.io)
 6969  | 0x80001b39 | ROGER  | [TheHolyrogerCoin](https://github.com/TheHolyRoger/TheHolyRogerCoin)
 7091  | 0x80001bb3 | TOPL   | [Topl](https://www.topl.co)
 7341  | 0x80001cad | SHFT   | [Shyft](https://shyft.network)
@@ -1192,6 +1199,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 22504 | 0x800057e8 | PWR    | [PWRcoin](https://github.com/Plainkoin/PWRcoin)
 25252 | 0x800062a4 | BELL   | [Bellcoin](https://bellcoin.web4u.jp)
 25718 | 0x80006476 | CHX    | [Own](https://wallet.weown.com)
+30001 | 0x80007531 | FLR    | [Flare](https://flare.xyz/)
 31102 | 0x8000797e | ESN    | [EtherSocial Network](https://ethersocial.network)
 31337 | 0x80007a69 |        | [ThePower.io](https://thepower.io)
 33416 | 0x80008288 | TEO    | [Trust Eth reOrigin](https://tao.foundation)
