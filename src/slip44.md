@@ -839,7 +839,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 808   | 0x80000328 | QVT    | [Qvolta](https://qvolta.com)
 809   | 0x80000329 | SDN    | [Shiden Network](https://shiden.astar.network/)
 810   | 0x8000032a | ASTR   | [Astar Network](https://astar.network)
-811   | 0x8000032b | DVPN   | [Sentinel](https://sentinel.co)
+811   | 0x8000032b | ---    | reserved
 812   | 0x8000032c |        |
 813   | 0x8000032d | MEER   | [Qitmeer](https://github.com/Qitmeer)
 814   | 0x8000032e |        |
@@ -988,7 +988,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 957   | 0x800003bd |        |
 958   | 0x800003be |        | [KickSoccer](https://kicksoccercoin.com)
 959   | 0x800003bf |        |
-960   | 0x800003c0 |        |
+960   | 0x800003c0 | VKAX   | [Vkax](https://vkax.xyz)
 961   | 0x800003c1 |        |
 962   | 0x800003c2 |        |
 963   | 0x800003c3 |        |
@@ -1111,6 +1111,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 2137  | 0x80000859 | XRG    | [Ergon](https://ergon.moe)
 2182  | 0x80000888 | CHZ    | [Chiliz](https://www.chiliz.com)
 2221  | 0x800008ad | ASK    | [ASK](https://permission.io)
+2285  | 0x800008ed |        | [Qiyi Chain](https://github.com/qiyichain/peculiar)
 2301  | 0x800008fd | QTUM   | [QTUM](https://qtum.org/en)
 2302  | 0x800008fe | ETP    | [Metaverse](https://mvs.org)
 2303  | 0x800008ff | GXC    | [GXChain](https://www.gxb.io)
