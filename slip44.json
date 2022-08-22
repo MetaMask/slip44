@@ -3911,9 +3911,8 @@
   "563": {
     "index": "563",
     "hex": "0x80000233",
-    "symbol": "STARS",
-    "name": "Stargaze",
-    "link": "https://www.stargaze.fi"
+    "symbol": "---",
+    "name": "reserved"
   },
   "564": {
     "index": "564",
@@ -5541,9 +5540,8 @@
   "811": {
     "index": "811",
     "hex": "0x8000032b",
-    "symbol": "DVPN",
-    "name": "Sentinel",
-    "link": "https://sentinel.co"
+    "symbol": "---",
+    "name": "reserved"
   },
   "812": {
     "index": "812",
@@ -6489,8 +6487,9 @@
   "960": {
     "index": "960",
     "hex": "0x800003c0",
-    "symbol": "",
-    "name": ""
+    "symbol": "VKAX",
+    "name": "Vkax",
+    "link": "https://vkax.xyz"
   },
   "961": {
     "index": "961",
@@ -6690,8 +6689,9 @@
   "992": {
     "index": "992",
     "hex": "0x800003e0",
-    "symbol": "",
-    "name": ""
+    "symbol": "UNT",
+    "name": "Unit",
+    "link": "https://github.com/RebornMetaverse/Unit-reborn"
   },
   "993": {
     "index": "993",
@@ -7321,6 +7321,13 @@
     "name": "ASK",
     "link": "https://permission.io"
   },
+  "2285": {
+    "index": "2285",
+    "hex": "0x800008ed",
+    "symbol": "",
+    "name": "Qiyi Chain",
+    "link": "https://github.com/qiyichain/peculiar"
+  },
   "2301": {
     "index": "2301",
     "hex": "0x800008fd",
@@ -7636,6 +7643,13 @@
     "name": "Topl",
     "link": "https://www.topl.co"
   },
+  "7331": {
+    "index": "7331",
+    "hex": "0x80001ca3",
+    "symbol": "KLY",
+    "name": "KLYNTAR",
+    "link": "https://github.com/KLYN74R"
+  },
   "7341": {
     "index": "7341",
     "hex": "0x80001cad",
@@ -7697,6 +7711,13 @@
     "hex": "0x80002148",
     "symbol": "---",
     "name": "reserved"
+  },
+  "8680": {
+    "index": "8680",
+    "hex": "0x800021e8",
+    "symbol": "PLMNT",
+    "name": "Planetmint",
+    "link": "https://planetmint.io"
   },
   "8888": {
     "index": "8888",
