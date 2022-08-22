@@ -591,7 +591,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 560   | 0x80000230 | DEAL   | [DEAL](https://idealcash.io)
 561   | 0x80000231 | NTY    | [Nexty](https://nexty.io)
 562   | 0x80000232 | TOP    | [TOP NetWork](https://www.topnetwork.org)
-563   | 0x80000233 | STARS  | [Stargaze](https://www.stargaze.fi)
+563   | 0x80000233 | ---    | reserved
 564   | 0x80000234 | AG     | [Agoric](https://agoric.com)
 565   | 0x80000235 | CICO   | [Coinicles](https://github.com/coinicles/cico)
 566   | 0x80000236 | IRIS   | [Irisnet](https://www.irisnet.org)
@@ -839,7 +839,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 808   | 0x80000328 | QVT    | [Qvolta](https://qvolta.com)
 809   | 0x80000329 | SDN    | [Shiden Network](https://shiden.astar.network/)
 810   | 0x8000032a | ASTR   | [Astar Network](https://astar.network)
-811   | 0x8000032b | DVPN   | [Sentinel](https://sentinel.co)
+811   | 0x8000032b | ---    | reserved
 812   | 0x8000032c |        |
 813   | 0x8000032d | MEER   | [Qitmeer](https://github.com/Qitmeer)
 814   | 0x8000032e |        |
@@ -988,7 +988,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 957   | 0x800003bd |        |
 958   | 0x800003be |        | [KickSoccer](https://kicksoccercoin.com)
 959   | 0x800003bf |        |
-960   | 0x800003c0 |        |
+960   | 0x800003c0 | VKAX   | [Vkax](https://vkax.xyz)
 961   | 0x800003c1 |        |
 962   | 0x800003c2 |        |
 963   | 0x800003c3 |        |
@@ -1020,7 +1020,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 989   | 0x800003dd | AIOZ   | [AIOZ](https://aioz.network)
 990   | 0x800003de |        |
 991   | 0x800003df | PEC    | [Phoenix](https://github.com/phoenixchain/phoenix)
-992   | 0x800003e0 |        |
+992   | 0x800003e0 | UNT    | [Unit](https://github.com/RebornMetaverse/Unit-reborn)
 993   | 0x800003e1 | XRB    | [X Currency](https://x-currency.org)
 994   | 0x800003e2 | QUAI   | [Quai Network](https://quai.network/)
 995   | 0x800003e3 |        |
@@ -1111,6 +1111,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 2137  | 0x80000859 | XRG    | [Ergon](https://ergon.moe)
 2182  | 0x80000888 | CHZ    | [Chiliz](https://www.chiliz.com)
 2221  | 0x800008ad | ASK    | [ASK](https://permission.io)
+2285  | 0x800008ed |        | [Qiyi Chain](https://github.com/qiyichain/peculiar)
 2301  | 0x800008fd | QTUM   | [QTUM](https://qtum.org/en)
 2302  | 0x800008fe | ETP    | [Metaverse](https://mvs.org)
 2303  | 0x800008ff | GXC    | [GXChain](https://www.gxb.io)
@@ -1156,6 +1157,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 6779  | 0x80001a7b | COTI   | [COTI](https://coti.io)
 6969  | 0x80001b39 | ROGER  | [TheHolyrogerCoin](https://github.com/TheHolyRoger/TheHolyRogerCoin)
 7091  | 0x80001bb3 | TOPL   | [Topl](https://www.topl.co)
+7331  | 0x80001ca3 | KLY    | [KLYNTAR](https://github.com/KLYN74R)
 7341  | 0x80001cad | SHFT   | [Shyft](https://shyft.network)
 7777  | 0x80001e61 | BTV    | [Bitvote](https://www.bitvote.one)
 8000  | 0x80001f40 | SKY    | [Skycoin](https://www.skycoin.net)
@@ -1165,6 +1167,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 8339  | 0x80002093 | BTQ    | [BitcoinQuark](https://www.bitcoinquark.org)
 8444  | 0x800020fc | XCH    | [Chia](https://www.chia.net)
 8520  | 0x80002148 | ---    | reserved
+8680  | 0x800021e8 | PLMNT  | [Planetmint](https://planetmint.io)
 8888  | 0x800022b8 | SBTC   | [Super Bitcoin](https://www.superbtc.org)
 8964  | 0x80002304 | NULS   | [NULS](https://nuls.io)
 8999  | 0x80002327 | BTP    | [Bitcoin Pay](http://www.btceasypay.com)
