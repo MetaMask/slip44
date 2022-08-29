@@ -660,7 +660,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 629   | 0x80000275 | FNR    | [Fincor](https://fincor.io)
 630   | 0x80000276 | NEXUS  | [Nexus](http://www.thenexus.game)
 631   | 0x80000277 | QTZ    | [Quartz](https://unique.network/quartz/)
-632   | 0x80000278 |        |
+632   | 0x80000278 | XMA    | [Massa](https://massa.net/)
 633   | 0x80000279 | CALL   | [Callchain](https://www.callchain.cc)
 634   | 0x8000027a |        |
 635   | 0x8000027b | POKT   | [Pocket Network](https://www.pokt.network)
@@ -672,7 +672,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 641   | 0x80000281 | KCS    | [KuCoin Shares](https://kcs.foundation)
 642   | 0x80000282 | KCC    | [KuCoin Community Chain](https://kcc.io)
 643   | 0x80000283 | AZERO  | [Aleph Zero](https://alephzero.org)
-644   | 0x80000284 |        |
+644   | 0x80000284 | TREE   | [Tree](https://github.com/thepen2/Tree_CLI)
 645   | 0x80000285 | LX     | [Lynx](https://lynxprotocol.org)
 646   | 0x80000286 | XLN    | [Lunarium](https://www.lunariumcoin.com)
 647   | 0x80000287 |        |

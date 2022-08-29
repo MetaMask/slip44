@@ -4391,8 +4391,9 @@
   "632": {
     "index": "632",
     "hex": "0x80000278",
-    "symbol": "",
-    "name": ""
+    "symbol": "XMA",
+    "name": "Massa",
+    "link": "https://massa.net/"
   },
   "633": {
     "index": "633",
@@ -4472,8 +4473,9 @@
   "644": {
     "index": "644",
     "hex": "0x80000284",
-    "symbol": "",
-    "name": ""
+    "symbol": "TREE",
+    "name": "Tree",
+    "link": "https://github.com/thepen2/Tree_CLI"
   },
   "645": {
     "index": "645",
