@@ -660,7 +660,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 629   | 0x80000275 | FNR    | [Fincor](https://fincor.io)
 630   | 0x80000276 | NEXUS  | [Nexus](http://www.thenexus.game)
 631   | 0x80000277 | QTZ    | [Quartz](https://unique.network/quartz/)
-632   | 0x80000278 |        |
+632   | 0x80000278 | XMA    | [Massa](https://massa.net/)
 633   | 0x80000279 | CALL   | [Callchain](https://www.callchain.cc)
 634   | 0x8000027a |        |
 635   | 0x8000027b | POKT   | [Pocket Network](https://www.pokt.network)
@@ -672,7 +672,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 641   | 0x80000281 | KCS    | [KuCoin Shares](https://kcs.foundation)
 642   | 0x80000282 | KCC    | [KuCoin Community Chain](https://kcc.io)
 643   | 0x80000283 | AZERO  | [Aleph Zero](https://alephzero.org)
-644   | 0x80000284 |        |
+644   | 0x80000284 | TREE   | [Tree](https://github.com/thepen2/Tree_CLI)
 645   | 0x80000285 | LX     | [Lynx](https://lynxprotocol.org)
 646   | 0x80000286 | XLN    | [Lunarium](https://www.lunariumcoin.com)
 647   | 0x80000287 |        |
@@ -949,7 +949,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 918   | 0x80000396 |        |
 919   | 0x80000397 | CCD    | [Concordium](https://www.concordium.com/)
 920   | 0x80000398 |        |
-921   | 0x80000399 |        |
+921   | 0x80000399 | AVN    | [Avian Network](https://www.avn.network/)
 922   | 0x8000039a |        |
 923   | 0x8000039b |        |
 924   | 0x8000039c |        |
@@ -1225,6 +1225,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 100500 | 0x80018894 | HOME   | [HomeCoin](https://homecoin.ru)
 101010 | 0x80018a92 | STC     | [Starcoin](https://starcoin.org)
 105105 | 0x80019a91 | STRAX  | [Strax](http://www.stratisplatform.com)
+161803 | 0x8002780b | APTA   | [Bloqs4Good](https://bloqs4good.com)
 200625 | 0x80030fb1 | AKA    | [Akroma](https://akroma.io)
 200665 | 0x80011000 | GENOM  | [GENOM](https://genom.tech)
 246529 | 0x8003c301 | ATS    | [ARTIS sigma1](https://artis.eco)
@@ -1265,6 +1266,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 99999998 | 0x85f5e0fe | FLUID  | [Fluid Chains](https://www.fluidchains.com)
 99999999 | 0x85f5e0ff | QKC    | [QuarkChain](https://www.quarkchain.io)
 608589380 | 0xa4465644 | FVDC | [ForumCoin](https://fvd.nl)
+1179993420 | 0xc655454c |        | [Fuel](https://www.fuel.network)
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
 

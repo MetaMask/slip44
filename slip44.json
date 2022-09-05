@@ -4391,8 +4391,9 @@
   "632": {
     "index": "632",
     "hex": "0x80000278",
-    "symbol": "",
-    "name": ""
+    "symbol": "XMA",
+    "name": "Massa",
+    "link": "https://massa.net/"
   },
   "633": {
     "index": "633",
@@ -4472,8 +4473,9 @@
   "644": {
     "index": "644",
     "hex": "0x80000284",
-    "symbol": "",
-    "name": ""
+    "symbol": "TREE",
+    "name": "Tree",
+    "link": "https://github.com/thepen2/Tree_CLI"
   },
   "645": {
     "index": "645",
@@ -6247,8 +6249,9 @@
   "921": {
     "index": "921",
     "hex": "0x80000399",
-    "symbol": "",
-    "name": ""
+    "symbol": "AVN",
+    "name": "Avian Network",
+    "link": "https://www.avn.network/"
   },
   "922": {
     "index": "922",
@@ -8118,6 +8121,13 @@
     "name": "Strax",
     "link": "http://www.stratisplatform.com"
   },
+  "161803": {
+    "index": "161803",
+    "hex": "0x8002780b",
+    "symbol": "APTA",
+    "name": "Bloqs4Good",
+    "link": "https://bloqs4good.com"
+  },
   "200625": {
     "index": "200625",
     "hex": "0x80030fb1",
@@ -8395,5 +8405,12 @@
     "symbol": "FVDC",
     "name": "ForumCoin",
     "link": "https://fvd.nl"
+  },
+  "1179993420": {
+    "index": "1179993420",
+    "hex": "0xc655454c",
+    "symbol": "",
+    "name": "Fuel",
+    "link": "https://www.fuel.network"
   }
 }
