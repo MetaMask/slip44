@@ -6713,8 +6713,9 @@
   "995": {
     "index": "995",
     "hex": "0x800003e3",
-    "symbol": "",
-    "name": ""
+    "symbol": "CAPS",
+    "name": "Ternoa",
+    "link": "https://www.ternoa.network/"
   },
   "996": {
     "index": "996",
