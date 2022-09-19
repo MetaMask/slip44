@@ -4849,14 +4849,14 @@
     "index": "701",
     "hex": "0x800002bd",
     "symbol": "COM",
-    "name": "Commercio.network",
+    "name": "Commercio",
     "link": "https://commercio.network"
   },
   "702": {
     "index": "702",
     "hex": "0x800002be",
     "symbol": "CCC",
-    "name": "Commercio.network",
+    "name": "Commercio Cash Credit",
     "link": "https://commercio.network"
   },
   "703": {
@@ -6713,8 +6713,9 @@
   "995": {
     "index": "995",
     "hex": "0x800003e3",
-    "symbol": "",
-    "name": ""
+    "symbol": "CAPS",
+    "name": "Ternoa",
+    "link": "https://www.ternoa.network/"
   },
   "996": {
     "index": "996",
@@ -7939,6 +7940,13 @@
     "name": "c4ei",
     "link": "https://c4ei.net"
   },
+  "21888": {
+    "index": "21888",
+    "hex": "0x80005580",
+    "symbol": "PCT",
+    "name": "Pactus",
+    "link": "https://pactus.org"
+  },
   "22504": {
     "index": "22504",
     "hex": "0x800057e8",
@@ -8120,6 +8128,13 @@
     "symbol": "STRAX",
     "name": "Strax",
     "link": "http://www.stratisplatform.com"
+  },
+  "111111": {
+    "index": "111111",
+    "hex": "0x8001b207",
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "link": "https://kaspa.org"
   },
   "161803": {
     "index": "161803",
