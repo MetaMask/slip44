@@ -729,8 +729,8 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 698   | 0x800002ba | VEIL   | [Veil](https://www.veil-project.com)
 699   | 0x800002bb | GTB    | [GotaBit](https://github.com/gotabit)
 700   | 0x800002bc | XDAI   | [xDai](https://blockscout.com/poa/dai)
-701   | 0x800002bd | COM    | [Commercio.network](https://commercio.network)
-702   | 0x800002be | CCC    | [Commercio.network](https://commercio.network)
+701   | 0x800002bd | COM    | [Commercio](https://commercio.network)
+702   | 0x800002be | CCC    | [Commercio Cash Credit](https://commercio.network)
 703   | 0x800002bf |        |
 704   | 0x800002c0 |        |
 705   | 0x800002c1 |        |
@@ -1023,7 +1023,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 992   | 0x800003e0 | UNT    | [Unit](https://github.com/RebornMetaverse/Unit-reborn)
 993   | 0x800003e1 | XRB    | [X Currency](https://x-currency.org)
 994   | 0x800003e2 | QUAI   | [Quai Network](https://quai.network/)
-995   | 0x800003e3 |        |
+995   | 0x800003e3 | CAPS   | [Ternoa](https://www.ternoa.network/)
 996   | 0x800003e4 | OKT    | [OKChain Token](https://www.okex.com/okchain)
 997   | 0x800003e5 | SUM    | [Solidum](https://solidum.network)
 998   | 0x800003e6 | LBTC   | [Lightning Bitcoin](http://lbtc.io)
@@ -1079,7 +1079,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 1784  | 0x800006f8 | JPYS   | [JPY Stablecoin](https://settlenet.io)
 1789  | 0x800006fd | VEGA   | [Vega Protocol](https://vega.xyz)
 1815  | 0x80000717 | ADA    | [Cardano](https://www.cardanohub.org/en/home)
-1818  | 0x8000071a | CUBE    | [Cube Chain Native Token](https://www.cube.network/)
+1818  | 0x8000071a | CUBE   | [Cube Chain Native Token](https://www.cube.network/)
 1856  | 0x80000743 | TES    | [Teslacoin](https://www.tesla-coin.com)
 1888  | 0x80000760 | ZTX    | [Zetrix](https://zetrix.com/)
 1899  | 0x8000076b | XEC    | [eCash token](https://e.cash)
@@ -1199,6 +1199,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 19169 | 0x80004ae1 | RITO   | [Ritocoin](https://www.ritocoin.org)
 20036 | 0x80004e44 | XND    | [ndau](https://ndau.io)
 21004 | 0x8000520c | C4EI   | [c4ei](https://c4ei.net)
+21888 | 0x80005580 | PCT    | [Pactus](https://pactus.org)
 22504 | 0x800057e8 | PWR    | [PWRcoin](https://github.com/Plainkoin/PWRcoin)
 25252 | 0x800062a4 | BELL   | [Bellcoin](https://bellcoin.web4u.jp)
 25718 | 0x80006476 | CHX    | [Own](https://wallet.weown.com)
@@ -1223,8 +1224,9 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 88888 | 0x80015b38 | RYO    | [c0ban](https://www.c0ban.co)
 99999 | 0x8001869f | WICC   | [Waykichain](http://www.waykichain.com)
 100500 | 0x80018894 | HOME   | [HomeCoin](https://homecoin.ru)
-101010 | 0x80018a92 | STC     | [Starcoin](https://starcoin.org)
+101010 | 0x80018a92 | STC    | [Starcoin](https://starcoin.org)
 105105 | 0x80019a91 | STRAX  | [Strax](http://www.stratisplatform.com)
+111111 | 0x8001b207 | KAS    | [Kaspa](https://kaspa.org)
 161803 | 0x8002780b | APTA   | [Bloqs4Good](https://bloqs4good.com)
 200625 | 0x80030fb1 | AKA    | [Akroma](https://akroma.io)
 200665 | 0x80011000 | GENOM  | [GENOM](https://genom.tech)
