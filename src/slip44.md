@@ -662,7 +662,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 631   | 0x80000277 | QTZ    | [Quartz](https://unique.network/quartz/)
 632   | 0x80000278 | XMA    | [Massa](https://massa.net/)
 633   | 0x80000279 | CALL   | [Callchain](https://www.callchain.cc)
-634   | 0x8000027a |        |
+634   | 0x8000027a | VAL    | [Validity](https://validitytech.com)
 635   | 0x8000027b | POKT   | [Pocket Network](https://www.pokt.network)
 636   | 0x8000027c | EMIT   | [EMIT](https://emit.technology)
 637   | 0x8000027d | APTOS  | [Aptos](https://aptoslabs.com)
@@ -886,7 +886,7 @@ Coin type | Path component (`coin_type'`) | Symbol | Coin
 855   | 0x80000357 |        |
 856   | 0x80000358 |        |
 857   | 0x80000359 |        |
-858   | 0x8000035a |        |
+858   | 0x8000035a | HVH    | [HAVAH](https://intro.havah.io/)
 859   | 0x8000035b |        |
 860   | 0x8000035c |        |
 861   | 0x8000035d |        |

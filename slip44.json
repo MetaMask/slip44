@@ -4405,8 +4405,9 @@
   "634": {
     "index": "634",
     "hex": "0x8000027a",
-    "symbol": "",
-    "name": ""
+    "symbol": "VAL",
+    "name": "Validity",
+    "link": "https://validitytech.com"
   },
   "635": {
     "index": "635",
@@ -5852,8 +5853,9 @@
   "858": {
     "index": "858",
     "hex": "0x8000035a",
-    "symbol": "",
-    "name": ""
+    "symbol": "HVH",
+    "name": "HAVAH",
+    "link": "https://intro.havah.io/"
   },
   "859": {
     "index": "859",
