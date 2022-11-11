@@ -8,7 +8,6 @@ describe('Generated SLIP-44 JSON file', () => {
       hex: '0x8000003c',
       symbol: 'ETH',
       name: 'Ethereum',
-      link: 'https://ethereum.org',
     });
   });
 });
