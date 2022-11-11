@@ -19,7 +19,6 @@ type Slip44 = {
     hex: `0x${string}`;
     symbol: string;
     name: string;
-    link?: string;
   };
 };
 ```
