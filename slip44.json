@@ -4685,6 +4685,12 @@
     "symbol": "TLOS",
     "name": "Telos"
   },
+  "981": {
+    "index": "981",
+    "hex": "0x800003d5",
+    "symbol": "TAFECO",
+    "name": "Taf ECO Chain"
+  },
   "985": {
     "index": "985",
     "hex": "0x800003d9",
