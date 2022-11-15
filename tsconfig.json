@@ -1,17 +1,16 @@
 {
   "compilerOptions": {
-    "noEmit": true,
-    "declaration": true,
     "esModuleInterop": true,
-    "inlineSources": true,
-    "lib": ["ES2020"],
+    "exactOptionalPropertyTypes": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["ES2017"],
     "module": "CommonJS",
-    "moduleResolution": "Node",
-    "rootDir": ".",
-    "resolveJsonModule": true,
-    "sourceMap": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "noErrorTruncation": true,
+    "noUncheckedIndexedAccess": true,
     "strict": true,
-    "target": "ES2017"
+    "target": "es2017"
   },
-  "include": ["./**/*.ts"]
+  "exclude": ["./dist/**/*"]
 }

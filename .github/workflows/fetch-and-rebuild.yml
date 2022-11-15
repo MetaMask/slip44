@@ -12,29 +12,19 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-
     steps:
       - name: Get current date
         id: date
-        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
-
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
-      - name: Get Yarn cache directory
-        run: echo "::set-output name=YARN_CACHE_DIR::$(yarn cache dir)"
-        id: yarn-cache-dir
-      - name: Get Yarn version
-        run: echo "::set-output name=YARN_VERSION::$(yarn --version)"
-        id: yarn-version
-      - name: Cache yarn dependencies
-        uses: actions/cache@v2
+        run: echo "date=$(date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v3
+      - name: Use Node.js
+        uses: actions/setup-node@v3
         with:
-          path: ${{ steps.yarn-cache-dir.outputs.YARN_CACHE_DIR }}
-          key: yarn-cache-${{ runner.os }}-${{ steps.yarn-version.outputs.YARN_VERSION }}-${{ hashFiles('yarn.lock') }}
-      - run: yarn --frozen-lockfile
-      - run: yarn allow-scripts
-
+          node-version-file: '.nvmrc'
+          cache: 'yarn'
+      - name: Install Yarn dependencies
+        run: yarn --immutable
       - name: Fetch, rebuild, create pull request
         run: yarn rebuild:ci ${{ steps.date.outputs.date }}
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
