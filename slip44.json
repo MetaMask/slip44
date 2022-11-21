@@ -4217,6 +4217,12 @@
     "symbol": "PLSR",
     "name": "Pulsar Coin"
   },
+  "776": {
+    "index": "776",
+    "hex": "0x80000308",
+    "symbol": "KEY",
+    "name": "Keymaker Coin"
+  },
   "777": {
     "index": "777",
     "hex": "0x80000309",
@@ -4226,14 +4232,20 @@
   "780": {
     "index": "780",
     "hex": "0x8000030c",
-    "symbol": "PLCU",
-    "name": "PLC Ultima"
+    "symbol": "PLCUC",
+    "name": "PLC Ultima Classic"
   },
   "781": {
     "index": "781",
     "hex": "0x8000030d",
     "symbol": "PLCUX",
     "name": "PLC Ultima X"
+  },
+  "782": {
+    "index": "782",
+    "hex": "0x8000030e",
+    "symbol": "PLCU",
+    "name": "PLC Ultima"
   },
   "784": {
     "index": "784",
@@ -4913,6 +4925,12 @@
     "symbol": "DFI",
     "name": "DeFiChain"
   },
+  "1130": {
+    "index": "1130",
+    "hex": "0x8000046a",
+    "symbol": "DFI",
+    "name": "DeFiChain EVM Network"
+  },
   "1137": {
     "index": "1137",
     "hex": "0x80000471",
@@ -5272,6 +5290,12 @@
     "hex": "0x80000801",
     "symbol": "TRUE",
     "name": "TrueChain"
+  },
+  "2086": {
+    "index": "2086",
+    "hex": "0x80000826",
+    "symbol": "KILT",
+    "name": "KILT Spiritnet"
   },
   "2109": {
     "index": "2109",
@@ -6064,6 +6088,12 @@
     "hex": "0x80067932",
     "symbol": "X42",
     "name": "x42"
+  },
+  "534352": {
+    "index": "534352",
+    "hex": "0x80082750",
+    "symbol": "SCR",
+    "name": "Scroll"
   },
   "666666": {
     "index": "666666",

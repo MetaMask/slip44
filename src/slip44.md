@@ -804,13 +804,13 @@ All these constants are used as hardened derivation.
 | 773        | 0x80000305                    |         |
 | 774        | 0x80000306                    |         |
 | 775        | 0x80000307                    | PLSR    | Pulsar Coin                       |
-| 776        | 0x80000308                    |         |
+| 776        | 0x80000308                    | KEY     | Keymaker Coin                     |
 | 777        | 0x80000309                    | BTW     | Bitcoin World                     |
 | 778        | 0x8000030a                    |         |
 | 779        | 0x8000030b                    |         |
-| 780        | 0x8000030c                    | PLCU    | PLC Ultima                        |
+| 780        | 0x8000030c                    | PLCUC   | PLC Ultima Classic                |
 | 781        | 0x8000030d                    | PLCUX   | PLC Ultima X                      |
-| 782        | 0x8000030e                    |         |
+| 782        | 0x8000030e                    | PLCU    | PLC Ultima                        |
 | 783        | 0x8000030f                    |         |
 | 784        | 0x80000310                    | SUI     | Sui                               |
 | 785        | 0x80000311                    |         |
@@ -1051,6 +1051,7 @@ All these constants are used as hardened derivation.
 | 1122       | 0x80000462                    | CMT     | CyberMiles Token                  |
 | 1128       | 0x80000468                    | ETSC    | Ethereum Social                   |
 | 1129       | 0x80000469                    | DFI     | DeFiChain                         |
+| 1130       | 0x8000046a                    | DFI     | DeFiChain EVM Network             |
 | 1137       | 0x80000471                    | $DAG    | Constellation Labs                |
 | 1145       | 0x80000479                    | CDY     | Bitcoin Candy                     |
 | 1155       | 0x80000483                    | EFI     | Efinity                           |
@@ -1111,6 +1112,7 @@ All these constants are used as hardened derivation.
 | 2022       | 0x800007e6                    | XHT     | Xinghuo Token                     |
 | 2048       | 0x80000800                    | MCASH   | MCashChain                        |
 | 2049       | 0x80000801                    | TRUE    | TrueChain                         |
+| 2086       | 0x80000826                    | KILT    | KILT Spiritnet                    |
 | 2109       | 0x8000083d                    | SAMA    | Exosama Network                   |
 | 2112       | 0x80000840                    | IoTE    | IoTE                              |
 | 2137       | 0x80000859                    | XRG     | Ergon                             |
@@ -1243,6 +1245,7 @@ All these constants are used as hardened derivation.
 | 333332     | 0x80051614                    | VALUE   | Value Chain                       |
 | 333333     | 0x80051615                    | 3333    | Pi Value Consensus                |
 | 424242     | 0x80067932                    | X42     | x42                               |
+| 534352     | 0x80082750                    | SCR     | Scroll                            |
 | 666666     | 0x800a2c2a                    | VITE    | Vite                              |
 | 888888     | 0x800d9038                    | SEA     | Second Exchange Alliance          |
 | 1048576    | 0x80100000                    | AMAX    | Armonia Meta Chain                |
