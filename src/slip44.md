@@ -1046,6 +1046,7 @@ All these constants are used as hardened derivation.
 | 1026       | 0x80000402                    | KEX     | Kira Exchange Token               |
 | 1027       | 0x80000403                    | MCM     | Mochimo                           |
 | 1032       | 0x80000408                    | BTCR    | BTCR                              |
+| 1042       | 0x80000412                    | MFID    | Moonfish ID                       |
 | 1111       | 0x80000457                    | BBC     | Big Bitcoin                       |
 | 1120       | 0x80000460                    | RISE    | RISE                              |
 | 1122       | 0x80000462                    | CMT     | CyberMiles Token                  |
@@ -1213,7 +1214,7 @@ All these constants are used as hardened derivation.
 | 22504      | 0x800057e8                    | PWR     | PWRcoin                           |
 | 25252      | 0x800062a4                    | BELL    | Bellcoin                          |
 | 25718      | 0x80006476                    | CHX     | Own                               |
-| 30001      | 0x80007531                    | FLR     | Flare                             |
+| 30001      | 0x80007531                    | ---     | reserved                          |
 | 31102      | 0x8000797e                    | ESN     | EtherSocial Network               |
 | 31337      | 0x80007a69                    |         | ThePower                          |
 | 33416      | 0x80008288                    | TEO     | Trust Eth reOrigin                |
