@@ -4895,6 +4895,12 @@
     "symbol": "BTCR",
     "name": "BTCR"
   },
+  "1042": {
+    "index": "1042",
+    "hex": "0x80000412",
+    "symbol": "MFID",
+    "name": "Moonfish ID"
+  },
   "1111": {
     "index": "1111",
     "hex": "0x80000457",
@@ -5900,8 +5906,8 @@
   "30001": {
     "index": "30001",
     "hex": "0x80007531",
-    "symbol": "FLR",
-    "name": "Flare"
+    "symbol": "---",
+    "name": "reserved"
   },
   "31102": {
     "index": "31102",
