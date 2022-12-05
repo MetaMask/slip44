@@ -14,10 +14,12 @@ for (const line of slip44Content.split('\n')) {
     segments.length === 4 &&
     /^\|\s*\d+\s*\|\s*0x[a-z0-9]+\s*\|/iu.test(line)
   ) {
+    // eslint-disable-next-line id-denylist
     const [index, hex, symbol, name] = segments.map((seg) => seg.trim());
 
     entries[index] = {
       index,
+      // eslint-disable-next-line id-denylist
       hex,
       symbol,
       name,
