@@ -1033,6 +1033,7 @@ All these constants are used as hardened derivation.
 | 1002       | 0x800003ea                    | BKT     | BanKitt                           |
 | 1003       | 0x800003eb                    | NODL    | Nodle                             |
 | 1004       | 0x800003ec                    | PCOIN   | PCOIN                             |
+| 1005       | 0x800003ed                    | TAO     | Bittensor                         |       
 | 1007       | 0x800003ef                    | FTM     | Fantom                            |
 | 1008       | 0x800003f0                    | RPG     | RPG                               |
 | 1010       | 0x800003f2                    | HT      | Huobi ECO Chain                   |
@@ -1149,6 +1150,7 @@ All these constants are used as hardened derivation.
 | 4242       | 0x80001092                    | AXE     | Axe                               |
 | 4343       | 0x800010f7                    | XYM     | Symbol                            |
 | 4444       | 0x8000115c                    | C4E     | Chain4Energy                      |
+| 4919       | 0x80001337                    | XVM     | Venidium                          |
 | 5006       | 0x8000138e                    | SBC     | Senior Blockchain                 |
 | 5248       | 0x80001480                    | FIC     | FIC                               |
 | 5353       | 0x800014e9                    | HNS     | Handshake                         |

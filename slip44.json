@@ -4817,6 +4817,12 @@
     "symbol": "PCOIN",
     "name": "PCOIN"
   },
+  "1005": {
+    "index": "1005",
+    "hex": "0x800003ed",
+    "symbol": "TAO",
+    "name": "Bittensor"
+  },
   "1007": {
     "index": "1007",
     "hex": "0x800003ef",
@@ -5512,6 +5518,12 @@
     "hex": "0x8000115c",
     "symbol": "C4E",
     "name": "Chain4Energy"
+  },
+  "4919": {
+    "index": "4919",
+    "hex": "0x80001337",
+    "symbol": "XVM",
+    "name": "Venidium"
   },
   "5006": {
     "index": "5006",
