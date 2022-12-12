@@ -3881,6 +3881,12 @@
     "symbol": "XLN",
     "name": "Lunarium"
   },
+  "647": {
+    "index": "647",
+    "hex": "0x80000287",
+    "symbol": "CIC",
+    "name": "CIC Chain"
+  },
   "648": {
     "index": "648",
     "hex": "0x80000288",
