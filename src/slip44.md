@@ -677,7 +677,7 @@ All these constants are used as hardened derivation.
 | 646        | 0x80000286                    | XLN     | Lunarium                          |
 | 647        | 0x80000287                    | CIC     | CIC Chain                         |
 | 648        | 0x80000288                    | ZRB     | Zarb                              |
-| 649        | 0x80000289                    |         |
+| 649        | 0x80000289                    | LCN     | Lyncoin                           |
 | 650        | 0x8000028a                    | UCO     | Archethic                         |
 | 651        | 0x8000028b                    | SFX     | Safex Cash                        |
 | 652        | 0x8000028c                    | SFT     | Safex Token                       |
@@ -713,7 +713,7 @@ All these constants are used as hardened derivation.
 | 682        | 0x800002aa                    | CHTA    | Cheetahcoin                       |
 | 683        | 0x800002ab                    |         |
 | 684        | 0x800002ac                    |         |
-| 685        | 0x800002ad                    |         |
+| 685        | 0x800002ad                    | OAS     | Oasys                             |
 | 686        | 0x800002ae                    | KAR     | Karura Network                    |
 | 687        | 0x800002af                    |         |
 | 688        | 0x800002b0                    | CET     | CoinEx Chain                      |
@@ -1073,6 +1073,7 @@ All these constants are used as hardened derivation.
 | 1616       | 0x80000650                    | ELF     | AELF                              |
 | 1618       | 0x80000652                    | AUDL    | AUDL                              |
 | 1620       | 0x80000654                    | ATH     | Atheios                           |
+| 1627       | 0x8000065b                    | LUME    | Lume Web                          |
 | 1642       | 0x8000066a                    | NEW     | Newton                            |
 | 1657       | 0x80000679                    | BTA     | Btachain                          |
 | 1688       | 0x80000698                    | BCX     | BitcoinX                          |
@@ -1203,6 +1204,7 @@ All these constants are used as hardened derivation.
 | 12586      | 0x8000312a                    | MINA    | Mina                              |
 | 13107      | 0x80003333                    | BTY     | BitYuan                           |
 | 13108      | 0x80003334                    | YCC     | Yuan Chain Coin                   |
+| 14001      | 0x800036b1                    | WAX     | Worldwide Asset Exchange          |
 | 15845      | 0x80003de5                    | SDGO    | SanDeGo                           |
 | 16181      | 0x80003f35                    | XTX     | Totem Live Network                |
 | 16754      | 0x80004172                    | ARDR    | Ardor                             |

@@ -3893,6 +3893,12 @@
     "symbol": "ZRB",
     "name": "Zarb"
   },
+  "649": {
+    "index": "649",
+    "hex": "0x80000289",
+    "symbol": "LCN",
+    "name": "Lyncoin"
+  },
   "650": {
     "index": "650",
     "hex": "0x8000028a",
@@ -4042,6 +4048,12 @@
     "hex": "0x800002aa",
     "symbol": "CHTA",
     "name": "Cheetahcoin"
+  },
+  "685": {
+    "index": "685",
+    "hex": "0x800002ad",
+    "symbol": "OAS",
+    "name": "Oasys"
   },
   "686": {
     "index": "686",
@@ -5063,6 +5075,12 @@
     "symbol": "ATH",
     "name": "Atheios"
   },
+  "1627": {
+    "index": "1627",
+    "hex": "0x8000065b",
+    "symbol": "LUME",
+    "name": "Lume Web"
+  },
   "1642": {
     "index": "1642",
     "hex": "0x8000066a",
@@ -5842,6 +5860,12 @@
     "hex": "0x80003334",
     "symbol": "YCC",
     "name": "Yuan Chain Coin"
+  },
+  "14001": {
+    "index": "14001",
+    "hex": "0x800036b1",
+    "symbol": "WAX",
+    "name": "Worldwide Asset Exchange"
   },
   "15845": {
     "index": "15845",
