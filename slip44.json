@@ -4161,7 +4161,7 @@
     "index": "718",
     "hex": "0x800002ce",
     "symbol": "PEER",
-    "name": "Peer Meta Coin"
+    "name": "Peer"
   },
   "725": {
     "index": "725",
@@ -5944,6 +5944,12 @@
     "hex": "0x80006476",
     "symbol": "CHX",
     "name": "Own"
+  },
+  "29223": {
+    "index": "29223",
+    "hex": "0x80007227",
+    "symbol": "NEXA",
+    "name": "Nexa"
   },
   "30001": {
     "index": "30001",
