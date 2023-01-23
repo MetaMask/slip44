@@ -746,7 +746,7 @@ All these constants are used as hardened derivation.
 | 715        | 0x800002cb                    | SIN     | Sinovate                          |
 | 716        | 0x800002cc                    | DLN     | Delion                            |
 | 717        | 0x800002cd                    | BONTE   | Bontecoin                         |
-| 718        | 0x800002ce                    | PEER    | Peer Meta Coin                    |
+| 718        | 0x800002ce                    | PEER    | Peer                              |
 | 719        | 0x800002cf                    |         |
 | 720        | 0x800002d0                    |         |
 | 721        | 0x800002d1                    |         |
@@ -1218,6 +1218,7 @@ All these constants are used as hardened derivation.
 | 22504      | 0x800057e8                    | PWR     | PWRcoin                           |
 | 25252      | 0x800062a4                    | BELL    | Bellcoin                          |
 | 25718      | 0x80006476                    | CHX     | Own                               |
+| 29223      | 0x80007227                    | NEXA    | Nexa                              |
 | 30001      | 0x80007531                    | ---     | reserved                          |
 | 31102      | 0x8000797e                    | ESN     | EtherSocial Network               |
 | 31337      | 0x80007a69                    |         | ThePower                          |
