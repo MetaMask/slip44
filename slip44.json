@@ -3050,8 +3050,8 @@
   "508": {
     "index": "508",
     "hex": "0x800001fc",
-    "symbol": "ERD",
-    "name": "Elrond"
+    "symbol": "EGLD",
+    "name": "MultiversX"
   },
   "509": {
     "index": "509",
@@ -3896,8 +3896,8 @@
   "649": {
     "index": "649",
     "hex": "0x80000289",
-    "symbol": "LCN",
-    "name": "Lyncoin"
+    "symbol": "---",
+    "name": "reserved"
   },
   "650": {
     "index": "650",
@@ -3922,6 +3922,12 @@
     "hex": "0x8000028d",
     "symbol": "WSFX",
     "name": "Wrapped Safex Cash"
+  },
+  "654": {
+    "index": "654",
+    "hex": "0x8000028e",
+    "symbol": "USDG",
+    "name": "US Digital Gold"
   },
   "655": {
     "index": "655",
@@ -4664,14 +4670,8 @@
   "941": {
     "index": "941",
     "hex": "0x800003ad",
-    "symbol": "KCN",
-    "name": "Kylacoin"
-  },
-  "942": {
-    "index": "942",
-    "hex": "0x800003ae",
-    "symbol": "YCN",
-    "name": "Yilacoin"
+    "symbol": "---",
+    "name": "reserved"
   },
   "955": {
     "index": "955",
@@ -5575,7 +5575,7 @@
   },
   "5467": {
     "index": "5467",
-    "hex": "0x8000155B",
+    "hex": "0x8000155b",
     "symbol": "ALTME",
     "name": "ALTME"
   },
@@ -6118,6 +6118,12 @@
     "hex": "0x8003c301",
     "symbol": "ATS",
     "name": "ARTIS sigma1"
+  },
+  "261131": {
+    "index": "261131",
+    "hex": "0x8003fc0b",
+    "symbol": "ZAMA",
+    "name": "Zama"
   },
   "314159": {
     "index": "314159",
