@@ -536,7 +536,7 @@ All these constants are used as hardened derivation.
 | 505        | 0x800001f9                    | HASH    | Provenance                        |
 | 506        | 0x800001fa                    | CSPR    | Casper                            |
 | 507        | 0x800001fb                    | EARTH   | EARTH                             |
-| 508        | 0x800001fc                    | ERD     | Elrond                            |
+| 508        | 0x800001fc                    | EGLD    | MultiversX                        |
 | 509        | 0x800001fd                    | CHI     | Xaya                              |
 | 510        | 0x800001fe                    | KOTO    | Koto                              |
 | 511        | 0x800001ff                    | OTC     | θ                                 |
@@ -677,12 +677,12 @@ All these constants are used as hardened derivation.
 | 646        | 0x80000286                    | XLN     | Lunarium                          |
 | 647        | 0x80000287                    | CIC     | CIC Chain                         |
 | 648        | 0x80000288                    | ZRB     | Zarb                              |
-| 649        | 0x80000289                    | LCN     | Lyncoin                           |
+| 649        | 0x80000289                    | ---     | reserved                          |
 | 650        | 0x8000028a                    | UCO     | Archethic                         |
 | 651        | 0x8000028b                    | SFX     | Safex Cash                        |
 | 652        | 0x8000028c                    | SFT     | Safex Token                       |
 | 653        | 0x8000028d                    | WSFX    | Wrapped Safex Cash                |
-| 654        | 0x8000028e                    |         |
+| 654        | 0x8000028e                    | USDG    | US Digital Gold                   |
 | 655        | 0x8000028f                    | WMP     | WAMP                              |
 | 656        | 0x80000290                    |         |
 | 657        | 0x80000291                    |         |
@@ -969,8 +969,8 @@ All these constants are used as hardened derivation.
 | 938        | 0x800003aa                    |         |
 | 939        | 0x800003ab                    |         |
 | 940        | 0x800003ac                    |         |
-| 941        | 0x800003ad                    | KCN     | Kylacoin                          |
-| 942        | 0x800003ae                    | YCN     | Yilacoin                          |
+| 941        | 0x800003ad                    | ---     | reserved                          |
+| 942        | 0x800003ae                    |         |
 | 943        | 0x800003af                    |         |
 | 944        | 0x800003b0                    |         |
 | 945        | 0x800003b1                    |         |
@@ -1009,7 +1009,7 @@ All these constants are used as hardened derivation.
 | 978        | 0x800003d2                    |         |
 | 979        | 0x800003d3                    |         |
 | 980        | 0x800003d4                    |         |
-| 981        | 0x800003d5                    | TAFECO  | Taf ECO Chain					   |
+| 981        | 0x800003d5                    | TAFECO  | Taf ECO Chain                     |
 | 982        | 0x800003d6                    |         |
 | 983        | 0x800003d7                    |         |
 | 984        | 0x800003d8                    |         |
@@ -1033,7 +1033,7 @@ All these constants are used as hardened derivation.
 | 1002       | 0x800003ea                    | BKT     | BanKitt                           |
 | 1003       | 0x800003eb                    | NODL    | Nodle                             |
 | 1004       | 0x800003ec                    | PCOIN   | PCOIN                             |
-| 1005       | 0x800003ed                    | TAO     | Bittensor                         |       
+| 1005       | 0x800003ed                    | TAO     | Bittensor                         |
 | 1007       | 0x800003ef                    | FTM     | Fantom                            |
 | 1008       | 0x800003f0                    | RPG     | RPG                               |
 | 1010       | 0x800003f2                    | HT      | Huobi ECO Chain                   |
@@ -1156,7 +1156,7 @@ All these constants are used as hardened derivation.
 | 5248       | 0x80001480                    | FIC     | FIC                               |
 | 5353       | 0x800014e9                    | HNS     | Handshake                         |
 | 5404       | 0x8000151c                    | ISK     | ISKRA                             |
-| 5467       | 0x8000155B                    | ALTME   | ALTME                             |
+| 5467       | 0x8000155b                    | ALTME   | ALTME                             |
 | 5555       | 0x800015b3                    | FUND    | Unification                       |
 | 5757       | 0x8000167d                    | STX     | Stacks                            |
 | 5895       | 0x80001707                    | VOW     | VowChain VOW                      |
@@ -1182,7 +1182,7 @@ All these constants are used as hardened derivation.
 | 8680       | 0x800021e8                    | PLMNT   | Planetmint                        |
 | 8888       | 0x800022b8                    | SBTC    | Super Bitcoin                     |
 | 8964       | 0x80002304                    | NULS    | NULS                              |
-| 8997       | 0x80002325                    | BBC     | Babacoin                          | 
+| 8997       | 0x80002325                    | BBC     | Babacoin                          |
 | 8998       | 0x80002326                    | JGC     | JagoanCoin                        |
 | 8999       | 0x80002327                    | BTP     | Bitcoin Pay                       |
 | 9000       | 0x80002328                    | AVAX    | Avalanche                         |
@@ -1247,6 +1247,7 @@ All these constants are used as hardened derivation.
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
 | 200665     | 0x80011000                    | GENOM   | GENOM                             |
 | 246529     | 0x8003c301                    | ATS     | ARTIS sigma1                      |
+| 261131     | 0x8003fc0b                    | ZAMA    | Zama                              |
 | 314159     | 0x8004cb2f                    | PI      | Pi Network                        |
 | 333332     | 0x80051614                    | VALUE   | Value Chain                       |
 | 333333     | 0x80051615                    | 3333    | Pi Value Consensus                |
