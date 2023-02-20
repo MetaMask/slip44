@@ -781,7 +781,7 @@ All these constants are used as hardened derivation.
 | 750        | 0x800002ee                    | XPRT    | Persistence                       |
 | 751        | 0x800002ef                    |         |
 | 752        | 0x800002f0                    |         |
-| 753        | 0x800002f1                    |         |
+| 753        | 0x800002f1                    |         | Age Encryption                    |
 | 754        | 0x800002f2                    |         |
 | 755        | 0x800002f3                    |         |
 | 756        | 0x800002f4                    |         |
@@ -1134,7 +1134,7 @@ All these constants are used as hardened derivation.
 | 2894       | 0x80000b4e                    | REOSC   | REOSC Ecosystem                   |
 | 2941       | 0x80000b7d                    | BND     | Blocknode                         |
 | 3003       | 0x80000bbb                    | LUX     | LUX                               |
-| 3030       | 0x80000bd6                    | XHB     | Hedera HBAR                       |
+| 3030       | 0x80000bd6                    | HBAR    | Hedera HBAR                       |
 | 3077       | 0x80000c05                    | COS     | Contentos                         |
 | 3276       | 0x80000ccc                    | CCC     | CodeChain                         |
 | 3333       | 0x80000d05                    | SXP     | Solar                             |
