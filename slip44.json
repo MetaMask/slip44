@@ -4211,6 +4211,12 @@
     "symbol": "XPRT",
     "name": "Persistence"
   },
+  "753": {
+    "index": "753",
+    "hex": "0x800002f1",
+    "symbol": "",
+    "name": "Age Encryption"
+  },
   "757": {
     "index": "757",
     "hex": "0x800002f5",
@@ -5444,7 +5450,7 @@
   "3030": {
     "index": "3030",
     "hex": "0x80000bd6",
-    "symbol": "XHB",
+    "symbol": "HBAR",
     "name": "Hedera HBAR"
   },
   "3077": {
