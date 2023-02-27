@@ -4215,7 +4215,13 @@
     "index": "753",
     "hex": "0x800002f1",
     "symbol": "",
-    "name": "Age Encryption"
+    "name": "Age X25519 Encryption"
+  },
+  "754": {
+    "index": "754",
+    "hex": "0x800002f2",
+    "symbol": "",
+    "name": "Age NIST Encryption"
   },
   "757": {
     "index": "757",
@@ -4540,6 +4546,12 @@
     "hex": "0x80000364",
     "symbol": "IF",
     "name": "Infinitefuture"
+  },
+  "877": {
+    "index": "877",
+    "hex": "0x8000036d",
+    "symbol": "NAM",
+    "name": "Namada"
   },
   "880": {
     "index": "880",
