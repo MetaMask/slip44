@@ -781,8 +781,8 @@ All these constants are used as hardened derivation.
 | 750        | 0x800002ee                    | XPRT    | Persistence                       |
 | 751        | 0x800002ef                    |         |
 | 752        | 0x800002f0                    |         |
-| 753        | 0x800002f1                    |         | Age Encryption                    |
-| 754        | 0x800002f2                    |         |
+| 753        | 0x800002f1                    |         | Age X25519 Encryption             |
+| 754        | 0x800002f2                    |         | Age NIST Encryption               |
 | 755        | 0x800002f3                    |         |
 | 756        | 0x800002f4                    |         |
 | 757        | 0x800002f5                    | HONEY   | HoneyWood                         |
@@ -905,7 +905,7 @@ All these constants are used as hardened derivation.
 | 874        | 0x8000036a                    |         |
 | 875        | 0x8000036b                    |         |
 | 876        | 0x8000036c                    |         |
-| 877        | 0x8000036d                    |         |
+| 877        | 0x8000036d                    | NAM     | Namada                            |
 | 878        | 0x8000036e                    |         |
 | 879        | 0x8000036f                    |         |
 | 880        | 0x80000370                    | LUM     | Lum Network                       |
