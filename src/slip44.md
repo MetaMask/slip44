@@ -226,7 +226,7 @@ All these constants are used as hardened derivation.
 | 195        | 0x800000c3                    | TRX     | Tron                              |
 | 196        | 0x800000c4                    | KOBO    | Kobocoin                          |
 | 197        | 0x800000c5                    | HUSH    | HUSH                              |
-| 198        | 0x800000c6                    | BANANO  | Bananos                           |
+| 198        | 0x800000c6                    | BAN     | Banano                            |
 | 199        | 0x800000c7                    | ETF     | ETF                               |
 | 200        | 0x800000c8                    | OMNI    | Omni                              |
 | 201        | 0x800000c9                    | BIFI    | BitcoinFile                       |
@@ -1076,6 +1076,7 @@ All these constants are used as hardened derivation.
 | 1627       | 0x8000065b                    | LUME    | Lume Web                          |
 | 1642       | 0x8000066a                    | NEW     | Newton                            |
 | 1657       | 0x80000679                    | BTA     | Btachain                          |
+| 1669       | 0x80000685                    | MEWC    | Meowcoin                          |
 | 1688       | 0x80000698                    | BCX     | BitcoinX                          |
 | 1729       | 0x800006c1                    | XTZ     | Tezos                             |
 | 1776       | 0x800006f0                    | LBTC    | Liquid BTC                        |
