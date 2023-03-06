@@ -1190,8 +1190,8 @@
   "198": {
     "index": "198",
     "hex": "0x800000c6",
-    "symbol": "BANANO",
-    "name": "Bananos"
+    "symbol": "BAN",
+    "name": "Banano"
   },
   "199": {
     "index": "199",
@@ -5110,6 +5110,12 @@
     "hex": "0x80000679",
     "symbol": "BTA",
     "name": "Btachain"
+  },
+  "1669": {
+    "index": "1669",
+    "hex": "0x80000685",
+    "symbol": "MEWC",
+    "name": "Meowcoin"
   },
   "1688": {
     "index": "1688",
