@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.0]
+### Changed
+- **BREAKING:** Require Node 14 ([#28](https://github.com/MetaMask/slip44/pull/28))
+- Update with latest SLIP-44 data as of 2023-03-13 ([#57](https://github.com/MetaMask/slip44/pull/57))
+
+### Removed
+- **BREAKING:** Removed `link` property as it was removed in the SLIP-44 document ([#25](https://github.com/MetaMask/slip44/pull/25))
+
 ## [2.2.0]
 ### Changed
 - Update with latest SLIP-44 data as of 2022-08-07 ([#14](https://github.com/MetaMask/slip44/pull/14))
@@ -30,7 +38,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Initial release.
 
-[Unreleased]: https://github.com/MetaMask/slip44/compare/v2.2.0...HEAD
+[Unreleased]: https://github.com/MetaMask/slip44/compare/v3.0.0...HEAD
+[3.0.0]: https://github.com/MetaMask/slip44/compare/v2.2.0...v3.0.0
 [2.2.0]: https://github.com/MetaMask/slip44/compare/v2.1.0...v2.2.0
 [2.1.0]: https://github.com/MetaMask/slip44/compare/v2.0.0...v2.1.0
 [2.0.0]: https://github.com/MetaMask/slip44/compare/v1.0.0...v2.0.0
