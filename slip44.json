@@ -5111,6 +5111,12 @@
     "symbol": "BTA",
     "name": "Btachain"
   },
+  "1668": {
+    "index": "1668",
+    "hex": "0x80000684",
+    "symbol": "NEOX",
+    "name": "Neoxa"
+  },
   "1669": {
     "index": "1669",
     "hex": "0x80000685",
