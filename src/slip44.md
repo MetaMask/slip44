@@ -855,7 +855,7 @@ All these constants are used as hardened derivation.
 | 824        | 0x80000338                    |         |
 | 825        | 0x80000339                    |         |
 | 826        | 0x8000033a                    |         |
-| 827        | 0x8000033b                    |         |
+| 827        | 0x8000033b                    | ACE     | Endurance                         |
 | 828        | 0x8000033c                    | CCN     | ComputeCoin                       |
 | 829        | 0x8000033d                    |         |
 | 830        | 0x8000033e                    |         |
@@ -1062,6 +1062,7 @@ All these constants are used as hardened derivation.
 | 1237       | 0x800004d5                    |         | Nostr                             |
 | 1284       | 0x80000504                    | GLMR    | Moonbeam                          |
 | 1285       | 0x80000505                    | MOVR    | Moonriver                         |
+| 1298       | 0x80000512                    | WPC     | Wpc                               |
 | 1308       | 0x8000051c                    | WEI     | WEI                               |
 | 1337       | 0x80000539                    | DFC     | Defcoin                           |
 | 1397       | 0x80000575                    | HYC     | Hycon                             |
@@ -1070,6 +1071,7 @@ All these constants are used as hardened derivation.
 | 1512       | 0x800005e8                    | AAC     | Double-A Chain                    |
 | 1524       | 0x800005f4                    |         | Taler                             |
 | 1533       | 0x800005fd                    | BEAM    | Beam                              |
+| 1555       | 0x80000613                    | APC     | Apc Chain                         |
 | 1616       | 0x80000650                    | ELF     | AELF                              |
 | 1618       | 0x80000652                    | AUDL    | AUDL                              |
 | 1620       | 0x80000654                    | ATH     | Atheios                           |
