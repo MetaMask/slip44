@@ -855,7 +855,7 @@ All these constants are used as hardened derivation.
 | 824        | 0x80000338                    |         |
 | 825        | 0x80000339                    |         |
 | 826        | 0x8000033a                    |         |
-| 827        | 0x8000033b                    |         |
+| 827        | 0x8000033b                    | ACE     | Endurance                         |
 | 828        | 0x8000033c                    | CCN     | ComputeCoin                       |
 | 829        | 0x8000033d                    |         |
 | 830        | 0x8000033e                    |         |
@@ -973,7 +973,7 @@ All these constants are used as hardened derivation.
 | 942        | 0x800003ae                    |         |
 | 943        | 0x800003af                    |         |
 | 944        | 0x800003b0                    |         |
-| 945        | 0x800003b1                    |         |
+| 945        | 0x800003b1                    | UNLOCK  | Jasiri protocol                   |
 | 946        | 0x800003b2                    |         |
 | 947        | 0x800003b3                    |         |
 | 948        | 0x800003b4                    |         |
@@ -1034,6 +1034,7 @@ All these constants are used as hardened derivation.
 | 1003       | 0x800003eb                    | NODL    | Nodle                             |
 | 1004       | 0x800003ec                    | PCOIN   | PCOIN                             |
 | 1005       | 0x800003ed                    | TAO     | Bittensor                         |
+| 1006       | 0x800003ee                    | HSK     | HashKey Chain                     |
 | 1007       | 0x800003ef                    | FTM     | Fantom                            |
 | 1008       | 0x800003f0                    | RPG     | RPG                               |
 | 1010       | 0x800003f2                    | HT      | Huobi ECO Chain                   |
@@ -1062,6 +1063,7 @@ All these constants are used as hardened derivation.
 | 1237       | 0x800004d5                    |         | Nostr                             |
 | 1284       | 0x80000504                    | GLMR    | Moonbeam                          |
 | 1285       | 0x80000505                    | MOVR    | Moonriver                         |
+| 1298       | 0x80000512                    | WPC     | Wpc                               |
 | 1308       | 0x8000051c                    | WEI     | WEI                               |
 | 1337       | 0x80000539                    | DFC     | Defcoin                           |
 | 1397       | 0x80000575                    | HYC     | Hycon                             |
@@ -1070,6 +1072,7 @@ All these constants are used as hardened derivation.
 | 1512       | 0x800005e8                    | AAC     | Double-A Chain                    |
 | 1524       | 0x800005f4                    |         | Taler                             |
 | 1533       | 0x800005fd                    | BEAM    | Beam                              |
+| 1555       | 0x80000613                    | APC     | Apc Chain                         |
 | 1616       | 0x80000650                    | ELF     | AELF                              |
 | 1618       | 0x80000652                    | AUDL    | AUDL                              |
 | 1620       | 0x80000654                    | ATH     | Atheios                           |
@@ -1279,6 +1282,7 @@ All these constants are used as hardened derivation.
 | 7825266    | 0x80776772                    | WGR     | WGR                               |
 | 7825267    | 0x80776773                    | OBSR    | OBServer                          |
 | 8163271    | 0x807c8fc7                    | AFS     | ANFS                              |
+| 8888888    | 0x8087a238                    | GGX     | Golden Gate                       |
 | 15118976   | 0x80e6b280                    | XDS     | XDS                               |
 | 61717561   | 0x83adbc39                    | AQUA    | Aquachain                         |
 | 88888888   | 0x854c5638                    | HATCH   | Hatch                             |
