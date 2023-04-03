@@ -4391,6 +4391,12 @@
     "symbol": "BDB",
     "name": "BigchainDB"
   },
+  "827": {
+    "index": "827",
+    "hex": "0x8000033b",
+    "symbol": "ACE",
+    "name": "Endurance"
+  },
   "828": {
     "index": "828",
     "hex": "0x8000033c",
@@ -4691,6 +4697,12 @@
     "symbol": "---",
     "name": "reserved"
   },
+  "945": {
+    "index": "945",
+    "hex": "0x800003b1",
+    "symbol": "UNLOCK",
+    "name": "Jasiri protocol"
+  },
   "955": {
     "index": "955",
     "hex": "0x800003bb",
@@ -4858,6 +4870,12 @@
     "hex": "0x800003ed",
     "symbol": "TAO",
     "name": "Bittensor"
+  },
+  "1006": {
+    "index": "1006",
+    "hex": "0x800003ee",
+    "symbol": "HSK",
+    "name": "HashKey Chain"
   },
   "1007": {
     "index": "1007",
@@ -5027,6 +5045,12 @@
     "symbol": "MOVR",
     "name": "Moonriver"
   },
+  "1298": {
+    "index": "1298",
+    "hex": "0x80000512",
+    "symbol": "WPC",
+    "name": "Wpc"
+  },
   "1308": {
     "index": "1308",
     "hex": "0x8000051c",
@@ -5074,6 +5098,12 @@
     "hex": "0x800005fd",
     "symbol": "BEAM",
     "name": "Beam"
+  },
+  "1555": {
+    "index": "1555",
+    "hex": "0x80000613",
+    "symbol": "APC",
+    "name": "Apc Chain"
   },
   "1616": {
     "index": "1616",
@@ -5441,6 +5471,12 @@
     "symbol": "XIN",
     "name": "Mixin"
   },
+  "2500": {
+    "index": "2500",
+    "hex": "0x800009c4",
+    "symbol": "NEXI",
+    "name": "Nexi"
+  },
   "2570": {
     "index": "2570",
     "hex": "0x80000a0a",
@@ -5710,6 +5746,12 @@
     "hex": "0x80001f90",
     "symbol": "",
     "name": "DSRV"
+  },
+  "8181": {
+    "index": "8181",
+    "hex": "0x80001ff5",
+    "symbol": "BOC",
+    "name": "BeOne Chain"
   },
   "8192": {
     "index": "8192",
@@ -6328,6 +6370,12 @@
     "hex": "0x807c8fc7",
     "symbol": "AFS",
     "name": "ANFS"
+  },
+  "8888888": {
+    "index": "8888888",
+    "hex": "0x8087a238",
+    "symbol": "GGX",
+    "name": "Golden Gate"
   },
   "15118976": {
     "index": "15118976",
