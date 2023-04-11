@@ -5375,6 +5375,12 @@
     "symbol": "XHT",
     "name": "Xinghuo Token"
   },
+  "2046": {
+    "index": "2046",
+    "hex": "0x800007fe",
+    "symbol": "ANY",
+    "name": "Any"
+  },
   "2048": {
     "index": "2048",
     "hex": "0x80000800",
@@ -5788,6 +5794,12 @@
     "hex": "0x800021e8",
     "symbol": "PLMNT",
     "name": "Planetmint"
+  },
+  "8866": {
+    "index": "8866",
+    "hex": "0x800022a2",
+    "symbol": "GGX",
+    "name": "Golden Gate"
   },
   "8888": {
     "index": "8888",
@@ -6370,12 +6382,6 @@
     "hex": "0x807c8fc7",
     "symbol": "AFS",
     "name": "ANFS"
-  },
-  "8888888": {
-    "index": "8888888",
-    "hex": "0x8087a238",
-    "symbol": "GGX",
-    "name": "Golden Gate"
   },
   "15118976": {
     "index": "15118976",
