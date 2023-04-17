@@ -4403,6 +4403,12 @@
     "symbol": "CCN",
     "name": "ComputeCoin"
   },
+  "829": {
+    "index": "829",
+    "hex": "0x8000033d",
+    "symbol": "BBA",
+    "name": "BBACHAIN"
+  },
   "831": {
     "index": "831",
     "hex": "0x8000033f",
