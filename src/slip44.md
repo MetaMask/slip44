@@ -857,7 +857,7 @@ All these constants are used as hardened derivation.
 | 826        | 0x8000033a                    |         |
 | 827        | 0x8000033b                    | ACE     | Endurance                         |
 | 828        | 0x8000033c                    | CCN     | ComputeCoin                       |
-| 829        | 0x8000033d                    |         |
+| 829        | 0x8000033d                    | BBA     | BBACHAIN                          |
 | 830        | 0x8000033e                    |         |
 | 831        | 0x8000033f                    | CRUZ    | cruzbit                           |
 | 832        | 0x80000340                    | SAPP    | Sapphire                          |
@@ -1264,6 +1264,7 @@ All these constants are used as hardened derivation.
 | 534352     | 0x80082750                    | SCR     | Scroll                            |
 | 666666     | 0x800a2c2a                    | VITE    | Vite                              |
 | 888888     | 0x800d9038                    | SEA     | Second Exchange Alliance          |
+| 999999     | 0x800c9061                    | WTC     | WaltonChain                       |
 | 1048576    | 0x80100000                    | AMAX    | Armonia Meta Chain                |
 | 1171337    | 0x8011df89                    | ILT     | iOlite                            |
 | 1313114    | 0x8014095a                    | ETHO    | Etho Protocol                     |
@@ -1294,6 +1295,7 @@ All these constants are used as hardened derivation.
 | 99999997   | 0x85f5e0fd                    | EQ      | EQ                                |
 | 99999998   | 0x85f5e0fe                    | FLUID   | Fluid Chains                      |
 | 99999999   | 0x85f5e0ff                    | QKC     | QuarkChain                        |
+| 11259375   | 0x80abcdef                    | LBR     | 0L                                |
 | 608589380  | 0xa4465644                    | FVDC    | ForumCoin                         |
 | 1179993420 | 0xc655454c                    |         | Fuel                              |
 

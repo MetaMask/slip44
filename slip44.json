@@ -4403,6 +4403,12 @@
     "symbol": "CCN",
     "name": "ComputeCoin"
   },
+  "829": {
+    "index": "829",
+    "hex": "0x8000033d",
+    "symbol": "BBA",
+    "name": "BBACHAIN"
+  },
   "831": {
     "index": "831",
     "hex": "0x8000033f",
@@ -6251,6 +6257,12 @@
     "symbol": "SEA",
     "name": "Second Exchange Alliance"
   },
+  "999999": {
+    "index": "999999",
+    "hex": "0x800c9061",
+    "symbol": "WTC",
+    "name": "WaltonChain"
+  },
   "1048576": {
     "index": "1048576",
     "hex": "0x80100000",
@@ -6382,6 +6394,12 @@
     "hex": "0x807c8fc7",
     "symbol": "AFS",
     "name": "ANFS"
+  },
+  "11259375": {
+    "index": "11259375",
+    "hex": "0x80abcdef",
+    "symbol": "LBR",
+    "name": "0L"
   },
   "15118976": {
     "index": "15118976",
