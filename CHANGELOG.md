@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [3.0.0]
+### Changed
 - **BREAKING:** Require Node 14 ([#28](https://github.com/MetaMask/slip44/pull/28))
 - Update with latest data as of 2023-04-24 ([#68](https://github.com/MetaMask/slip44/pull/68))
 
