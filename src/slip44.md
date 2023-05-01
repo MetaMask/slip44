@@ -684,7 +684,7 @@ All these constants are used as hardened derivation.
 | 653        | 0x8000028d                    | WSFX    | Wrapped Safex Cash                |
 | 654        | 0x8000028e                    | USDG    | US Digital Gold                   |
 | 655        | 0x8000028f                    | WMP     | WAMP                              |
-| 656        | 0x80000290                    |         |
+| 656        | 0x80000290                    | EKTA    | Ekta
 | 657        | 0x80000291                    |         |
 | 658        | 0x80000292                    |         |
 | 659        | 0x80000293                    | KOIN    | Koinos                            |
@@ -811,7 +811,7 @@ All these constants are used as hardened derivation.
 | 780        | 0x8000030c                    | PLCUC   | PLC Ultima Classic                |
 | 781        | 0x8000030d                    | PLCUX   | PLC Ultima X                      |
 | 782        | 0x8000030e                    | PLCU    | PLC Ultima                        |
-| 783        | 0x8000030f                    |         |
+| 783        | 0x8000030f                    | SMARTBC | SMART Blockchain                  |
 | 784        | 0x80000310                    | SUI     | Sui                               |
 | 785        | 0x80000311                    |         |
 | 786        | 0x80000312                    | UIDD    | UIDD                              |
@@ -960,7 +960,7 @@ All these constants are used as hardened derivation.
 | 929        | 0x800003a1                    |         |
 | 930        | 0x800003a2                    |         |
 | 931        | 0x800003a3                    | RUNE    | THORChain (RUNE)                  |
-| 932        | 0x800003a4                    |         |
+| 932        | 0x800003a4                    | CACAO   | Maya Protocol                     |
 | 933        | 0x800003a5                    |         |
 | 934        | 0x800003a6                    |         |
 | 935        | 0x800003a7                    |         |
@@ -1124,6 +1124,7 @@ All these constants are used as hardened derivation.
 | 2086       | 0x80000826                    | KILT    | KILT Spiritnet                    |
 | 2109       | 0x8000083d                    | SAMA    | Exosama Network                   |
 | 2112       | 0x80000840                    | IoTE    | IoTE                              |
+| 2125       | 0x8000084d                    | BAY     | BitBay                            |
 | 2137       | 0x80000859                    | XRG     | Ergon                             |
 | 2182       | 0x80000888                    | CHZ     | Chiliz                            |
 | 2221       | 0x800008ad                    | ASK     | ASK                               |
@@ -1209,6 +1210,8 @@ All these constants are used as hardened derivation.
 | 10291      | 0x80002833                    | XRC     | XRhodium                          |
 | 10605      | 0x8000296d                    | XPI     | Lotus                             |
 | 11111      | 0x80002b67                    | ESS     | Essentia One                      |
+| 11742      | 0x80002dde                    | VARCH   | InvArch                           |
+| 11743      | 0x80002ddf                    | TNKR    | Tinkernet                         |
 | 12345      | 0x80003039                    | IPOS    | IPOS                              |
 | 12586      | 0x8000312a                    | MINA    | Mina                              |
 | 13107      | 0x80003333                    | BTY     | BitYuan                           |
