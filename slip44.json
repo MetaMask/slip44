@@ -4283,6 +4283,12 @@
     "symbol": "PLCU",
     "name": "PLC Ultima"
   },
+  "783": {
+    "index": "783",
+    "hex": "0x8000030f",
+    "symbol": "SMARTBC",
+    "name": "SMART Blockchain"
+  },
   "784": {
     "index": "784",
     "hex": "0x80000310",
@@ -4696,6 +4702,12 @@
     "hex": "0x800003a3",
     "symbol": "RUNE",
     "name": "THORChain (RUNE)"
+  },
+  "932": {
+    "index": "932",
+    "hex": "0x800003a4",
+    "symbol": "CACAO",
+    "name": "Maya Protocol"
   },
   "941": {
     "index": "941",
@@ -5417,6 +5429,12 @@
     "symbol": "IoTE",
     "name": "IoTE"
   },
+  "2125": {
+    "index": "2125",
+    "hex": "0x8000084d",
+    "symbol": "BAY",
+    "name": "BitBay"
+  },
   "2137": {
     "index": "2137",
     "hex": "0x80000859",
@@ -5926,6 +5944,18 @@
     "hex": "0x80002b67",
     "symbol": "ESS",
     "name": "Essentia One"
+  },
+  "11742": {
+    "index": "11742",
+    "hex": "0x80002dde",
+    "symbol": "VARCH",
+    "name": "InvArch"
+  },
+  "11743": {
+    "index": "11743",
+    "hex": "0x80002ddf",
+    "symbol": "TNKR",
+    "name": "Tinkernet"
   },
   "12345": {
     "index": "12345",
