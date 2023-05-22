@@ -747,12 +747,12 @@ All these constants are used as hardened derivation.
 | 716        | 0x800002cc                    | DLN     | Delion                            |
 | 717        | 0x800002cd                    | BONTE   | Bontecoin                         |
 | 718        | 0x800002ce                    | PEER    | Peer                              |
-| 719        | 0x800002cf                    |         |
-| 720        | 0x800002d0                    |         |
+| 719        | 0x800002cf                    | ZET     | Zetacoin                          |
+| 720        | 0x800002d0                    | ABY     | Artbyte                           |
 | 721        | 0x800002d1                    |         |
-| 722        | 0x800002d2                    |         |
+| 722        | 0x800002d2                    | IL8P    | InfiniLooP                        |
 | 723        | 0x800002d3                    |         |
-| 724        | 0x800002d4                    |         |
+| 724        | 0x800002d4                    | XVC     | Vanillacash                       |
 | 725        | 0x800002d5                    | MCX     | MultiCash                         |
 | 726        | 0x800002d6                    |         |
 | 727        | 0x800002d7                    |         |
@@ -960,7 +960,7 @@ All these constants are used as hardened derivation.
 | 929        | 0x800003a1                    |         |
 | 930        | 0x800003a2                    |         |
 | 931        | 0x800003a3                    | RUNE    | THORChain (RUNE)                  |
-| 932        | 0x800003a4                    | CACAO   | Maya Protocol                     |
+| 932        | 0x800003a4                    |         |
 | 933        | 0x800003a5                    |         |
 | 934        | 0x800003a6                    |         |
 | 935        | 0x800003a7                    |         |
@@ -1226,8 +1226,9 @@ All these constants are used as hardened derivation.
 | 19169      | 0x80004ae1                    | RITO    | Ritocoin                          |
 | 20036      | 0x80004e44                    | XND     | ndau                              |
 | 21004      | 0x8000520c                    | C4EI    | c4ei                              |
-| 21888      | 0x80005580                    | PCT     | Pactus                            |
+| 21888      | 0x80005580                    | PAC     | Pactus                            |
 | 22504      | 0x800057e8                    | PWR     | PWRcoin                           |
+| 23000      | 0x800059d8                    | EPIC    | Epic Cash                         |
 | 25252      | 0x800062a4                    | BELL    | Bellcoin                          |
 | 25718      | 0x80006476                    | CHX     | Own                               |
 | 29223      | 0x80007227                    | NEXA    | Nexa                              |

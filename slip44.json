@@ -4169,6 +4169,30 @@
     "symbol": "PEER",
     "name": "Peer"
   },
+  "719": {
+    "index": "719",
+    "hex": "0x800002cf",
+    "symbol": "ZET",
+    "name": "Zetacoin"
+  },
+  "720": {
+    "index": "720",
+    "hex": "0x800002d0",
+    "symbol": "ABY",
+    "name": "Artbyte"
+  },
+  "722": {
+    "index": "722",
+    "hex": "0x800002d2",
+    "symbol": "IL8P",
+    "name": "InfiniLooP"
+  },
+  "724": {
+    "index": "724",
+    "hex": "0x800002d4",
+    "symbol": "XVC",
+    "name": "Vanillacash"
+  },
   "725": {
     "index": "725",
     "hex": "0x800002d5",
@@ -4702,12 +4726,6 @@
     "hex": "0x800003a3",
     "symbol": "RUNE",
     "name": "THORChain (RUNE)"
-  },
-  "932": {
-    "index": "932",
-    "hex": "0x800003a4",
-    "symbol": "CACAO",
-    "name": "Maya Protocol"
   },
   "941": {
     "index": "941",
@@ -6044,7 +6062,7 @@
   "21888": {
     "index": "21888",
     "hex": "0x80005580",
-    "symbol": "PCT",
+    "symbol": "PAC",
     "name": "Pactus"
   },
   "22504": {
@@ -6052,6 +6070,12 @@
     "hex": "0x800057e8",
     "symbol": "PWR",
     "name": "PWRcoin"
+  },
+  "23000": {
+    "index": "23000",
+    "hex": "0x800059d8",
+    "symbol": "EPIC",
+    "name": "Epic Cash"
   },
   "25252": {
     "index": "25252",
