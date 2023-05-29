@@ -2630,8 +2630,8 @@
   "438": {
     "index": "438",
     "hex": "0x800001b6",
-    "symbol": "LN",
-    "name": "LINK"
+    "symbol": "FNSA",
+    "name": "FINSCHIA"
   },
   "439": {
     "index": "439",
@@ -4924,6 +4924,12 @@
     "hex": "0x800003f0",
     "symbol": "RPG",
     "name": "RPG"
+  },
+  "1009": {
+    "index": "1009",
+    "hex": "0x800003f1",
+    "symbol": "LAKE",
+    "name": "iconLake"
   },
   "1010": {
     "index": "1010",

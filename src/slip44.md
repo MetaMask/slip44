@@ -466,7 +466,7 @@ All these constants are used as hardened derivation.
 | 435        | 0x800001b3                    | PCN     | Peepcoin                          |
 | 436        | 0x800001b4                    | NCH     | NetCloth                          |
 | 437        | 0x800001b5                    | ICU     | CHIPO                             |
-| 438        | 0x800001b6                    | LN      | LINK                              |
+| 438        | 0x800001b6                    | FNSA    | FINSCHIA                          |
 | 439        | 0x800001b7                    | DTP     | DeVault Token Protocol            |
 | 440        | 0x800001b8                    | BTCR    | Bitcoin Royale                    |
 | 441        | 0x800001b9                    | AERGO   | AERGO                             |
@@ -1037,6 +1037,7 @@ All these constants are used as hardened derivation.
 | 1006       | 0x800003ee                    | HSK     | HashKey Chain                     |
 | 1007       | 0x800003ef                    | FTM     | Fantom                            |
 | 1008       | 0x800003f0                    | RPG     | RPG                               |
+| 1009       | 0x800003f1                    | LAKE    | iconLake                          |
 | 1010       | 0x800003f2                    | HT      | Huobi ECO Chain                   |
 | 1011       | 0x800003f3                    | ELV     | Eluvio                            |
 | 1013       | 0x800003f5                    | BIC     | Beincrypto                        |
