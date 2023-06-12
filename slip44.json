@@ -5069,6 +5069,12 @@
     "symbol": "ALPH",
     "name": "Alephium"
   },
+  "1236": {
+    "index": "1236",
+    "hex": "0x800004d4",
+    "symbol": "",
+    "name": "Masca"
+  },
   "1237": {
     "index": "1237",
     "hex": "0x800004d5",
@@ -5512,6 +5518,12 @@
     "hex": "0x80000901",
     "symbol": "ELA",
     "name": "Elastos"
+  },
+  "2309": {
+    "index": "2309",
+    "hex": "0x80000905",
+    "symbol": "SAMA",
+    "name": "Moonsama Network"
   },
   "2338": {
     "index": "2338",
