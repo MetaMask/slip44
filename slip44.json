@@ -5069,6 +5069,12 @@
     "symbol": "ALPH",
     "name": "Alephium"
   },
+  "1236": {
+    "index": "1236",
+    "hex": "0x800004d4",
+    "symbol": "",
+    "name": "Masca"
+  },
   "1237": {
     "index": "1237",
     "hex": "0x800004d5",
@@ -5513,6 +5519,12 @@
     "symbol": "ELA",
     "name": "Elastos"
   },
+  "2309": {
+    "index": "2309",
+    "hex": "0x80000905",
+    "symbol": "SAMA",
+    "name": "Moonsama Network"
+  },
   "2338": {
     "index": "2338",
     "hex": "0x80000922",
@@ -5764,6 +5776,18 @@
     "hex": "0x80001b39",
     "symbol": "ROGER",
     "name": "TheHolyrogerCoin"
+  },
+  "7027": {
+    "index": "7027",
+    "hex": "0x80001b73",
+    "symbol": "ELLA",
+    "name": "Ella the heart"
+  },
+  "7028": {
+    "index": "7028",
+    "hex": "0x80001b74",
+    "symbol": "AA",
+    "name": "Arthera"
   },
   "7091": {
     "index": "7091",

@@ -1062,6 +1062,7 @@ All these constants are used as hardened derivation.
 | 1155       | 0x80000483                    | EFI     | Efinity                           |
 | 1170       | 0x80000492                    | HOO     | Hoo Smart Chain                   |
 | 1234       | 0x800004d2                    | ALPH    | Alephium                          |
+| 1236       | 0x800004d4                    |         | Masca                             |
 | 1237       | 0x800004d5                    |         | Nostr                             |
 | 1284       | 0x80000504                    | GLMR    | Moonbeam                          |
 | 1285       | 0x80000505                    | MOVR    | Moonriver                         |
@@ -1136,6 +1137,7 @@ All these constants are used as hardened derivation.
 | 2303       | 0x800008ff                    | GXC     | GXChain                           |
 | 2304       | 0x80000900                    | CRP     | CranePay                          |
 | 2305       | 0x80000901                    | ELA     | Elastos                           |
+| 2309       | 0x80000905                    | SAMA    | Moonsama Network                  |
 | 2338       | 0x80000922                    | SNOW    | Snowblossom                       |
 | 2365       | 0x8000093d                    | XIN     | Mixin                             |
 | 2500       | 0x800009c4                    | NEXI    | Nexi                              |
@@ -1178,6 +1180,8 @@ All these constants are used as hardened derivation.
 | 6688       | 0x80001a20                    | SAFE    | SAFE                              |
 | 6779       | 0x80001a7b                    | COTI    | COTI                              |
 | 6969       | 0x80001b39                    | ROGER   | TheHolyrogerCoin                  |
+| 7027       | 0x80001b73                    | ELLA    | Ella the heart                    |
+| 7028       | 0x80001b74                    | AA      | Arthera                           |
 | 7091       | 0x80001bb3                    | TOPL    | Topl                              |
 | 7331       | 0x80001ca3                    | KLY     | KLYNTAR                           |
 | 7341       | 0x80001cad                    | SHFT    | Shyft                             |
