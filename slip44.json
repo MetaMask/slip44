@@ -3935,6 +3935,12 @@
     "symbol": "WMP",
     "name": "WAMP"
   },
+  "656": {
+    "index": "656",
+    "hex": "0x80000290",
+    "symbol": "EKTA",
+    "name": "Ekta"
+  },
   "659": {
     "index": "659",
     "hex": "0x80000293",
@@ -4991,6 +4997,12 @@
     "symbol": "MCM",
     "name": "Mochimo"
   },
+  "1028": {
+    "index": "1028",
+    "hex": "0x80000404",
+    "symbol": "PLS",
+    "name": "Pulse Coin"
+  },
   "1032": {
     "index": "1032",
     "hex": "0x80000408",
@@ -5110,6 +5122,12 @@
     "hex": "0x80000539",
     "symbol": "DFC",
     "name": "Defcoin"
+  },
+  "1348": {
+    "index": "1348",
+    "hex": "0x80000544",
+    "symbol": "ISLM",
+    "name": "IslamicCoin"
   },
   "1397": {
     "index": "1397",
@@ -5806,6 +5824,12 @@
     "hex": "0x80001cad",
     "symbol": "SHFT",
     "name": "Shyft"
+  },
+  "7518": {
+    "index": "7518",
+    "hex": "0x80001d5e",
+    "symbol": "MEV",
+    "name": "MEVerse"
   },
   "7777": {
     "index": "7777",
