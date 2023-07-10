@@ -684,7 +684,7 @@ All these constants are used as hardened derivation.
 | 653        | 0x8000028d                    | WSFX    | Wrapped Safex Cash                |
 | 654        | 0x8000028e                    | USDG    | US Digital Gold                   |
 | 655        | 0x8000028f                    | WMP     | WAMP                              |
-| 656        | 0x80000290                    | EKTA    | Ekta
+| 656        | 0x80000290                    | EKTA    | Ekta                              |
 | 657        | 0x80000291                    |         |
 | 658        | 0x80000292                    |         |
 | 659        | 0x80000293                    | KOIN    | Koinos                            |
@@ -906,7 +906,7 @@ All these constants are used as hardened derivation.
 | 875        | 0x8000036b                    |         |
 | 876        | 0x8000036c                    |         |
 | 877        | 0x8000036d                    | NAM     | Namada                            |
-| 878        | 0x8000036e                    |         |
+| 878        | 0x8000036e                    | SCR     | Scorum Network                    |
 | 879        | 0x8000036f                    |         |
 | 880        | 0x80000370                    | LUM     | Lum Network                       |
 | 881        | 0x80000371                    |         |
@@ -1048,7 +1048,7 @@ All these constants are used as hardened derivation.
 | 1025       | 0x80000401                    | CZZ     | Classzz                           |
 | 1026       | 0x80000402                    | KEX     | Kira Exchange Token               |
 | 1027       | 0x80000403                    | MCM     | Mochimo                           |
-| 1028       | 0x80000404                    | PLS     | Pulse Coin
+| 1028       | 0x80000404                    | PLS     | Pulse Coin                        |
 | 1032       | 0x80000408                    | BTCR    | BTCR                              |
 | 1042       | 0x80000412                    | MFID    | Moonfish ID                       |
 | 1111       | 0x80000457                    | BBC     | Big Bitcoin                       |
@@ -1069,6 +1069,7 @@ All these constants are used as hardened derivation.
 | 1298       | 0x80000512                    | WPC     | Wpc                               |
 | 1308       | 0x8000051c                    | WEI     | WEI                               |
 | 1337       | 0x80000539                    | DFC     | Defcoin                           |
+| 1348       | 0x80000544                    | ISLM    | IslamicCoin                       |
 | 1397       | 0x80000575                    | HYC     | Hycon                             |
 | 1410       | 0x80000582                    | TENTSLP | TENT Simple Ledger Protocol       |
 | 1510       | 0x800005e6                    | XSC     | XT Smart Chain                    |
@@ -1130,6 +1131,7 @@ All these constants are used as hardened derivation.
 | 2125       | 0x8000084d                    | BAY     | BitBay                            |
 | 2137       | 0x80000859                    | XRG     | Ergon                             |
 | 2182       | 0x80000888                    | CHZ     | Chiliz                            |
+| 2199       | 0x80000897                    | SAMA    | Moonsama Network                  |
 | 2221       | 0x800008ad                    | ASK     | ASK                               |
 | 2285       | 0x800008ed                    |         | Qiyi Chain                        |
 | 2301       | 0x800008fd                    | QTUM    | QTUM                              |
@@ -1137,7 +1139,6 @@ All these constants are used as hardened derivation.
 | 2303       | 0x800008ff                    | GXC     | GXChain                           |
 | 2304       | 0x80000900                    | CRP     | CranePay                          |
 | 2305       | 0x80000901                    | ELA     | Elastos                           |
-| 2309       | 0x80000905                    | SAMA    | Moonsama Network                  |
 | 2338       | 0x80000922                    | SNOW    | Snowblossom                       |
 | 2365       | 0x8000093d                    | XIN     | Mixin                             |
 | 2500       | 0x800009c4                    | NEXI    | Nexi                              |
@@ -1185,6 +1186,7 @@ All these constants are used as hardened derivation.
 | 7091       | 0x80001bb3                    | TOPL    | Topl                              |
 | 7331       | 0x80001ca3                    | KLY     | KLYNTAR                           |
 | 7341       | 0x80001cad                    | SHFT    | Shyft                             |
+| 7518       | 0x80001d5e                    | MEV     | MEVerse                           |
 | 7777       | 0x80001e61                    | BTV     | Bitvote                           |
 | 8000       | 0x80001f40                    | SKY     | Skycoin                           |
 | 8080       | 0x80001f90                    |         | DSRV                              |
