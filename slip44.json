@@ -5903,6 +5903,12 @@
     "symbol": "GGX",
     "name": "Golden Gate"
   },
+  "8886": {
+    "index": "8886",
+    "hex": "0x800022b6",
+    "symbol": "GGXT",
+    "name": "Golden Gate Sydney"
+  },
   "8888": {
     "index": "8888",
     "hex": "0x800022b8",
@@ -6010,6 +6016,12 @@
     "hex": "0x80002833",
     "symbol": "XRC",
     "name": "XRhodium"
+  },
+  "10507": {
+    "index": "10507",
+    "hex": "0x8000290b",
+    "symbol": "NUM",
+    "name": "Numbers Protocol"
   },
   "10605": {
     "index": "10605",

@@ -1198,6 +1198,7 @@ All these constants are used as hardened derivation.
 | 8520       | 0x80002148                    | ---     | reserved                          |
 | 8680       | 0x800021e8                    | PLMNT   | Planetmint                        |
 | 8866       | 0x800022a2                    | GGX     | Golden Gate                       |
+| 8886       | 0x800022b6                    | GGXT    | Golden Gate Sydney                |
 | 8888       | 0x800022b8                    | SBTC    | Super Bitcoin                     |
 | 8964       | 0x80002304                    | NULS    | NULS                              |
 | 8997       | 0x80002325                    | BBC     | Babacoin                          |
@@ -1216,6 +1217,7 @@ All these constants are used as hardened derivation.
 | 10000      | 0x80002710                    | FO      | FIBOS                             |
 | 10226      | 0x800027f2                    | RTM     | Raptoreum                         |
 | 10291      | 0x80002833                    | XRC     | XRhodium                          |
+| 10507      | 0x8000290b                    | NUM     | Numbers Protocol                  |
 | 10605      | 0x8000296d                    | XPI     | Lotus                             |
 | 11111      | 0x80002b67                    | ESS     | Essentia One                      |
 | 11742      | 0x80002dde                    | VARCH   | InvArch                           |
