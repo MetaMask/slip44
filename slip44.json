@@ -4367,6 +4367,12 @@
     "symbol": "DST",
     "name": "DSTRA"
   },
+  "802": {
+    "index": "802",
+    "hex": "0x80000322",
+    "symbol": "CY",
+    "name": "Cyberyen"
+  },
   "804": {
     "index": "804",
     "hex": "0x80000324",
@@ -5837,6 +5843,12 @@
     "symbol": "MEV",
     "name": "MEVerse"
   },
+  "7576": {
+    "index": "7576",
+    "hex": "0x80001d98",
+    "symbol": "ADIL",
+    "name": "ADIL Chain"
+  },
   "7777": {
     "index": "7777",
     "hex": "0x80001e61",
@@ -5902,6 +5914,12 @@
     "hex": "0x800022a2",
     "symbol": "GGX",
     "name": "Golden Gate"
+  },
+  "8886": {
+    "index": "8886",
+    "hex": "0x800022b6",
+    "symbol": "GGXT",
+    "name": "Golden Gate Sydney"
   },
   "8888": {
     "index": "8888",
@@ -6010,6 +6028,12 @@
     "hex": "0x80002833",
     "symbol": "XRC",
     "name": "XRhodium"
+  },
+  "10507": {
+    "index": "10507",
+    "hex": "0x8000290b",
+    "symbol": "NUM",
+    "name": "Numbers Protocol"
   },
   "10605": {
     "index": "10605",
