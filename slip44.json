@@ -3941,6 +3941,12 @@
     "symbol": "EKTA",
     "name": "Ekta"
   },
+  "657": {
+    "index": "657",
+    "hex": "0x80000291",
+    "symbol": "YDA",
+    "name": "YadaCoin"
+  },
   "659": {
     "index": "659",
     "hex": "0x80000293",
