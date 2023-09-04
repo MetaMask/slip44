@@ -1043,7 +1043,7 @@ All these constants are used as hardened derivation.
 | 1013       | 0x800003f5                    | BIC     | Beincrypto                        |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
-| 1023       | 0x800003ff                    | ONE     | HARMONY-ONE                       |
+| 1023       | 0x800003ff                    | ONE     | HARMONY-ONE (Legacy)              |
 | 1024       | 0x80000400                    | ONT     | Ontology                          |
 | 1025       | 0x80000401                    | CZZ     | Classzz                           |
 | 1026       | 0x80000402                    | KEX     | Kira Exchange Token               |
@@ -1176,6 +1176,7 @@ All these constants are used as hardened derivation.
 | 5920       | 0x80001720                    | SLU     | SILUBIUM                          |
 | 6060       | 0x800017ac                    | GO      | GoChain GO                        |
 | 6174       | 0x8000181e                    | MOI     | My Own Internet                   |
+| 6532       | 0x80001984                    | UM      | Penumbra                          |
 | 6599       | 0x800019c7                    | RSC     | Royal Sports City                 |
 | 6666       | 0x80001a0a                    | BPA     | Bitcoin Pizza                     |
 | 6688       | 0x80001a20                    | SAFE    | SAFE                              |

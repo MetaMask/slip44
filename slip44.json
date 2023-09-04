@@ -4995,7 +4995,7 @@
     "index": "1023",
     "hex": "0x800003ff",
     "symbol": "ONE",
-    "name": "HARMONY-ONE"
+    "name": "HARMONY-ONE (Legacy)"
   },
   "1024": {
     "index": "1024",
@@ -5788,6 +5788,12 @@
     "hex": "0x8000181e",
     "symbol": "MOI",
     "name": "My Own Internet"
+  },
+  "6532": {
+    "index": "6532",
+    "hex": "0x80001984",
+    "symbol": "UM",
+    "name": "Penumbra"
   },
   "6599": {
     "index": "6599",
