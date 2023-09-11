@@ -660,7 +660,7 @@ All these constants are used as hardened derivation.
 | 629        | 0x80000275                    | FNR     | Fincor                            |
 | 630        | 0x80000276                    | NEXUS   | Nexus                             |
 | 631        | 0x80000277                    | QTZ     | Quartz                            |
-| 632        | 0x80000278                    | XMA     | Massa                             |
+| 632        | 0x80000278                    | MAS     | Massa                             |
 | 633        | 0x80000279                    | CALL    | Callchain                         |
 | 634        | 0x8000027a                    | VAL     | Validity                          |
 | 635        | 0x8000027b                    | POKT    | Pocket Network                    |
@@ -1043,7 +1043,7 @@ All these constants are used as hardened derivation.
 | 1013       | 0x800003f5                    | BIC     | Beincrypto                        |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
-| 1023       | 0x800003ff                    | ONE     | HARMONY-ONE                       |
+| 1023       | 0x800003ff                    | ONE     | HARMONY-ONE (Legacy)              |
 | 1024       | 0x80000400                    | ONT     | Ontology                          |
 | 1025       | 0x80000401                    | CZZ     | Classzz                           |
 | 1026       | 0x80000402                    | KEX     | Kira Exchange Token               |
@@ -1059,7 +1059,7 @@ All these constants are used as hardened derivation.
 | 1130       | 0x8000046a                    | DFI     | DeFiChain EVM Network             |
 | 1137       | 0x80000471                    | $DAG    | Constellation Labs                |
 | 1145       | 0x80000479                    | CDY     | Bitcoin Candy                     |
-| 1155       | 0x80000483                    | EFI     | Efinity                           |
+| 1155       | 0x80000483                    | ENJ     | Enjin Coin                        |
 | 1170       | 0x80000492                    | HOO     | Hoo Smart Chain                   |
 | 1234       | 0x800004d2                    | ALPH    | Alephium                          |
 | 1236       | 0x800004d4                    |         | Masca                             |
@@ -1176,6 +1176,7 @@ All these constants are used as hardened derivation.
 | 5920       | 0x80001720                    | SLU     | SILUBIUM                          |
 | 6060       | 0x800017ac                    | GO      | GoChain GO                        |
 | 6174       | 0x8000181e                    | MOI     | My Own Internet                   |
+| 6532       | 0x80001984                    | UM      | Penumbra                          |
 | 6599       | 0x800019c7                    | RSC     | Royal Sports City                 |
 | 6666       | 0x80001a0a                    | BPA     | Bitcoin Pizza                     |
 | 6688       | 0x80001a20                    | SAFE    | SAFE                              |
@@ -1216,6 +1217,7 @@ All these constants are used as hardened derivation.
 | 9888       | 0x800026a0                    | BTF     | Bitcoin Faith                     |
 | 9999       | 0x8000270f                    | GOD     | Bitcoin God                       |
 | 10000      | 0x80002710                    | FO      | FIBOS                             |
+| 10111      | 0x8000277f                    | DHP     | dHealth                           |
 | 10226      | 0x800027f2                    | RTM     | Raptoreum                         |
 | 10291      | 0x80002833                    | XRC     | XRhodium                          |
 | 10507      | 0x8000290b                    | NUM     | Numbers Protocol                  |

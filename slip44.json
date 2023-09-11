@@ -3794,7 +3794,7 @@
   "632": {
     "index": "632",
     "hex": "0x80000278",
-    "symbol": "XMA",
+    "symbol": "MAS",
     "name": "Massa"
   },
   "633": {
@@ -4995,7 +4995,7 @@
     "index": "1023",
     "hex": "0x800003ff",
     "symbol": "ONE",
-    "name": "HARMONY-ONE"
+    "name": "HARMONY-ONE (Legacy)"
   },
   "1024": {
     "index": "1024",
@@ -5090,8 +5090,8 @@
   "1155": {
     "index": "1155",
     "hex": "0x80000483",
-    "symbol": "EFI",
-    "name": "Efinity"
+    "symbol": "ENJ",
+    "name": "Enjin Coin"
   },
   "1170": {
     "index": "1170",
@@ -5789,6 +5789,12 @@
     "symbol": "MOI",
     "name": "My Own Internet"
   },
+  "6532": {
+    "index": "6532",
+    "hex": "0x80001984",
+    "symbol": "UM",
+    "name": "Penumbra"
+  },
   "6599": {
     "index": "6599",
     "hex": "0x800019c7",
@@ -6028,6 +6034,12 @@
     "hex": "0x80002710",
     "symbol": "FO",
     "name": "FIBOS"
+  },
+  "10111": {
+    "index": "10111",
+    "hex": "0x8000277f",
+    "symbol": "DHP",
+    "name": "dHealth"
   },
   "10226": {
     "index": "10226",
