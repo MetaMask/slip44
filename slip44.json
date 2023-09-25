@@ -3794,7 +3794,7 @@
   "632": {
     "index": "632",
     "hex": "0x80000278",
-    "symbol": "XMA",
+    "symbol": "MAS",
     "name": "Massa"
   },
   "633": {
@@ -3959,6 +3959,12 @@
     "symbol": "PIRATE",
     "name": "PirateCash"
   },
+  "661": {
+    "index": "661",
+    "hex": "0x80000295",
+    "symbol": "UNQ",
+    "name": "Unique"
+  },
   "663": {
     "index": "663",
     "hex": "0x80000297",
@@ -4067,6 +4073,12 @@
     "symbol": "CHTA",
     "name": "Cheetahcoin"
   },
+  "683": {
+    "index": "683",
+    "hex": "0x800002ab",
+    "symbol": "ALEO",
+    "name": "Aleo Network"
+  },
   "685": {
     "index": "685",
     "hex": "0x800002ad",
@@ -4132,6 +4144,12 @@
     "hex": "0x800002c3",
     "symbol": "MCOIN",
     "name": "Moneta Coin"
+  },
+  "710": {
+    "index": "710",
+    "hex": "0x800002c6",
+    "symbol": "FURY",
+    "name": "Highbury"
   },
   "711": {
     "index": "711",
@@ -4995,7 +5013,7 @@
     "index": "1023",
     "hex": "0x800003ff",
     "symbol": "ONE",
-    "name": "HARMONY-ONE"
+    "name": "HARMONY-ONE (Legacy)"
   },
   "1024": {
     "index": "1024",
@@ -5090,8 +5108,8 @@
   "1155": {
     "index": "1155",
     "hex": "0x80000483",
-    "symbol": "EFI",
-    "name": "Efinity"
+    "symbol": "ENJ",
+    "name": "Enjin Coin"
   },
   "1170": {
     "index": "1170",
@@ -5465,6 +5483,12 @@
     "symbol": "XHT",
     "name": "Xinghuo Token"
   },
+  "2024": {
+    "index": "2024",
+    "hex": "0x800007e8",
+    "symbol": "USBC",
+    "name": "Universal Ledger USBC"
+  },
   "2046": {
     "index": "2046",
     "hex": "0x800007fe",
@@ -5675,6 +5699,12 @@
     "symbol": "CY",
     "name": "Cybits"
   },
+  "3757": {
+    "index": "3757",
+    "hex": "0x80000ead",
+    "symbol": "MPC",
+    "name": "Partisia Blockchain"
+  },
   "4040": {
     "index": "4040",
     "hex": "0x80000fc8",
@@ -5788,6 +5818,12 @@
     "hex": "0x8000181e",
     "symbol": "MOI",
     "name": "My Own Internet"
+  },
+  "6532": {
+    "index": "6532",
+    "hex": "0x80001984",
+    "symbol": "UM",
+    "name": "Penumbra"
   },
   "6599": {
     "index": "6599",
@@ -6028,6 +6064,12 @@
     "hex": "0x80002710",
     "symbol": "FO",
     "name": "FIBOS"
+  },
+  "10111": {
+    "index": "10111",
+    "hex": "0x8000277f",
+    "symbol": "DHP",
+    "name": "dHealth"
   },
   "10226": {
     "index": "10226",
