@@ -7,19 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [3.1.0]
-### Uncategorized
+### Changed
 - Update with latest data as of 2023-10-09 ([#101](https://github.com/MetaMask/slip44/pull/101))
-- Update with latest data as of 2023-08-21 ([#93](https://github.com/MetaMask/slip44/pull/93))
-- Bump word-wrap from 1.2.3 to 1.2.5 ([#92](https://github.com/MetaMask/slip44/pull/92))
-- Bump semver from 6.3.0 to 6.3.1 ([#91](https://github.com/MetaMask/slip44/pull/91))
-- Bump @metamask/auto-changelog from 3.1.0 to 3.2.0 ([#82](https://github.com/MetaMask/slip44/pull/82))
-- Update with latest data as of 2023-08-14 ([#90](https://github.com/MetaMask/slip44/pull/90))
-- Update with latest data as of 2023-07-10 ([#81](https://github.com/MetaMask/slip44/pull/81))
-- Update with latest data as of 2023-06-19 ([#78](https://github.com/MetaMask/slip44/pull/78))
-- Update with latest data as of 2023-06-05 ([#76](https://github.com/MetaMask/slip44/pull/76))
-- Update with latest data as of 2023-05-22 ([#74](https://github.com/MetaMask/slip44/pull/74))
-- Update with latest data as of 2023-05-01 ([#70](https://github.com/MetaMask/slip44/pull/70))
-- chore: bump devDeps ([#71](https://github.com/MetaMask/slip44/pull/71))
 
 ## [3.0.0]
 ### Changed
