@@ -5213,6 +5213,12 @@
     "symbol": "BEAM",
     "name": "Beam"
   },
+  "1551": {
+    "index": "1551",
+    "hex": "0x8000060f",
+    "symbol": "SDK",
+    "name": "Sovereign SDK"
+  },
   "1555": {
     "index": "1555",
     "hex": "0x80000613",
@@ -5488,6 +5494,12 @@
     "hex": "0x800007e6",
     "symbol": "XHT",
     "name": "Xinghuo Token"
+  },
+  "2023": {
+    "index": "2023",
+    "hex": "0x800007e7",
+    "symbol": "COC",
+    "name": "Chat On Chain"
   },
   "2024": {
     "index": "2024",
