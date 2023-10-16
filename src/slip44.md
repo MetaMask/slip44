@@ -1077,6 +1077,7 @@ All these constants are used as hardened derivation.
 | 1512       | 0x800005e8                    | AAC     | Double-A Chain                    |
 | 1524       | 0x800005f4                    |         | Taler                             |
 | 1533       | 0x800005fd                    | BEAM    | Beam                              |
+| 1551       | 0x8000060f                    | SDK     | Sovereign SDK                     |
 | 1555       | 0x80000613                    | APC     | Apc Chain                         |
 | 1616       | 0x80000650                    | ELF     | AELF                              |
 | 1618       | 0x80000652                    | AUDL    | AUDL                              |
@@ -1124,6 +1125,7 @@ All these constants are used as hardened derivation.
 | 2021       | 0x800007e5                    | SKT     | Sukhavati                         |
 | 2024       | 0x800007e8                    | USBC    | Universal Ledger USBC             |
 | 2022       | 0x800007e6                    | XHT     | Xinghuo Token                     |
+| 2023       | 0x800007e7                    | COC     | Chat On Chain                     |
 | 2046       | 0x800007fe                    | ANY     | Any                               |
 | 2048       | 0x80000800                    | MCASH   | MCashChain                        |
 | 2049       | 0x80000801                    | TRUE    | TrueChain                         |
