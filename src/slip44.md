@@ -1041,6 +1041,7 @@ All these constants are used as hardened derivation.
 | 1010       | 0x800003f2                    | HT      | Huobi ECO Chain                   |
 | 1011       | 0x800003f3                    | ELV     | Eluvio                            |
 | 1013       | 0x800003f5                    | BIC     | Beincrypto                        |
+| 1016       | 0x800003f8                    | CORE    | Core                              |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
 | 1023       | 0x800003ff                    | ONE     | HARMONY-ONE (Legacy)              |
@@ -1244,6 +1245,7 @@ All these constants are used as hardened derivation.
 | 19165      | 0x80004add                    | SAFE    | Safecoin                          |
 | 19167      | 0x80004adf                    | FLUX    | Flux                              |
 | 19169      | 0x80004ae1                    | RITO    | Ritocoin                          |
+| 19788      | 0x80004d4c                    | ML      | Mintlayer                         |
 | 20036      | 0x80004e44                    | XND     | ndau                              |
 | 21004      | 0x8000520c                    | C4EI    | c4ei                              |
 | 21888      | 0x80005580                    | PAC     | Pactus                            |
@@ -1305,6 +1307,7 @@ All these constants are used as hardened derivation.
 | 5741565    | 0x80579bfd                    | WEST    | Waves Enterprise                  |
 | 6382179    | 0x80616263                    | ABC     | Abcmint                           |
 | 6517357    | 0x8063726d                    | CRM     | Creamcoin                         |
+| 7171666    | 0x806d6e52                    | BROCK   | Bitrock                           |
 | 7562605    | 0x8073656d                    | SEM     | Semux                             |
 | 7567736    | 0x80737978                    | ION     | ION                               |
 | 7777777    | 0x8076adf1                    | FCT     | FirmaChain                        |

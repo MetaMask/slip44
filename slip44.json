@@ -4997,6 +4997,12 @@
     "symbol": "BIC",
     "name": "Beincrypto"
   },
+  "1016": {
+    "index": "1016",
+    "hex": "0x800003f8",
+    "symbol": "CORE",
+    "name": "Core"
+  },
   "1020": {
     "index": "1020",
     "hex": "0x800003fc",
@@ -6215,6 +6221,12 @@
     "symbol": "RITO",
     "name": "Ritocoin"
   },
+  "19788": {
+    "index": "19788",
+    "hex": "0x80004d4c",
+    "symbol": "ML",
+    "name": "Mintlayer"
+  },
   "20036": {
     "index": "20036",
     "hex": "0x80004e44",
@@ -6580,6 +6592,12 @@
     "hex": "0x8063726d",
     "symbol": "CRM",
     "name": "Creamcoin"
+  },
+  "7171666": {
+    "index": "7171666",
+    "hex": "0x806d6e52",
+    "symbol": "BROCK",
+    "name": "Bitrock"
   },
   "7562605": {
     "index": "7562605",
