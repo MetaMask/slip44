@@ -5351,6 +5351,12 @@
     "symbol": "CLC",
     "name": "Classica"
   },
+  "1907": {
+    "index": "1907",
+    "hex": "0x80000773",
+    "symbol": "BITCI",
+    "name": "Bitcicoin"
+  },
   "1919": {
     "index": "1919",
     "hex": "0x8000077f",
