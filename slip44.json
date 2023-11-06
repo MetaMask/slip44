@@ -5675,6 +5675,12 @@
     "symbol": "BND",
     "name": "Blocknode"
   },
+  "3000": {
+    "index": "3000",
+    "hex": "0x80000bb8",
+    "symbol": "SM",
+    "name": "Stealth Message"
+  },
   "3003": {
     "index": "3003",
     "hex": "0x80000bbb",
