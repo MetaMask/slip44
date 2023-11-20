@@ -309,7 +309,7 @@ All these constants are used as hardened derivation.
 | 278        | 0x80000116                    | BOLI    | Bolivarcoin                       |
 | 279        | 0x80000117                    | RIL     | Rilcoin                           |
 | 280        | 0x80000118                    | HTR     | Hathor Network                    |
-| 281        | 0x80000119                    | FCTID   | Factom ID                         |
+| 281        | 0x80000119                    | ACME    | Accumulate                        |
 | 282        | 0x8000011a                    | BRAVO   | BRAVO                             |
 | 283        | 0x8000011b                    | ALGO    | Algorand                          |
 | 284        | 0x8000011c                    | BZX     | Bitcoinzero                       |
@@ -755,7 +755,7 @@ All these constants are used as hardened derivation.
 | 724        | 0x800002d4                    | XVC     | Vanillacash                       |
 | 725        | 0x800002d5                    | MCX     | MultiCash                         |
 | 726        | 0x800002d6                    |         |
-| 727        | 0x800002d7                    |         |
+| 727        | 0x800002d7                    | BLU     | BluCrates                         |
 | 728        | 0x800002d8                    |         |
 | 729        | 0x800002d9                    |         |
 | 730        | 0x800002da                    | HEALIOS | Tenacity                          |
@@ -1040,8 +1040,9 @@ All these constants are used as hardened derivation.
 | 1009       | 0x800003f1                    | LAKE    | iconLake                          |
 | 1010       | 0x800003f2                    | HT      | Huobi ECO Chain                   |
 | 1011       | 0x800003f3                    | ELV     | Eluvio                            |
+| 1012       | 0x800003f4                    | JOC     | Japan Open Chain                  |
 | 1013       | 0x800003f5                    | BIC     | Beincrypto                        |
-| 1016       | 0x800003f8                    | CORE    | Core                              |
+| 1016       | 0x800003f8                    | ---     | reserved                          |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
 | 1023       | 0x800003ff                    | ONE     | HARMONY-ONE (Legacy)              |
@@ -1053,6 +1054,7 @@ All these constants are used as hardened derivation.
 | 1032       | 0x80000408                    | BTCR    | BTCR                              |
 | 1042       | 0x80000412                    | MFID    | Moonfish ID                       |
 | 1111       | 0x80000457                    | BBC     | Big Bitcoin                       |
+| 1116       | 0x8000045C                    | CORE    | Core                              |
 | 1120       | 0x80000460                    | RISE    | RISE                              |
 | 1122       | 0x80000462                    | CMT     | CyberMiles Token                  |
 | 1128       | 0x80000468                    | ETSC    | Ethereum Social                   |
@@ -1154,6 +1156,7 @@ All these constants are used as hardened derivation.
 | 2718       | 0x80000a9e                    | NAS     | Nebulas                           |
 | 2894       | 0x80000b4e                    | REOSC   | REOSC Ecosystem                   |
 | 2941       | 0x80000b7d                    | BND     | Blocknode                         |
+| 3000       | 0x80000bb8                    | SM      | Stealth Message                   |
 | 3003       | 0x80000bbb                    | LUX     | LUX                               |
 | 3030       | 0x80000bd6                    | HBAR    | Hedera HBAR                       |
 | 3077       | 0x80000c05                    | COS     | Contentos                         |
@@ -1174,6 +1177,7 @@ All these constants are used as hardened derivation.
 | 4343       | 0x800010f7                    | XYM     | Symbol                            |
 | 4444       | 0x8000115c                    | C4E     | Chain4Energy                      |
 | 4919       | 0x80001337                    | XVM     | Venidium                          |
+| 4999       | 0x80001387                    | BXN     | BlackFort Exchange Network        |
 | 5006       | 0x8000138e                    | SBC     | Senior Blockchain                 |
 | 5248       | 0x80001480                    | FIC     | FIC                               |
 | 5353       | 0x800014e9                    | HNS     | Handshake                         |
