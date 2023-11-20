@@ -1688,8 +1688,8 @@
   "281": {
     "index": "281",
     "hex": "0x80000119",
-    "symbol": "FCTID",
-    "name": "Factom ID"
+    "symbol": "ACME",
+    "name": "Accumulate"
   },
   "282": {
     "index": "282",
@@ -4229,6 +4229,12 @@
     "symbol": "MCX",
     "name": "MultiCash"
   },
+  "727": {
+    "index": "727",
+    "hex": "0x800002d7",
+    "symbol": "BLU",
+    "name": "BluCrates"
+  },
   "730": {
     "index": "730",
     "hex": "0x800002da",
@@ -4991,6 +4997,12 @@
     "symbol": "ELV",
     "name": "Eluvio"
   },
+  "1012": {
+    "index": "1012",
+    "hex": "0x800003f4",
+    "symbol": "JOC",
+    "name": "Japan Open Chain"
+  },
   "1013": {
     "index": "1013",
     "hex": "0x800003f5",
@@ -5000,8 +5012,8 @@
   "1016": {
     "index": "1016",
     "hex": "0x800003f8",
-    "symbol": "CORE",
-    "name": "Core"
+    "symbol": "---",
+    "name": "reserved"
   },
   "1020": {
     "index": "1020",
@@ -5068,6 +5080,12 @@
     "hex": "0x80000457",
     "symbol": "BBC",
     "name": "Big Bitcoin"
+  },
+  "1116": {
+    "index": "1116",
+    "hex": "0x8000045C",
+    "symbol": "CORE",
+    "name": "Core"
   },
   "1120": {
     "index": "1120",
@@ -5675,6 +5693,12 @@
     "symbol": "BND",
     "name": "Blocknode"
   },
+  "3000": {
+    "index": "3000",
+    "hex": "0x80000bb8",
+    "symbol": "SM",
+    "name": "Stealth Message"
+  },
   "3003": {
     "index": "3003",
     "hex": "0x80000bbb",
@@ -5794,6 +5818,12 @@
     "hex": "0x80001337",
     "symbol": "XVM",
     "name": "Venidium"
+  },
+  "4999": {
+    "index": "4999",
+    "hex": "0x80001387",
+    "symbol": "BXN",
+    "name": "BlackFort Exchange Network"
   },
   "5006": {
     "index": "5006",
