@@ -4211,6 +4211,12 @@
     "symbol": "ABY",
     "name": "Artbyte"
   },
+  "721": {
+    "index": "721",
+    "hex": "0x800002d1",
+    "symbol": "PGX",
+    "name": "Mirai Chain"
+  },
   "722": {
     "index": "722",
     "hex": "0x800002d2",
