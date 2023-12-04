@@ -4139,6 +4139,24 @@
     "symbol": "CCC",
     "name": "Commercio Cash Credit"
   },
+  "704": {
+    "index": "704",
+    "hex": "0x800002c0",
+    "symbol": "RAQ",
+    "name": "Ra Quantum"
+  },
+  "705": {
+    "index": "705",
+    "hex": "0x800002c1",
+    "symbol": "PEG",
+    "name": "Pegasus Token"
+  },
+  "706": {
+    "index": "706",
+    "hex": "0x800002c2",
+    "symbol": "LKG",
+    "name": "Lionking"
+  },
   "707": {
     "index": "707",
     "hex": "0x800002c3",
