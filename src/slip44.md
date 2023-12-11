@@ -692,8 +692,8 @@ All these constants are used as hardened derivation.
 | 661        | 0x80000295                    | UNQ     | Unique                            |
 | 662        | 0x80000296                    |         |
 | 663        | 0x80000297                    | SFRX    | EtherGem Sapphire                 |
-| 664        | 0x80000298                    |         |
-| 665        | 0x80000299                    |         |
+| 664        | 0x80000298                    | BSTY    | GlobalBoost-Y                     |
+| 665        | 0x80000299                    | IMP     | Impact Protocol                   |
 | 666        | 0x8000029a                    | ACT     | Achain                            |
 | 667        | 0x8000029b                    | PRKL    | Perkle                            |
 | 668        | 0x8000029c                    | SSC     | SelfSell                          |
@@ -732,9 +732,9 @@ All these constants are used as hardened derivation.
 | 701        | 0x800002bd                    | COM     | Commercio                         |
 | 702        | 0x800002be                    | CCC     | Commercio Cash Credit             |
 | 703        | 0x800002bf                    |         |
-| 704        | 0x800002c0                    |         |
-| 705        | 0x800002c1                    |         |
-| 706        | 0x800002c2                    |         |
+| 704        | 0x800002c0                    | RAQ     | Ra Quantum                        |
+| 705        | 0x800002c1                    | PEG     | Pegasus Token                     |
+| 706        | 0x800002c2                    | LKG     | Lionking                          |
 | 707        | 0x800002c3                    | MCOIN   | Moneta Coin                       |
 | 708        | 0x800002c4                    |         |
 | 709        | 0x800002c5                    |         |

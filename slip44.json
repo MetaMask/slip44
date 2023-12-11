@@ -3971,6 +3971,18 @@
     "symbol": "SFRX",
     "name": "EtherGem Sapphire"
   },
+  "664": {
+    "index": "664",
+    "hex": "0x80000298",
+    "symbol": "BSTY",
+    "name": "GlobalBoost-Y"
+  },
+  "665": {
+    "index": "665",
+    "hex": "0x80000299",
+    "symbol": "IMP",
+    "name": "Impact Protocol"
+  },
   "666": {
     "index": "666",
     "hex": "0x8000029a",
@@ -4138,6 +4150,24 @@
     "hex": "0x800002be",
     "symbol": "CCC",
     "name": "Commercio Cash Credit"
+  },
+  "704": {
+    "index": "704",
+    "hex": "0x800002c0",
+    "symbol": "RAQ",
+    "name": "Ra Quantum"
+  },
+  "705": {
+    "index": "705",
+    "hex": "0x800002c1",
+    "symbol": "PEG",
+    "name": "Pegasus Token"
+  },
+  "706": {
+    "index": "706",
+    "hex": "0x800002c2",
+    "symbol": "LKG",
+    "name": "Lionking"
   },
   "707": {
     "index": "707",
