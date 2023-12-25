@@ -5119,7 +5119,7 @@
   },
   "1116": {
     "index": "1116",
-    "hex": "0x8000045C",
+    "hex": "0x8000045c",
     "symbol": "CORE",
     "name": "Core"
   },
@@ -6011,6 +6011,12 @@
     "symbol": "BTV",
     "name": "Bitvote"
   },
+  "7779": {
+    "index": "7779",
+    "hex": "0x80001e63",
+    "symbol": "CPV",
+    "name": "Compverse"
+  },
   "8000": {
     "index": "8000",
     "hex": "0x80001f40",
@@ -6407,6 +6413,12 @@
     "symbol": "AXIV",
     "name": "AXIV"
   },
+  "47803": {
+    "index": "47803",
+    "hex": "0x8000babb",
+    "symbol": "BAX",
+    "name": "BAX"
+  },
   "49262": {
     "index": "49262",
     "hex": "0x8000c06e",
@@ -6508,6 +6520,12 @@
     "hex": "0x80011000",
     "symbol": "GENOM",
     "name": "GENOM"
+  },
+  "224433": {
+    "index": "224433",
+    "hex": "0x80036cb1",
+    "symbol": "CONET",
+    "name": "CONET Holesky Network"
   },
   "246529": {
     "index": "246529",
