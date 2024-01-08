@@ -801,7 +801,7 @@ All these constants are used as hardened derivation.
 | 770        | 0x80000302                    | COSA    | Cosanta                           |
 | 771        | 0x80000303                    | BR      | BR                                |
 | 772        | 0x80000304                    |         |
-| 773        | 0x80000305                    |         |
+| 773        | 0x80000305                    | CSB     | CosmoBliss                        |
 | 774        | 0x80000306                    |         |
 | 775        | 0x80000307                    | PLSR    | Pulsar Coin                       |
 | 776        | 0x80000308                    | KEY     | Keymaker Coin                     |
@@ -1054,7 +1054,7 @@ All these constants are used as hardened derivation.
 | 1032       | 0x80000408                    | BTCR    | BTCR                              |
 | 1042       | 0x80000412                    | MFID    | Moonfish ID                       |
 | 1111       | 0x80000457                    | BBC     | Big Bitcoin                       |
-| 1116       | 0x8000045C                    | CORE    | Core                              |
+| 1116       | 0x8000045c                    | CORE    | Core                              |
 | 1120       | 0x80000460                    | RISE    | RISE                              |
 | 1122       | 0x80000462                    | CMT     | CyberMiles Token                  |
 | 1128       | 0x80000468                    | ETSC    | Ethereum Social                   |
@@ -1187,6 +1187,7 @@ All these constants are used as hardened derivation.
 | 5757       | 0x8000167d                    | STX     | Stacks                            |
 | 5895       | 0x80001707                    | VOW     | VowChain VOW                      |
 | 5920       | 0x80001720                    | SLU     | SILUBIUM                          |
+| 5995       | 0x8000176B                    | DUSK    | Dusk Network                      |
 | 6060       | 0x800017ac                    | GO      | GoChain GO                        |
 | 6174       | 0x8000181e                    | MOI     | My Own Internet                   |
 | 6532       | 0x80001984                    | UM      | Penumbra                          |
@@ -1203,6 +1204,7 @@ All these constants are used as hardened derivation.
 | 7518       | 0x80001d5e                    | MEV     | MEVerse                           |
 | 7576       | 0x80001d98                    | ADIL    | ADIL Chain                        |
 | 7777       | 0x80001e61                    | BTV     | Bitvote                           |
+| 7779       | 0x80001e63                    | CPV     | Compverse                         |
 | 8000       | 0x80001f40                    | SKY     | Skycoin                           |
 | 8080       | 0x80001f90                    |         | DSRV                              |
 | 8181       | 0x80001ff5                    | BOC     | BeOne Chain                       |
@@ -1232,6 +1234,7 @@ All these constants are used as hardened derivation.
 | 10000      | 0x80002710                    | FO      | FIBOS                             |
 | 10111      | 0x8000277f                    | DHP     | dHealth                           |
 | 10226      | 0x800027f2                    | RTM     | Raptoreum                         |
+| 10242      | 0x80002802                    | AA      | Arthera                           |
 | 10291      | 0x80002833                    | XRC     | XRhodium                          |
 | 10507      | 0x8000290b                    | NUM     | Numbers Protocol                  |
 | 10605      | 0x8000296d                    | XPI     | Lotus                             |
@@ -1269,6 +1272,7 @@ All these constants are used as hardened derivation.
 | 39321      | 0x80009999                    | AMA     | Amabig                            |
 | 42069      | 0x8000a455                    | FACT    | FACT0RN                           |
 | 43028      | 0x8000a814                    | AXIV    | AXIV                              |
+| 47803      | 0x8000babb                    | BAX     | BAX                               |
 | 49262      | 0x8000c06e                    | EVE     | evan                              |
 | 49344      | 0x8000c0c0                    | STASH   | STASH                             |
 | 52752      | 0x8000ce10                    | CELO    | Celo                              |
@@ -1286,6 +1290,7 @@ All these constants are used as hardened derivation.
 | 161803     | 0x8002780b                    | APTA    | Bloqs4Good                        |
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
 | 200665     | 0x80011000                    | GENOM   | GENOM                             |
+| 224433     | 0x80036cb1                    | CONET   | CONET Holesky Network             |
 | 246529     | 0x8003c301                    | ATS     | ARTIS sigma1                      |
 | 261131     | 0x8003fc0b                    | ZAMA    | Zama                              |
 | 314159     | 0x8004cb2f                    | PI      | Pi Network                        |
