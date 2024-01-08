@@ -4343,6 +4343,12 @@
     "symbol": "BR",
     "name": "BR"
   },
+  "773": {
+    "index": "773",
+    "hex": "0x80000305",
+    "symbol": "CSB",
+    "name": "CosmoBliss"
+  },
   "775": {
     "index": "775",
     "hex": "0x80000307",
@@ -5119,7 +5125,7 @@
   },
   "1116": {
     "index": "1116",
-    "hex": "0x8000045C",
+    "hex": "0x8000045c",
     "symbol": "CORE",
     "name": "Core"
   },
@@ -5915,6 +5921,12 @@
     "symbol": "SLU",
     "name": "SILUBIUM"
   },
+  "5995": {
+    "index": "5995",
+    "hex": "0x8000176B",
+    "symbol": "DUSK",
+    "name": "Dusk Network"
+  },
   "6060": {
     "index": "6060",
     "hex": "0x800017ac",
@@ -6010,6 +6022,12 @@
     "hex": "0x80001e61",
     "symbol": "BTV",
     "name": "Bitvote"
+  },
+  "7779": {
+    "index": "7779",
+    "hex": "0x80001e63",
+    "symbol": "CPV",
+    "name": "Compverse"
   },
   "8000": {
     "index": "8000",
@@ -6184,6 +6202,12 @@
     "hex": "0x800027f2",
     "symbol": "RTM",
     "name": "Raptoreum"
+  },
+  "10242": {
+    "index": "10242",
+    "hex": "0x80002802",
+    "symbol": "AA",
+    "name": "Arthera"
   },
   "10291": {
     "index": "10291",
@@ -6407,6 +6431,12 @@
     "symbol": "AXIV",
     "name": "AXIV"
   },
+  "47803": {
+    "index": "47803",
+    "hex": "0x8000babb",
+    "symbol": "BAX",
+    "name": "BAX"
+  },
   "49262": {
     "index": "49262",
     "hex": "0x8000c06e",
@@ -6508,6 +6538,12 @@
     "hex": "0x80011000",
     "symbol": "GENOM",
     "name": "GENOM"
+  },
+  "224433": {
+    "index": "224433",
+    "hex": "0x80036cb1",
+    "symbol": "CONET",
+    "name": "CONET Holesky Network"
   },
   "246529": {
     "index": "246529",
