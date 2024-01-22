@@ -5789,6 +5789,12 @@
     "symbol": "SEQ",
     "name": "Sequence"
   },
+  "3501": {
+    "index": "3501",
+    "hex": "0x80000dad",
+    "symbol": "JFIN",
+    "name": "JFIN Coin"
+  },
   "3552": {
     "index": "3552",
     "hex": "0x80000de0",
@@ -5866,6 +5872,12 @@
     "hex": "0x80001387",
     "symbol": "BXN",
     "name": "BlackFort Exchange Network"
+  },
+  "5000": {
+    "index": "5000",
+    "hex": "0x80001388",
+    "symbol": "V12",
+    "name": "Vet The Vote"
   },
   "5006": {
     "index": "5006",
