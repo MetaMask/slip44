@@ -844,7 +844,7 @@ All these constants are used as hardened derivation.
 | 813        | 0x8000032d                    | MEER    | Qitmeer                           |
 | 814        | 0x8000032e                    |         |
 | 815        | 0x8000032f                    |         |
-| 816        | 0x80000330                    |         |
+| 816        | 0x80000330                    | FSC     | FSC
 | 817        | 0x80000331                    |         |
 | 818        | 0x80000332                    | VET     | VeChain Token                     |
 | 819        | 0x80000333                    | REEF    | Reef                              |
@@ -1165,6 +1165,7 @@ All these constants are used as hardened derivation.
 | 3377       | 0x80000d31                    | ROI     | ROIcoin                           |
 | 3381       | 0x80000d35                    | DYN     | Dynamic                           |
 | 3383       | 0x80000d37                    | SEQ     | Sequence                          |
+| 3501       | 0x80000dad                    | JFIN    | JFIN Coin                         |
 | 3552       | 0x80000de0                    | DEO     | Destocoin                         |
 | 3564       | 0x80000dec                    | DST     | DeStream                          |
 | 3601       | 0x80000e11                    | CY      | Cybits                            |
@@ -1178,6 +1179,7 @@ All these constants are used as hardened derivation.
 | 4444       | 0x8000115c                    | C4E     | Chain4Energy                      |
 | 4919       | 0x80001337                    | XVM     | Venidium                          |
 | 4999       | 0x80001387                    | BXN     | BlackFort Exchange Network        |
+| 5000       | 0x80001388                    | V12     | Vet The Vote                      |
 | 5006       | 0x8000138e                    | SBC     | Senior Blockchain                 |
 | 5248       | 0x80001480                    | FIC     | FIC                               |
 | 5353       | 0x800014e9                    | HNS     | Handshake                         |
@@ -1189,7 +1191,9 @@ All these constants are used as hardened derivation.
 | 5920       | 0x80001720                    | SLU     | SILUBIUM                          |
 | 5995       | 0x8000176B                    | DUSK    | Dusk Network                      |
 | 6060       | 0x800017ac                    | GO      | GoChain GO                        |
+| 6144       | 0x80001800                    | DTS     | Datos                             |
 | 6174       | 0x8000181e                    | MOI     | My Own Internet                   |
+| 6278       | 0x80001886                    | STEAMX  | Rails Network Mainnet             |
 | 6532       | 0x80001984                    | UM      | Penumbra                          |
 | 6599       | 0x800019c7                    | RSC     | Royal Sports City                 |
 | 6666       | 0x80001a0a                    | BPA     | Bitcoin Pizza                     |
