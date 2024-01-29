@@ -5789,6 +5789,12 @@
     "symbol": "SEQ",
     "name": "Sequence"
   },
+  "3501": {
+    "index": "3501",
+    "hex": "0x80000dad",
+    "symbol": "JFIN",
+    "name": "JFIN Coin"
+  },
   "3552": {
     "index": "3552",
     "hex": "0x80000de0",
@@ -5867,6 +5873,12 @@
     "symbol": "BXN",
     "name": "BlackFort Exchange Network"
   },
+  "5000": {
+    "index": "5000",
+    "hex": "0x80001388",
+    "symbol": "V12",
+    "name": "Vet The Vote"
+  },
   "5006": {
     "index": "5006",
     "hex": "0x8000138e",
@@ -5933,11 +5945,23 @@
     "symbol": "GO",
     "name": "GoChain GO"
   },
+  "6144": {
+    "index": "6144",
+    "hex": "0x80001800",
+    "symbol": "DTS",
+    "name": "Datos"
+  },
   "6174": {
     "index": "6174",
     "hex": "0x8000181e",
     "symbol": "MOI",
     "name": "My Own Internet"
+  },
+  "6278": {
+    "index": "6278",
+    "hex": "0x80001886",
+    "symbol": "STEAMX",
+    "name": "Rails Network Mainnet"
   },
   "6532": {
     "index": "6532",
