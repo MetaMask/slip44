@@ -4421,6 +4421,18 @@
     "symbol": "TAU",
     "name": "Lamden"
   },
+  "794": {
+    "index": "794",
+    "hex": "0x8000031a",
+    "symbol": "INTR",
+    "name": "Interlay"
+  },
+  "795": {
+    "index": "795",
+    "hex": "0x8000031b",
+    "symbol": "KINT",
+    "name": "Kintsugi"
+  },
   "799": {
     "index": "799",
     "hex": "0x8000031f",
@@ -4504,6 +4516,12 @@
     "hex": "0x80000336",
     "symbol": "BDB",
     "name": "BigchainDB"
+  },
+  "824": {
+    "index": "824",
+    "hex": "0x80000338",
+    "symbol": "RBNT",
+    "name": "Redbelly Network"
   },
   "827": {
     "index": "827",
@@ -5998,6 +6016,12 @@
     "hex": "0x80001b39",
     "symbol": "ROGER",
     "name": "TheHolyrogerCoin"
+  },
+  "7000": {
+    "index": "7000",
+    "hex": "0x80001b58",
+    "symbol": "ZETA",
+    "name": "ZetaChain"
   },
   "7027": {
     "index": "7027",

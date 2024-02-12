@@ -822,8 +822,8 @@ All these constants are used as hardened derivation.
 | 791        | 0x80000317                    |         |
 | 792        | 0x80000318                    |         |
 | 793        | 0x80000319                    |         |
-| 794        | 0x8000031a                    |         |
-| 795        | 0x8000031b                    |         |
+| 794        | 0x8000031a                    | INTR    | Interlay                          |
+| 795        | 0x8000031b                    | KINT    | Kintsugi                          |
 | 796        | 0x8000031c                    |         |
 | 797        | 0x8000031d                    |         |
 | 798        | 0x8000031e                    |         |
@@ -852,7 +852,7 @@ All these constants are used as hardened derivation.
 | 821        | 0x80000335                    |         |
 | 822        | 0x80000336                    | BDB     | BigchainDB                        |
 | 823        | 0x80000337                    |         |
-| 824        | 0x80000338                    |         |
+| 824        | 0x80000338                    | RBNT    | Redbelly Network                  |
 | 825        | 0x80000339                    |         |
 | 826        | 0x8000033a                    |         |
 | 827        | 0x8000033b                    | ACE     | Endurance                         |
@@ -1200,6 +1200,7 @@ All these constants are used as hardened derivation.
 | 6688       | 0x80001a20                    | SAFE    | SAFE                              |
 | 6779       | 0x80001a7b                    | COTI    | COTI                              |
 | 6969       | 0x80001b39                    | ROGER   | TheHolyrogerCoin                  |
+| 7000       | 0x80001b58                    | ZETA    | ZetaChain                         |
 | 7027       | 0x80001b73                    | ELLA    | Ella the heart                    |
 | 7028       | 0x80001b74                    | AA      | Arthera                           |
 | 7091       | 0x80001bb3                    | TOPL    | Topl                              |
