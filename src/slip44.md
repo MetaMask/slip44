@@ -822,8 +822,8 @@ All these constants are used as hardened derivation.
 | 791        | 0x80000317                    |         |
 | 792        | 0x80000318                    |         |
 | 793        | 0x80000319                    |         |
-| 794        | 0x8000031a                    |         |
-| 795        | 0x8000031b                    |         |
+| 794        | 0x8000031a                    | INTR    | Interlay                          |
+| 795        | 0x8000031b                    | KINT    | Kintsugi                          |
 | 796        | 0x8000031c                    |         |
 | 797        | 0x8000031d                    |         |
 | 798        | 0x8000031e                    |         |
@@ -844,7 +844,7 @@ All these constants are used as hardened derivation.
 | 813        | 0x8000032d                    | MEER    | Qitmeer                           |
 | 814        | 0x8000032e                    |         |
 | 815        | 0x8000032f                    |         |
-| 816        | 0x80000330                    | FSC     | FSC
+| 816        | 0x80000330                    | FSC     | FSC                               |
 | 817        | 0x80000331                    |         |
 | 818        | 0x80000332                    | VET     | VeChain Token                     |
 | 819        | 0x80000333                    | REEF    | Reef                              |
@@ -852,7 +852,7 @@ All these constants are used as hardened derivation.
 | 821        | 0x80000335                    |         |
 | 822        | 0x80000336                    | BDB     | BigchainDB                        |
 | 823        | 0x80000337                    |         |
-| 824        | 0x80000338                    |         |
+| 824        | 0x80000338                    | RBNT    | Redbelly Network                  |
 | 825        | 0x80000339                    |         |
 | 826        | 0x8000033a                    |         |
 | 827        | 0x8000033b                    | ACE     | Endurance                         |
@@ -879,7 +879,7 @@ All these constants are used as hardened derivation.
 | 848        | 0x80000350                    | BIR     | Birake                            |
 | 849        | 0x80000351                    | MOBIC   | MobilityCoin                      |
 | 850        | 0x80000352                    | FLS     | Flits                             |
-| 851        | 0x80000353                    | FRECO   | Freco
+| 851        | 0x80000353                    | FRECO   | Freco                             |
 | 852        | 0x80000354                    | DSM     | Desmos                            |
 | 853        | 0x80000355                    | PRCY    | PRCY Coin                         |
 | 854        | 0x80000356                    |         |
@@ -997,7 +997,7 @@ All these constants are used as hardened derivation.
 | 966        | 0x800003c6                    | MATIC   | Matic                             |
 | 967        | 0x800003c7                    |         |
 | 968        | 0x800003c8                    | UNW     | UNW                               |
-| 969        | 0x800003c9                    |         |
+| 969        | 0x800003c9                    | QI      | Quai Network                      |
 | 970        | 0x800003ca                    | TWINS   | TWINS                             |
 | 971        | 0x800003cb                    |         |
 | 972        | 0x800003cc                    |         |
@@ -1200,6 +1200,7 @@ All these constants are used as hardened derivation.
 | 6688       | 0x80001a20                    | SAFE    | SAFE                              |
 | 6779       | 0x80001a7b                    | COTI    | COTI                              |
 | 6969       | 0x80001b39                    | ROGER   | TheHolyrogerCoin                  |
+| 7000       | 0x80001b58                    | ZETA    | ZetaChain                         |
 | 7027       | 0x80001b73                    | ELLA    | Ella the heart                    |
 | 7028       | 0x80001b74                    | AA      | Arthera                           |
 | 7091       | 0x80001bb3                    | TOPL    | Topl                              |
@@ -1291,6 +1292,7 @@ All these constants are used as hardened derivation.
 | 101010     | 0x80018a92                    | STC     | Starcoin                          |
 | 105105     | 0x80019a91                    | STRAX   | Strax                             |
 | 111111     | 0x8001b207                    | KAS     | Kaspa                             |
+| 121337     | 0x8001d9f9                    | KLS     | Karlsen                           |
 | 161803     | 0x8002780b                    | APTA    | Bloqs4Good                        |
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
 | 200665     | 0x80011000                    | GENOM   | GENOM                             |
