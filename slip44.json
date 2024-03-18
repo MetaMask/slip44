@@ -4091,6 +4091,12 @@
     "symbol": "ALEO",
     "name": "Aleo Network"
   },
+  "684": {
+    "index": "684",
+    "hex": "0x800002ac",
+    "symbol": "HMS",
+    "name": "Hemis"
+  },
   "685": {
     "index": "685",
     "hex": "0x800002ad",
@@ -4421,6 +4427,18 @@
     "symbol": "TAU",
     "name": "Lamden"
   },
+  "794": {
+    "index": "794",
+    "hex": "0x8000031a",
+    "symbol": "INTR",
+    "name": "Interlay"
+  },
+  "795": {
+    "index": "795",
+    "hex": "0x8000031b",
+    "symbol": "KINT",
+    "name": "Kintsugi"
+  },
   "799": {
     "index": "799",
     "hex": "0x8000031f",
@@ -4481,6 +4499,12 @@
     "symbol": "MEER",
     "name": "Qitmeer"
   },
+  "816": {
+    "index": "816",
+    "hex": "0x80000330",
+    "symbol": "FSC",
+    "name": "FSC"
+  },
   "818": {
     "index": "818",
     "hex": "0x80000332",
@@ -4504,6 +4528,12 @@
     "hex": "0x80000336",
     "symbol": "BDB",
     "name": "BigchainDB"
+  },
+  "824": {
+    "index": "824",
+    "hex": "0x80000338",
+    "symbol": "RBNT",
+    "name": "Redbelly Network"
   },
   "827": {
     "index": "827",
@@ -4642,6 +4672,12 @@
     "hex": "0x80000352",
     "symbol": "FLS",
     "name": "Flits"
+  },
+  "851": {
+    "index": "851",
+    "hex": "0x80000353",
+    "symbol": "FRECO",
+    "name": "Freco"
   },
   "852": {
     "index": "852",
@@ -4864,6 +4900,12 @@
     "hex": "0x800003c8",
     "symbol": "UNW",
     "name": "UNW"
+  },
+  "969": {
+    "index": "969",
+    "hex": "0x800003c9",
+    "symbol": "QI",
+    "name": "Quai Network"
   },
   "970": {
     "index": "970",
@@ -5405,6 +5447,12 @@
     "symbol": "XEC",
     "name": "eCash token"
   },
+  "1900": {
+    "index": "1900",
+    "hex": "0x8000076c",
+    "symbol": "XNA",
+    "name": "Neurai"
+  },
   "1901": {
     "index": "1901",
     "hex": "0x8000076d",
@@ -5633,12 +5681,6 @@
     "symbol": "XRG",
     "name": "Ergon"
   },
-  "2182": {
-    "index": "2182",
-    "hex": "0x80000888",
-    "symbol": "CHZ",
-    "name": "Chiliz"
-  },
   "2199": {
     "index": "2199",
     "hex": "0x80000897",
@@ -5716,6 +5758,12 @@
     "hex": "0x80000a0a",
     "symbol": "AOA",
     "name": "Aurora"
+  },
+  "2686": {
+    "index": "2686",
+    "hex": "0x80000a7e",
+    "symbol": "AIPG",
+    "name": "AIPowerGrid"
   },
   "2718": {
     "index": "2718",
@@ -5999,6 +6047,12 @@
     "symbol": "ROGER",
     "name": "TheHolyrogerCoin"
   },
+  "7000": {
+    "index": "7000",
+    "hex": "0x80001b58",
+    "symbol": "ZETA",
+    "name": "ZetaChain"
+  },
   "7027": {
     "index": "7027",
     "hex": "0x80001b73",
@@ -6215,6 +6269,12 @@
     "symbol": "FO",
     "name": "FIBOS"
   },
+  "10001": {
+    "index": "10001",
+    "hex": "0x80002711",
+    "symbol": "SPACE",
+    "name": "Space"
+  },
   "10111": {
     "index": "10111",
     "hex": "0x8000277f",
@@ -6292,6 +6352,12 @@
     "hex": "0x80003334",
     "symbol": "YCC",
     "name": "Yuan Chain Coin"
+  },
+  "13381": {
+    "index": "13381",
+    "hex": "0x80003445",
+    "symbol": "PHX",
+    "name": "Phoenix"
   },
   "14001": {
     "index": "14001",
@@ -6545,6 +6611,12 @@
     "symbol": "KAS",
     "name": "Kaspa"
   },
+  "121337": {
+    "index": "121337",
+    "hex": "0x8001d9f9",
+    "symbol": "KLS",
+    "name": "Karlsen"
+  },
   "161803": {
     "index": "161803",
     "hex": "0x8002780b",
@@ -6556,12 +6628,6 @@
     "hex": "0x80030fb1",
     "symbol": "AKA",
     "name": "Akroma"
-  },
-  "200665": {
-    "index": "200665",
-    "hex": "0x80011000",
-    "symbol": "GENOM",
-    "name": "GENOM"
   },
   "224433": {
     "index": "224433",
@@ -6616,6 +6682,12 @@
     "hex": "0x800a2c2a",
     "symbol": "VITE",
     "name": "Vite"
+  },
+  "696365": {
+    "index": "696365",
+    "hex": "0x800b3206",
+    "symbol": "ICE",
+    "name": "Ice Network"
   },
   "888888": {
     "index": "888888",
