@@ -540,7 +540,7 @@ All these constants are used as hardened derivation.
 | 509        | 0x800001fd                    | CHI     | Xaya                              |
 | 510        | 0x800001fe                    | KOTO    | Koto                              |
 | 511        | 0x800001ff                    | OTC     | θ                                 |
-| 512        | 0x80000200                    | XRD     | Radiant                           |
+| 512        | 0x80000200                    | RXD     | Radiant                           |
 | 513        | 0x80000201                    | SEELEN  | Seele-N                           |
 | 514        | 0x80000202                    | AETH    | AETH                              |
 | 515        | 0x80000203                    | DNA     | Idena                             |
@@ -686,7 +686,7 @@ All these constants are used as hardened derivation.
 | 655        | 0x8000028f                    | WMP     | WAMP                              |
 | 656        | 0x80000290                    | EKTA    | Ekta                              |
 | 657        | 0x80000291                    | YDA     | YadaCoin                          |
-| 658        | 0x80000292                    |         |
+| 658        | 0x80000292                    | WHIVE   | Whive                             |
 | 659        | 0x80000293                    | KOIN    | Koinos                            |
 | 660        | 0x80000294                    | PIRATE  | PirateCash                        |
 | 661        | 0x80000295                    | UNQ     | Unique                            |
@@ -731,7 +731,7 @@ All these constants are used as hardened derivation.
 | 700        | 0x800002bc                    | XDAI    | xDai                              |
 | 701        | 0x800002bd                    | COM     | Commercio                         |
 | 702        | 0x800002be                    | CCC     | Commercio Cash Credit             |
-| 703        | 0x800002bf                    |         |
+| 703        | 0x800002bf                    | SNR     | Sonr                              |
 | 704        | 0x800002c0                    | RAQ     | Ra Quantum                        |
 | 705        | 0x800002c1                    | PEG     | Pegasus Token                     |
 | 706        | 0x800002c2                    | LKG     | Lionking                          |
@@ -751,7 +751,7 @@ All these constants are used as hardened derivation.
 | 720        | 0x800002d0                    | ABY     | Artbyte                           |
 | 721        | 0x800002d1                    | PGX     | Mirai Chain                       |
 | 722        | 0x800002d2                    | IL8P    | InfiniLooP                        |
-| 723        | 0x800002d3                    |         |
+| 723        | 0x800002d3                    | VOI     | Voi                               |
 | 724        | 0x800002d4                    | XVC     | Vanillacash                       |
 | 725        | 0x800002d5                    | MCX     | MultiCash                         |
 | 726        | 0x800002d6                    |         |
@@ -966,7 +966,7 @@ All these constants are used as hardened derivation.
 | 935        | 0x800003a7                    |         |
 | 936        | 0x800003a8                    |         |
 | 937        | 0x800003a9                    |         |
-| 938        | 0x800003aa                    |         |
+| 938        | 0x800003aa                    | MGO     | Mango Network                     |
 | 939        | 0x800003ab                    |         |
 | 940        | 0x800003ac                    |         |
 | 941        | 0x800003ad                    | ---     | reserved                          |
@@ -1343,6 +1343,7 @@ All these constants are used as hardened derivation.
 | 99999998   | 0x85f5e0fe                    | FLUID   | Fluid Chains                      |
 | 99999999   | 0x85f5e0ff                    | QKC     | QuarkChain                        |
 | 11259375   | 0x80abcdef                    | LBR     | 0L                                |
+| 20230101   | 0x8134afd5                    | ROH     | Rooch                             |
 | 608589380  | 0xa4465644                    | FVDC    | ForumCoin                         |
 | 1179993420 | 0xc655454c                    |         | Fuel                              |
 

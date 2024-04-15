@@ -3074,7 +3074,7 @@
   "512": {
     "index": "512",
     "hex": "0x80000200",
-    "symbol": "XRD",
+    "symbol": "RXD",
     "name": "Radiant"
   },
   "513": {
@@ -3947,6 +3947,12 @@
     "symbol": "YDA",
     "name": "YadaCoin"
   },
+  "658": {
+    "index": "658",
+    "hex": "0x80000292",
+    "symbol": "WHIVE",
+    "name": "Whive"
+  },
   "659": {
     "index": "659",
     "hex": "0x80000293",
@@ -4157,6 +4163,12 @@
     "symbol": "CCC",
     "name": "Commercio Cash Credit"
   },
+  "703": {
+    "index": "703",
+    "hex": "0x800002bf",
+    "symbol": "SNR",
+    "name": "Sonr"
+  },
   "704": {
     "index": "704",
     "hex": "0x800002c0",
@@ -4264,6 +4276,12 @@
     "hex": "0x800002d2",
     "symbol": "IL8P",
     "name": "InfiniLooP"
+  },
+  "723": {
+    "index": "723",
+    "hex": "0x800002d3",
+    "symbol": "VOI",
+    "name": "Voi"
   },
   "724": {
     "index": "724",
@@ -4864,6 +4882,12 @@
     "hex": "0x800003a3",
     "symbol": "RUNE",
     "name": "THORChain (RUNE)"
+  },
+  "938": {
+    "index": "938",
+    "hex": "0x800003aa",
+    "symbol": "MGO",
+    "name": "Mango Network"
   },
   "941": {
     "index": "941",
@@ -6862,6 +6886,12 @@
     "hex": "0x80e6b280",
     "symbol": "XDS",
     "name": "XDS"
+  },
+  "20230101": {
+    "index": "20230101",
+    "hex": "0x8134afd5",
+    "symbol": "ROH",
+    "name": "Rooch"
   },
   "61717561": {
     "index": "61717561",
