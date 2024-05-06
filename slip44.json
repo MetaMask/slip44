@@ -3074,7 +3074,7 @@
   "512": {
     "index": "512",
     "hex": "0x80000200",
-    "symbol": "XRD",
+    "symbol": "RXD",
     "name": "Radiant"
   },
   "513": {
@@ -3947,6 +3947,12 @@
     "symbol": "YDA",
     "name": "YadaCoin"
   },
+  "658": {
+    "index": "658",
+    "hex": "0x80000292",
+    "symbol": "WHIVE",
+    "name": "Whive"
+  },
   "659": {
     "index": "659",
     "hex": "0x80000293",
@@ -3964,6 +3970,12 @@
     "hex": "0x80000295",
     "symbol": "UNQ",
     "name": "Unique"
+  },
+  "662": {
+    "index": "662",
+    "hex": "0x80000296",
+    "symbol": "ULM",
+    "name": "UltonSmartchain"
   },
   "663": {
     "index": "663",
@@ -4109,11 +4121,23 @@
     "symbol": "KAR",
     "name": "Karura Network"
   },
+  "687": {
+    "index": "687",
+    "hex": "0x800002af",
+    "symbol": "FLON",
+    "name": "FullOn Network"
+  },
   "688": {
     "index": "688",
     "hex": "0x800002b0",
     "symbol": "CET",
     "name": "CoinEx Chain"
+  },
+  "689": {
+    "index": "689",
+    "hex": "0x800002b1",
+    "symbol": "XLINK",
+    "name": "XLink Chain"
   },
   "690": {
     "index": "690",
@@ -4156,6 +4180,12 @@
     "hex": "0x800002be",
     "symbol": "CCC",
     "name": "Commercio Cash Credit"
+  },
+  "703": {
+    "index": "703",
+    "hex": "0x800002bf",
+    "symbol": "SNR",
+    "name": "Sonr"
   },
   "704": {
     "index": "704",
@@ -4264,6 +4294,12 @@
     "hex": "0x800002d2",
     "symbol": "IL8P",
     "name": "InfiniLooP"
+  },
+  "723": {
+    "index": "723",
+    "hex": "0x800002d3",
+    "symbol": "VOI",
+    "name": "Voi"
   },
   "724": {
     "index": "724",
@@ -4865,11 +4901,29 @@
     "symbol": "RUNE",
     "name": "THORChain (RUNE)"
   },
+  "938": {
+    "index": "938",
+    "hex": "0x800003aa",
+    "symbol": "MGO",
+    "name": "Mango Network"
+  },
   "941": {
     "index": "941",
     "hex": "0x800003ad",
     "symbol": "---",
     "name": "reserved"
+  },
+  "942": {
+    "index": "942",
+    "hex": "0x800003ae",
+    "symbol": "KCN",
+    "name": "Kylacoin"
+  },
+  "943": {
+    "index": "943",
+    "hex": "0x800003af",
+    "symbol": "LCN",
+    "name": "Lyncoin"
   },
   "945": {
     "index": "945",
@@ -5638,6 +5692,12 @@
     "hex": "0x800007e8",
     "symbol": "USBC",
     "name": "Universal Ledger USBC"
+  },
+  "2025": {
+    "index": "2025",
+    "hex": "0x800007e9",
+    "symbol": "ROCK",
+    "name": "Zenrock Labs"
   },
   "2046": {
     "index": "2046",
@@ -6437,6 +6497,12 @@
     "symbol": "C4EI",
     "name": "c4ei"
   },
+  "21337": {
+    "index": "21337",
+    "hex": "0x80005359",
+    "symbol": "XAH",
+    "name": "Xahau"
+  },
   "21888": {
     "index": "21888",
     "hex": "0x80005580",
@@ -6862,6 +6928,12 @@
     "hex": "0x80e6b280",
     "symbol": "XDS",
     "name": "XDS"
+  },
+  "20230101": {
+    "index": "20230101",
+    "hex": "0x8134afd5",
+    "symbol": "ROH",
+    "name": "Rooch"
   },
   "61717561": {
     "index": "61717561",
