@@ -825,7 +825,7 @@
     "index": "137",
     "hex": "0x80000089",
     "symbol": "RBTC",
-    "name": "RSK"
+    "name": "Rootstock"
   },
   "138": {
     "index": "138",
@@ -3074,7 +3074,7 @@
   "512": {
     "index": "512",
     "hex": "0x80000200",
-    "symbol": "XRD",
+    "symbol": "RXD",
     "name": "Radiant"
   },
   "513": {
@@ -3947,6 +3947,12 @@
     "symbol": "YDA",
     "name": "YadaCoin"
   },
+  "658": {
+    "index": "658",
+    "hex": "0x80000292",
+    "symbol": "WHIVE",
+    "name": "Whive"
+  },
   "659": {
     "index": "659",
     "hex": "0x80000293",
@@ -3964,6 +3970,12 @@
     "hex": "0x80000295",
     "symbol": "UNQ",
     "name": "Unique"
+  },
+  "662": {
+    "index": "662",
+    "hex": "0x80000296",
+    "symbol": "ULM",
+    "name": "UltonSmartchain"
   },
   "663": {
     "index": "663",
@@ -4109,11 +4121,23 @@
     "symbol": "KAR",
     "name": "Karura Network"
   },
+  "687": {
+    "index": "687",
+    "hex": "0x800002af",
+    "symbol": "FLON",
+    "name": "FullOn Network"
+  },
   "688": {
     "index": "688",
     "hex": "0x800002b0",
     "symbol": "CET",
     "name": "CoinEx Chain"
+  },
+  "689": {
+    "index": "689",
+    "hex": "0x800002b1",
+    "symbol": "XLINK",
+    "name": "XLink Chain"
   },
   "690": {
     "index": "690",
@@ -4156,6 +4180,12 @@
     "hex": "0x800002be",
     "symbol": "CCC",
     "name": "Commercio Cash Credit"
+  },
+  "703": {
+    "index": "703",
+    "hex": "0x800002bf",
+    "symbol": "SNR",
+    "name": "Sonr"
   },
   "704": {
     "index": "704",
@@ -4265,6 +4295,12 @@
     "symbol": "IL8P",
     "name": "InfiniLooP"
   },
+  "723": {
+    "index": "723",
+    "hex": "0x800002d3",
+    "symbol": "VOI",
+    "name": "Voi"
+  },
   "724": {
     "index": "724",
     "hex": "0x800002d4",
@@ -4282,6 +4318,12 @@
     "hex": "0x800002d7",
     "symbol": "BLU",
     "name": "BluCrates"
+  },
+  "728": {
+    "index": "728",
+    "hex": "0x800002d8",
+    "symbol": "BFC",
+    "name": "BFC"
   },
   "730": {
     "index": "730",
@@ -4468,6 +4510,12 @@
     "hex": "0x80000322",
     "symbol": "CY",
     "name": "Cyberyen"
+  },
+  "803": {
+    "index": "803",
+    "hex": "0x80000323",
+    "symbol": "RYME",
+    "name": "Ryme Network"
   },
   "804": {
     "index": "804",
@@ -4865,11 +4913,35 @@
     "symbol": "RUNE",
     "name": "THORChain (RUNE)"
   },
+  "938": {
+    "index": "938",
+    "hex": "0x800003aa",
+    "symbol": "MGO",
+    "name": "Mango Network"
+  },
+  "939": {
+    "index": "939",
+    "hex": "0x800003ab",
+    "symbol": "AB",
+    "name": "Argot Protocol"
+  },
   "941": {
     "index": "941",
     "hex": "0x800003ad",
     "symbol": "---",
     "name": "reserved"
+  },
+  "942": {
+    "index": "942",
+    "hex": "0x800003ae",
+    "symbol": "KCN",
+    "name": "Kylacoin"
+  },
+  "943": {
+    "index": "943",
+    "hex": "0x800003af",
+    "symbol": "LCN",
+    "name": "Lyncoin"
   },
   "945": {
     "index": "945",
@@ -5099,6 +5171,12 @@
     "symbol": "BIC",
     "name": "Beincrypto"
   },
+  "1014": {
+    "index": "1014",
+    "hex": "0x800003f6",
+    "symbol": "JOY",
+    "name": "Joystream"
+  },
   "1016": {
     "index": "1016",
     "hex": "0x800003f8",
@@ -5278,6 +5356,12 @@
     "hex": "0x8000051c",
     "symbol": "WEI",
     "name": "WEI"
+  },
+  "1312": {
+    "index": "1312",
+    "hex": "0x80000520",
+    "symbol": "BITS",
+    "name": "Entropy"
   },
   "1337": {
     "index": "1337",
@@ -5639,6 +5723,12 @@
     "symbol": "USBC",
     "name": "Universal Ledger USBC"
   },
+  "2025": {
+    "index": "2025",
+    "hex": "0x800007e9",
+    "symbol": "ROCK",
+    "name": "Zenrock Labs"
+  },
   "2046": {
     "index": "2046",
     "hex": "0x800007fe",
@@ -5848,6 +5938,12 @@
     "hex": "0x80000d37",
     "symbol": "SEQ",
     "name": "Sequence"
+  },
+  "3434": {
+    "index": "3434",
+    "hex": "0x80000d6a",
+    "symbol": "PEPE",
+    "name": "Pepecoin Core"
   },
   "3501": {
     "index": "3501",
@@ -6437,6 +6533,12 @@
     "symbol": "C4EI",
     "name": "c4ei"
   },
+  "21337": {
+    "index": "21337",
+    "hex": "0x80005359",
+    "symbol": "XAH",
+    "name": "Xahau"
+  },
   "21888": {
     "index": "21888",
     "hex": "0x80005580",
@@ -6466,6 +6568,12 @@
     "hex": "0x80006476",
     "symbol": "CHX",
     "name": "Own"
+  },
+  "26417": {
+    "index": "26417",
+    "hex": "0x80006731",
+    "symbol": "G1",
+    "name": "Ğ1"
   },
   "29223": {
     "index": "29223",
@@ -6587,6 +6695,12 @@
     "symbol": "ZYN",
     "name": "Wethio"
   },
+  "83293": {
+    "index": "83293",
+    "hex": "0x8001455d",
+    "symbol": "QUBIC",
+    "name": "Qubic"
+  },
   "88888": {
     "index": "88888",
     "hex": "0x80015b38",
@@ -6610,6 +6724,12 @@
     "hex": "0x80018a92",
     "symbol": "STC",
     "name": "Starcoin"
+  },
+  "104109": {
+    "index": "104109",
+    "hex": "0x800196ad",
+    "symbol": "",
+    "name": "Seed Hypermedia"
   },
   "105105": {
     "index": "105105",
@@ -6863,6 +6983,18 @@
     "symbol": "XDS",
     "name": "XDS"
   },
+  "20230101": {
+    "index": "20230101",
+    "hex": "0x8134afd5",
+    "symbol": "ROH",
+    "name": "Rooch"
+  },
+  "20240430": {
+    "index": "20240430",
+    "hex": "0x8134d82e",
+    "symbol": "NLK",
+    "name": "NuLinkCoin"
+  },
   "61717561": {
     "index": "61717561",
     "hex": "0x83adbc39",
@@ -6916,5 +7048,23 @@
     "hex": "0xc655454c",
     "symbol": "",
     "name": "Fuel"
+  },
+  "1179993421": {
+    "index": "1179993421",
+    "hex": "0xc655454d",
+    "symbol": "TTNC",
+    "name": "TakeTitan"
+  },
+  "1179993431": {
+    "index": "1179993431",
+    "hex": "0xc6554557",
+    "symbol": "MTGBP",
+    "name": "MTGBP"
+  },
+  "1179993441": {
+    "index": "1179993441",
+    "hex": "0xc6554561",
+    "symbol": "QFS",
+    "name": "Qfs"
   }
 }
