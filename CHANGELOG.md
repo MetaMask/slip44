@@ -7,25 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [4.0.0]
-### Uncategorized
+### Changed
+- **BREAKING:** Require Node 18.16 or higher ([#111](https://github.com/MetaMask/slip44/pull/111))
 - Update with latest data as of 2024-07-29 ([#156](https://github.com/MetaMask/slip44/pull/156))
-- Update with latest data as of 2024-04-01 ([#135](https://github.com/MetaMask/slip44/pull/135))
-- Enabling MetaMask security code scanner ([#130](https://github.com/MetaMask/slip44/pull/130))
-- Bump @metamask/auto-changelog from 3.4.3 to 3.4.4 ([#120](https://github.com/MetaMask/slip44/pull/120))
-- Update with latest data as of 2024-01-29 ([#126](https://github.com/MetaMask/slip44/pull/126))
-- Update with latest data as of 2024-01-08 ([#123](https://github.com/MetaMask/slip44/pull/123))
-- Update with latest data as of 2023-12-11 ([#119](https://github.com/MetaMask/slip44/pull/119))
-- Update with latest data as of 2023-11-27 ([#117](https://github.com/MetaMask/slip44/pull/117))
-- Update with latest data as of 2023-11-20 ([#116](https://github.com/MetaMask/slip44/pull/116))
-- Bump @metamask/auto-changelog from 3.4.2 to 3.4.3 ([#114](https://github.com/MetaMask/slip44/pull/114))
-- Bump ESLint configs to latest versions ([#112](https://github.com/MetaMask/slip44/pull/112))
-- BREAKING: Bump minimum required Node.js version to 18.16 ([#111](https://github.com/MetaMask/slip44/pull/111))
-- Bump @metamask/auto-changelog from 3.3.0 to 3.4.2 ([#109](https://github.com/MetaMask/slip44/pull/109))
-- Update with latest data as of 2023-10-30 ([#110](https://github.com/MetaMask/slip44/pull/110))
-- Update with latest data as of 2023-10-23 ([#106](https://github.com/MetaMask/slip44/pull/106))
-- Bump @babel/traverse from 7.20.1 to 7.23.2 ([#104](https://github.com/MetaMask/slip44/pull/104))
-- Update with latest data as of 2023-10-16 ([#103](https://github.com/MetaMask/slip44/pull/103))
-- Bump @metamask/auto-changelog from 3.2.0 to 3.3.0 ([#99](https://github.com/MetaMask/slip44/pull/99))
 
 ## [3.1.0]
 ### Changed
