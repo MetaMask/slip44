@@ -4553,6 +4553,12 @@
     "symbol": "MEER",
     "name": "Qitmeer"
   },
+  "815": {
+    "index": "815",
+    "hex": "0x8000032f",
+    "symbol": "FACT",
+    "name": "ImFACT"
+  },
   "816": {
     "index": "816",
     "hex": "0x80000330",
@@ -5417,6 +5423,12 @@
     "symbol": "BEAM",
     "name": "Beam"
   },
+  "1536": {
+    "index": "1536",
+    "hex": "0x80000600",
+    "symbol": "GAS",
+    "name": "BubiChain"
+  },
   "1551": {
     "index": "1551",
     "hex": "0x8000060f",
@@ -5728,6 +5740,12 @@
     "hex": "0x800007e9",
     "symbol": "ROCK",
     "name": "Zenrock Labs"
+  },
+  "2026": {
+    "index": "2026",
+    "hex": "0x800007ea",
+    "symbol": "ASTRON",
+    "name": "ASTRON Token"
   },
   "2046": {
     "index": "2046",
@@ -6766,6 +6784,12 @@
     "hex": "0x8001d9f9",
     "symbol": "KLS",
     "name": "Karlsen"
+  },
+  "123456": {
+    "index": "123456",
+    "hex": "0x8001e240",
+    "symbol": "SPR",
+    "name": "Spectre"
   },
   "161803": {
     "index": "161803",
