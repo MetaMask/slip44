@@ -724,7 +724,7 @@ All these constants are used as hardened derivation.
 | 693        | 0x800002b5                    |         |
 | 694        | 0x800002b6                    | VTBC    | VTB Community                     |
 | 695        | 0x800002b7                    |         |
-| 696        | 0x800002b8                    |         |
+| 696        | 0x800002b8                    | LUM     | Lumos                             |
 | 697        | 0x800002b9                    |         |
 | 698        | 0x800002ba                    | VEIL    | Veil                              |
 | 699        | 0x800002bb                    | GTB     | GotaBit                           |
@@ -843,7 +843,7 @@ All these constants are used as hardened derivation.
 | 812        | 0x8000032c                    |         |
 | 813        | 0x8000032d                    | MEER    | Qitmeer                           |
 | 814        | 0x8000032e                    |         |
-| 815        | 0x8000032f                    |         |
+| 815        | 0x8000032f                    | FACT    | ImFACT                            |
 | 816        | 0x80000330                    | FSC     | FSC                               |
 | 817        | 0x80000331                    |         |
 | 818        | 0x80000332                    | VET     | VeChain Token                     |
@@ -1083,6 +1083,7 @@ All these constants are used as hardened derivation.
 | 1512       | 0x800005e8                    | AAC     | Double-A Chain                    |
 | 1524       | 0x800005f4                    |         | Taler                             |
 | 1533       | 0x800005fd                    | BEAM    | Beam                              |
+| 1536       | 0x80000600                    | GAS     | BubiChain                         |
 | 1551       | 0x8000060f                    | SDK     | Sovereign SDK                     |
 | 1555       | 0x80000613                    | APC     | Apc Chain                         |
 | 1616       | 0x80000650                    | ELF     | AELF                              |
@@ -1135,11 +1136,13 @@ All these constants are used as hardened derivation.
 | 2022       | 0x800007e6                    | XHT     | Xinghuo Token                     |
 | 2023       | 0x800007e7                    | COC     | Chat On Chain                     |
 | 2025       | 0x800007e9                    | ROCK    | Zenrock Labs                      |
+| 2026       | 0x800007ea                    | ASTRON  | ASTRON Token                      |
 | 2046       | 0x800007fe                    | ANY     | Any                               |
 | 2048       | 0x80000800                    | MCASH   | MCashChain                        |
 | 2049       | 0x80000801                    | TRUE    | TrueChain                         |
 | 2050       | 0x80000802                    | MOVO    | Movo Smart Chain                  |
 | 2086       | 0x80000826                    | KILT    | KILT Spiritnet                    |
+| 2091       | 0x8000082b                    | FRQCY   | Frequency                         |
 | 2109       | 0x8000083d                    | SAMA    | Exosama Network                   |
 | 2112       | 0x80000840                    | IoTE    | IoTE                              |
 | 2125       | 0x8000084d                    | BAY     | BitBay                            |
@@ -1159,6 +1162,7 @@ All these constants are used as hardened derivation.
 | 2570       | 0x80000a0a                    | AOA     | Aurora                            |
 | 2686       | 0x80000a7e                    | AIPG    | AIPowerGrid                       |
 | 2718       | 0x80000a9e                    | NAS     | Nebulas                           |
+| 2809       | 0x80000af9                    | LAN     | Lanify                            |
 | 2894       | 0x80000b4e                    | REOSC   | REOSC Ecosystem                   |
 | 2941       | 0x80000b7d                    | BND     | Blocknode                         |
 | 3000       | 0x80000bb8                    | SM      | Stealth Message                   |
@@ -1308,6 +1312,7 @@ All these constants are used as hardened derivation.
 | 105105     | 0x80019a91                    | STRAX   | Strax                             |
 | 111111     | 0x8001b207                    | KAS     | Kaspa                             |
 | 121337     | 0x8001d9f9                    | KLS     | Karlsen                           |
+| 123456     | 0x8001e240                    | SPR     | Spectre                           |
 | 161803     | 0x8002780b                    | APTA    | Bloqs4Good                        |
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
 | 224433     | 0x80036cb1                    | CONET   | CONET Holesky Network             |
