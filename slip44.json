@@ -4151,6 +4151,12 @@
     "symbol": "VTBC",
     "name": "VTB Community"
   },
+  "696": {
+    "index": "696",
+    "hex": "0x800002b8",
+    "symbol": "LUM",
+    "name": "Lumos"
+  },
   "698": {
     "index": "698",
     "hex": "0x800002ba",
@@ -4523,6 +4529,12 @@
     "symbol": "ZKS",
     "name": "zkSync"
   },
+  "805": {
+    "index": "805",
+    "hex": "0x80000325",
+    "symbol": "SCASH",
+    "name": "Scash"
+  },
   "808": {
     "index": "808",
     "hex": "0x80000328",
@@ -4552,6 +4564,12 @@
     "hex": "0x8000032d",
     "symbol": "MEER",
     "name": "Qitmeer"
+  },
+  "815": {
+    "index": "815",
+    "hex": "0x8000032f",
+    "symbol": "FACT",
+    "name": "ImFACT"
   },
   "816": {
     "index": "816",
@@ -5417,6 +5435,12 @@
     "symbol": "BEAM",
     "name": "Beam"
   },
+  "1536": {
+    "index": "1536",
+    "hex": "0x80000600",
+    "symbol": "GAS",
+    "name": "BubiChain"
+  },
   "1551": {
     "index": "1551",
     "hex": "0x8000060f",
@@ -5729,6 +5753,12 @@
     "symbol": "ROCK",
     "name": "Zenrock Labs"
   },
+  "2026": {
+    "index": "2026",
+    "hex": "0x800007ea",
+    "symbol": "ASTRON",
+    "name": "ASTRON Token"
+  },
   "2046": {
     "index": "2046",
     "hex": "0x800007fe",
@@ -5758,6 +5788,12 @@
     "hex": "0x80000826",
     "symbol": "KILT",
     "name": "KILT Spiritnet"
+  },
+  "2091": {
+    "index": "2091",
+    "hex": "0x8000082b",
+    "symbol": "FRQCY",
+    "name": "Frequency"
   },
   "2109": {
     "index": "2109",
@@ -5872,6 +5908,12 @@
     "hex": "0x80000a9e",
     "symbol": "NAS",
     "name": "Nebulas"
+  },
+  "2809": {
+    "index": "2809",
+    "hex": "0x80000af9",
+    "symbol": "LAN",
+    "name": "Lanify"
   },
   "2894": {
     "index": "2894",
@@ -6268,6 +6310,12 @@
     "hex": "0x800020fc",
     "symbol": "XCH",
     "name": "Chia"
+  },
+  "8453": {
+    "index": "8453",
+    "hex": "0x80002105",
+    "symbol": "",
+    "name": "Base"
   },
   "8520": {
     "index": "8520",
@@ -6683,6 +6731,12 @@
     "symbol": "CELO",
     "name": "Celo"
   },
+  "54176": {
+    "index": "54176",
+    "hex": "0x8000d3a0",
+    "symbol": "OVER",
+    "name": "OverProtocol"
+  },
   "61616": {
     "index": "61616",
     "hex": "0x8000f0b0",
@@ -6766,6 +6820,12 @@
     "hex": "0x8001d9f9",
     "symbol": "KLS",
     "name": "Karlsen"
+  },
+  "123456": {
+    "index": "123456",
+    "hex": "0x8001e240",
+    "symbol": "SPR",
+    "name": "Spectre"
   },
   "161803": {
     "index": "161803",
@@ -7084,5 +7144,11 @@
     "hex": "0xc6554561",
     "symbol": "QFS",
     "name": "Qfs"
+  },
+  "1179993451": {
+    "index": "1179993451",
+    "hex": "0xc655456b",
+    "symbol": "RWA",
+    "name": "Asset Chain"
   }
 }
