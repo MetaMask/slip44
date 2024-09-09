@@ -5699,6 +5699,12 @@
     "symbol": "MLN",
     "name": "Miraland"
   },
+  "2015": {
+    "index": "2015",
+    "hex": "0x800007df",
+    "symbol": "TEER",
+    "name": "Integritee"
+  },
   "2017": {
     "index": "2017",
     "hex": "0x800007e1",
