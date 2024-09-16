@@ -4385,6 +4385,12 @@
     "symbol": "HONEY",
     "name": "HoneyWood"
   },
+  "765": {
+    "index": "765",
+    "hex": "0x800002fd",
+    "symbol": "TGN",
+    "name": "Tagion"
+  },
   "768": {
     "index": "768",
     "hex": "0x80000300",
@@ -5699,6 +5705,12 @@
     "symbol": "MLN",
     "name": "Miraland"
   },
+  "2015": {
+    "index": "2015",
+    "hex": "0x800007df",
+    "symbol": "TEER",
+    "name": "Integritee"
+  },
   "2017": {
     "index": "2017",
     "hex": "0x800007e1",
@@ -6274,6 +6286,12 @@
     "hex": "0x80001f40",
     "symbol": "SKY",
     "name": "Skycoin"
+  },
+  "8017": {
+    "index": "8017",
+    "hex": "0x80001f51",
+    "symbol": "ISC",
+    "name": "iSunCoin"
   },
   "8080": {
     "index": "8080",
@@ -7078,6 +7096,12 @@
     "hex": "0x83adbc39",
     "symbol": "AQUA",
     "name": "Aquachain"
+  },
+  "77777777": {
+    "index": "77777777",
+    "hex": "0x84a2cb71",
+    "symbol": "AZT",
+    "name": "Aztecoin"
   },
   "88888888": {
     "index": "88888888",
