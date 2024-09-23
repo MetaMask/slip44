@@ -4385,6 +4385,12 @@
     "symbol": "HONEY",
     "name": "HoneyWood"
   },
+  "765": {
+    "index": "765",
+    "hex": "0x800002fd",
+    "symbol": "TGN",
+    "name": "Tagion"
+  },
   "768": {
     "index": "768",
     "hex": "0x80000300",
@@ -5363,6 +5369,12 @@
     "symbol": "MOVR",
     "name": "Moonriver"
   },
+  "1286": {
+    "index": "1286",
+    "hex": "0x80000506",
+    "symbol": "DSG",
+    "name": "Dessage Social Protocol"
+  },
   "1298": {
     "index": "1298",
     "hex": "0x80000512",
@@ -5597,6 +5609,18 @@
     "symbol": "CITY",
     "name": "City Coin"
   },
+  "1951": {
+    "index": "1951",
+    "hex": "0x8000079f",
+    "symbol": "ESA",
+    "name": "Esa"
+  },
+  "1952": {
+    "index": "1952",
+    "hex": "0x800007a0",
+    "symbol": "ESC",
+    "name": "EsaCoin"
+  },
   "1955": {
     "index": "1955",
     "hex": "0x800007a3",
@@ -5698,6 +5722,12 @@
     "hex": "0x800007d2",
     "symbol": "MLN",
     "name": "Miraland"
+  },
+  "2015": {
+    "index": "2015",
+    "hex": "0x800007df",
+    "symbol": "TEER",
+    "name": "Integritee"
   },
   "2017": {
     "index": "2017",
@@ -6275,6 +6305,12 @@
     "symbol": "SKY",
     "name": "Skycoin"
   },
+  "8017": {
+    "index": "8017",
+    "hex": "0x80001f51",
+    "symbol": "ISC",
+    "name": "iSunCoin"
+  },
   "8080": {
     "index": "8080",
     "hex": "0x80001f90",
@@ -6839,6 +6875,12 @@
     "symbol": "AKA",
     "name": "Akroma"
   },
+  "200901": {
+    "index": "200901",
+    "hex": "0x800310c5",
+    "symbol": "BTR",
+    "name": "Bitlayer"
+  },
   "224433": {
     "index": "224433",
     "hex": "0x80036cb1",
@@ -7078,6 +7120,12 @@
     "hex": "0x83adbc39",
     "symbol": "AQUA",
     "name": "Aquachain"
+  },
+  "77777777": {
+    "index": "77777777",
+    "hex": "0x84a2cb71",
+    "symbol": "AZT",
+    "name": "Aztecoin"
   },
   "88888888": {
     "index": "88888888",
