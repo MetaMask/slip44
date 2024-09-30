@@ -793,7 +793,7 @@ All these constants are used as hardened derivation.
 | 762        | 0x800002fa                    |         |
 | 763        | 0x800002fb                    |         |
 | 764        | 0x800002fc                    |         |
-| 765        | 0x800002fd                    |         |
+| 765        | 0x800002fd                    | TGN     | Tagion                            |
 | 766        | 0x800002fe                    |         |
 | 767        | 0x800002ff                    |         |
 | 768        | 0x80000300                    | BALLZ   | Ballzcoin                         |
@@ -1071,6 +1071,7 @@ All these constants are used as hardened derivation.
 | 1280       | 0x80000500                    |         | Kudos Setler                      |
 | 1284       | 0x80000504                    | GLMR    | Moonbeam                          |
 | 1285       | 0x80000505                    | MOVR    | Moonriver                         |
+| 1286       | 0x80000506                    | DSG     | Dessage Social Protocol           |
 | 1298       | 0x80000512                    | WPC     | Wpc                               |
 | 1308       | 0x8000051c                    | WEI     | WEI                               |
 | 1312       | 0x80000520                    | BITS    | Entropy                           |
@@ -1110,6 +1111,8 @@ All these constants are used as hardened derivation.
 | 1907       | 0x80000773                    | BITCI   | Bitcicoin                         |
 | 1919       | 0x8000077f                    | VIPS    | VIPSTARCOIN                       |
 | 1926       | 0x80000786                    | CITY    | City Coin                         |
+| 1951       | 0x8000079f                    | ESA     | Esa                               |
+| 1952       | 0x800007a0                    | ESC     | EsaCoin                           |
 | 1955       | 0x800007a3                    | XX      | xx coin                           |
 | 1977       | 0x800007b9                    | XMX     | Xuma                              |
 | 1984       | 0x800007c0                    | TRTL    | TurtleCoin                        |
@@ -1127,6 +1130,7 @@ All these constants are used as hardened derivation.
 | 2000       | 0x800007d0                    | GIN     | GinCoin                           |
 | 2001       | 0x800007d1                    | MNP     | MNPCoin                           |
 | 2002       | 0x800007d2                    | MLN     | Miraland                          |
+| 2015       | 0x800007df                    | TEER    | Integritee                        |
 | 2017       | 0x800007e1                    | KIN     | Kin                               |
 | 2018       | 0x800007e2                    | EOSC    | EOSClassic                        |
 | 2019       | 0x800007e3                    | GBT     | GoldBean Token                    |
@@ -1223,6 +1227,7 @@ All these constants are used as hardened derivation.
 | 7777       | 0x80001e61                    | BTV     | Bitvote                           |
 | 7779       | 0x80001e63                    | CPV     | Compverse                         |
 | 8000       | 0x80001f40                    | SKY     | Skycoin                           |
+| 8017       | 0x80001f51                    | ISC     | iSunCoin                          |
 | 8080       | 0x80001f90                    |         | DSRV                              |
 | 8181       | 0x80001ff5                    | BOC     | BeOne Chain                       |
 | 8192       | 0x80002000                    | PAC     | pacprotocol                       |
@@ -1317,6 +1322,7 @@ All these constants are used as hardened derivation.
 | 123456     | 0x8001e240                    | SPR     | Spectre                           |
 | 161803     | 0x8002780b                    | APTA    | Bloqs4Good                        |
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
+| 200901     | 0x800310c5                    | BTR     | Bitlayer                          |
 | 224433     | 0x80036cb1                    | CONET   | CONET Holesky Network             |
 | 246529     | 0x8003c301                    | ATS     | ARTIS sigma1                      |
 | 261131     | 0x8003fc0b                    | ZAMA    | Zama                              |
@@ -1354,6 +1360,7 @@ All these constants are used as hardened derivation.
 | 8163271    | 0x807c8fc7                    | AFS     | ANFS                              |
 | 15118976   | 0x80e6b280                    | XDS     | XDS                               |
 | 61717561   | 0x83adbc39                    | AQUA    | Aquachain                         |
+| 77777777   | 0x84a2cb71                    | AZT     | Aztecoin                          |
 | 88888888   | 0x854c5638                    | HATCH   | Hatch                             |
 | 91927009   | 0x857ab1e1                    | kUSD    | kUSD                              |
 | 99999996   | 0x85f5e0fc                    | GENS    | GENS                              |
