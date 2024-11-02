@@ -736,7 +736,7 @@ All these constants are used as hardened derivation.
 | 705        | 0x800002c1                    | PEG     | Pegasus Token                     |
 | 706        | 0x800002c2                    | LKG     | Lionking                          |
 | 707        | 0x800002c3                    | MCOIN   | Moneta Coin                       |
-| 708        | 0x800002c4                    |         |
+| 708        | 0x800002c4                    | ---     | reserved                          |
 | 709        | 0x800002c5                    | AVAIL   | Avail                             |
 | 710        | 0x800002c6                    | FURY    | Highbury                          |
 | 711        | 0x800002c7                    | CHC     | Chaincoin                         |
@@ -766,8 +766,8 @@ All these constants are used as hardened derivation.
 | 735        | 0x800002df                    |         |
 | 736        | 0x800002e0                    |         |
 | 737        | 0x800002e1                    | ATOP    | Financial Blockchain              |
-| 738        | 0x800002e2                    |         |
-| 739        | 0x800002e3                    |         |
+| 738        | 0x800002e2                    | BTE     | Bitweb                            |
+| 739        | 0x800002e3                    | DPC     | Dpowcoin (DualPowCoin)            |
 | 740        | 0x800002e4                    |         |
 | 741        | 0x800002e5                    |         |
 | 742        | 0x800002e6                    |         |
@@ -1043,6 +1043,7 @@ All these constants are used as hardened derivation.
 | 1012       | 0x800003f4                    | JOC     | Japan Open Chain                  |
 | 1013       | 0x800003f5                    | BIC     | Beincrypto                        |
 | 1014       | 0x800003f6                    | JOY     | Joystream                         |
+| 1015       | 0x800003f7                    | ZCX     | ZEN Exchange Token                |
 | 1016       | 0x800003f8                    | ---     | reserved                          |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
@@ -1085,6 +1086,7 @@ All these constants are used as hardened derivation.
 | 1524       | 0x800005f4                    |         | Taler                             |
 | 1533       | 0x800005fd                    | BEAM    | Beam                              |
 | 1536       | 0x80000600                    | GAS     | BubiChain                         |
+| 1540       | 0x80000604                    | ATHENA  | Athena                            |
 | 1551       | 0x8000060f                    | SDK     | Sovereign SDK                     |
 | 1555       | 0x80000613                    | APC     | Apc Chain                         |
 | 1616       | 0x80000650                    | ELF     | AELF                              |
@@ -1321,6 +1323,7 @@ All these constants are used as hardened derivation.
 | 111111     | 0x8001b207                    | KAS     | Kaspa                             |
 | 121337     | 0x8001d9f9                    | KLS     | Karlsen                           |
 | 123456     | 0x8001e240                    | SPR     | Spectre                           |
+| 130822     | 0x8001ff06                    | WBT     | WhiteBIT Coin                     |
 | 161803     | 0x8002780b                    | APTA    | Bloqs4Good                        |
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
 | 200901     | 0x800310c5                    | BTR     | Bitlayer                          |
