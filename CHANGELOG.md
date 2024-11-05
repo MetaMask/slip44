@@ -7,15 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ## [4.1.0]
-### Uncategorized
-- fix: Ignore reserved names ([#171](https://github.com/MetaMask/slip44/pull/171))
+### Changed
 - Update with latest data as of 2024-11-02 ([#170](https://github.com/MetaMask/slip44/pull/170))
-- chore(devDeps): bump yarn to v3.8.5 ([#169](https://github.com/MetaMask/slip44/pull/169))
-- chore(devdeps): @lavamoat/allow-scripts@^2.3.1->^3.2.1 ([#143](https://github.com/MetaMask/slip44/pull/143))
-- Update cronjob to run every month ([#168](https://github.com/MetaMask/slip44/pull/168))
-- Update with latest data as of 2024-10-07 ([#167](https://github.com/MetaMask/slip44/pull/167))
-- Update with latest data as of 2024-09-02 ([#162](https://github.com/MetaMask/slip44/pull/162))
-- Bump the npm_and_yarn group across 1 directory with 2 updates ([#149](https://github.com/MetaMask/slip44/pull/149))
+- Ignore reserved names ([#171](https://github.com/MetaMask/slip44/pull/171))
 
 ## [4.0.0]
 ### Changed
