@@ -3323,12 +3323,6 @@
     "symbol": "HBC",
     "name": "HuobiChain"
   },
-  "554": {
-    "index": "554",
-    "hex": "0x8000022a",
-    "symbol": "---",
-    "name": "reserved"
-  },
   "555": {
     "index": "555",
     "hex": "0x8000022b",
@@ -3376,12 +3370,6 @@
     "hex": "0x80000232",
     "symbol": "TOP",
     "name": "TOP NetWork"
-  },
-  "563": {
-    "index": "563",
-    "hex": "0x80000233",
-    "symbol": "---",
-    "name": "reserved"
   },
   "564": {
     "index": "564",
@@ -3442,12 +3430,6 @@
     "hex": "0x8000023d",
     "symbol": "SRM",
     "name": "Serum"
-  },
-  "574": {
-    "index": "574",
-    "hex": "0x8000023e",
-    "symbol": "---",
-    "name": "reserved"
   },
   "575": {
     "index": "575",
@@ -3719,12 +3701,6 @@
     "symbol": "DEI",
     "name": "DeimosX"
   },
-  "620": {
-    "index": "620",
-    "hex": "0x8000026c",
-    "symbol": "---",
-    "name": "reserved"
-  },
   "621": {
     "index": "621",
     "hex": "0x8000026d",
@@ -3892,12 +3868,6 @@
     "hex": "0x80000288",
     "symbol": "ZRB",
     "name": "Zarb"
-  },
-  "649": {
-    "index": "649",
-    "hex": "0x80000289",
-    "symbol": "---",
-    "name": "reserved"
   },
   "650": {
     "index": "650",
@@ -4216,12 +4186,6 @@
     "hex": "0x800002c3",
     "symbol": "MCOIN",
     "name": "Moneta Coin"
-  },
-  "708": {
-    "index": "708",
-    "hex": "0x800002c4",
-    "symbol": "---",
-    "name": "reserved"
   },
   "709": {
     "index": "709",
@@ -4576,12 +4540,6 @@
     "hex": "0x8000032a",
     "symbol": "ASTR",
     "name": "Astar Network"
-  },
-  "811": {
-    "index": "811",
-    "hex": "0x8000032b",
-    "symbol": "---",
-    "name": "reserved"
   },
   "813": {
     "index": "813",
@@ -4967,12 +4925,6 @@
     "symbol": "AB",
     "name": "Argot Protocol"
   },
-  "941": {
-    "index": "941",
-    "hex": "0x800003ad",
-    "symbol": "---",
-    "name": "reserved"
-  },
   "942": {
     "index": "942",
     "hex": "0x800003ae",
@@ -5224,12 +5176,6 @@
     "hex": "0x800003f7",
     "symbol": "ZCX",
     "name": "ZEN Exchange Token"
-  },
-  "1016": {
-    "index": "1016",
-    "hex": "0x800003f8",
-    "symbol": "---",
-    "name": "reserved"
   },
   "1020": {
     "index": "1020",
@@ -6389,12 +6335,6 @@
     "symbol": "",
     "name": "Base"
   },
-  "8520": {
-    "index": "8520",
-    "hex": "0x80002148",
-    "symbol": "---",
-    "name": "reserved"
-  },
   "8680": {
     "index": "8680",
     "hex": "0x800021e8",
@@ -6718,12 +6658,6 @@
     "hex": "0x80007227",
     "symbol": "NEXA",
     "name": "Nexa"
-  },
-  "30001": {
-    "index": "30001",
-    "hex": "0x80007531",
-    "symbol": "---",
-    "name": "reserved"
   },
   "31102": {
     "index": "31102",
