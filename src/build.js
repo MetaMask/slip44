@@ -17,6 +17,11 @@ for (const line of slip44Content.split('\n')) {
     // eslint-disable-next-line id-denylist
     const [index, hex, symbol, name] = segments.map((seg) => seg.trim());
 
+    // Ignore reserved entries
+    if (symbol === '---' || name === 'reserved') {
+      continue;
+    }
+
     entries[index] = {
       index,
       // eslint-disable-next-line id-denylist
