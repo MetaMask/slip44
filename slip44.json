@@ -4217,6 +4217,12 @@
     "symbol": "MCOIN",
     "name": "Moneta Coin"
   },
+  "708": {
+    "index": "708",
+    "hex": "0x800002c4",
+    "symbol": "---",
+    "name": "reserved"
+  },
   "709": {
     "index": "709",
     "hex": "0x800002c5",
@@ -4354,6 +4360,18 @@
     "hex": "0x800002e1",
     "symbol": "ATOP",
     "name": "Financial Blockchain"
+  },
+  "738": {
+    "index": "738",
+    "hex": "0x800002e2",
+    "symbol": "BTE",
+    "name": "Bitweb"
+  },
+  "739": {
+    "index": "739",
+    "hex": "0x800002e3",
+    "symbol": "DPC",
+    "name": "Dpowcoin (DualPowCoin)"
   },
   "747": {
     "index": "747",
@@ -5201,6 +5219,12 @@
     "symbol": "JOY",
     "name": "Joystream"
   },
+  "1015": {
+    "index": "1015",
+    "hex": "0x800003f7",
+    "symbol": "ZCX",
+    "name": "ZEN Exchange Token"
+  },
   "1016": {
     "index": "1016",
     "hex": "0x800003f8",
@@ -5452,6 +5476,12 @@
     "hex": "0x80000600",
     "symbol": "GAS",
     "name": "BubiChain"
+  },
+  "1540": {
+    "index": "1540",
+    "hex": "0x80000604",
+    "symbol": "ATHENA",
+    "name": "Athena"
   },
   "1551": {
     "index": "1551",
@@ -6868,6 +6898,12 @@
     "hex": "0x8001e240",
     "symbol": "SPR",
     "name": "Spectre"
+  },
+  "130822": {
+    "index": "130822",
+    "hex": "0x8001ff06",
+    "symbol": "WBT",
+    "name": "WhiteBIT Coin"
   },
   "161803": {
     "index": "161803",
