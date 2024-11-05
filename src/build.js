@@ -18,7 +18,7 @@ for (const line of slip44Content.split('\n')) {
     const [index, hex, symbol, name] = segments.map((seg) => seg.trim());
 
     // Ignore reserved entries
-    if (symbol === '---' || name === 'reserved') {
+    if (symbol === '---' && name === 'reserved') {
       continue;
     }
 
