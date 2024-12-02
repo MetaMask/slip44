@@ -4115,6 +4115,12 @@
     "symbol": "KLV",
     "name": "KleverChain"
   },
+  "693": {
+    "index": "693",
+    "hex": "0x800002b5",
+    "symbol": "NET",
+    "name": "RealityNet"
+  },
   "694": {
     "index": "694",
     "hex": "0x800002b6",
@@ -4336,6 +4342,12 @@
     "hex": "0x800002e3",
     "symbol": "DPC",
     "name": "Dpowcoin (DualPowCoin)"
+  },
+  "740": {
+    "index": "740",
+    "hex": "0x800002e4",
+    "symbol": "MDC",
+    "name": "MyDataCoin"
   },
   "747": {
     "index": "747",
@@ -4750,6 +4762,12 @@
     "hex": "0x8000035a",
     "symbol": "HVH",
     "name": "HAVAH"
+  },
+  "864": {
+    "index": "864",
+    "hex": "0x80000360",
+    "symbol": "CVM",
+    "name": "Convex"
   },
   "866": {
     "index": "866",
@@ -6089,6 +6107,12 @@
     "symbol": "XVM",
     "name": "Venidium"
   },
+  "4976": {
+    "index": "4976",
+    "hex": "0x80001370",
+    "symbol": "VARA",
+    "name": "Vara"
+  },
   "4999": {
     "index": "4999",
     "hex": "0x80001387",
@@ -6238,6 +6262,12 @@
     "hex": "0x80001b74",
     "symbol": "AA",
     "name": "Arthera"
+  },
+  "7070": {
+    "index": "7070",
+    "hex": "0x80001b9e",
+    "symbol": "DOI",
+    "name": "Doichain"
   },
   "7091": {
     "index": "7091",
@@ -6442,6 +6472,12 @@
     "hex": "0x800026a0",
     "symbol": "BTF",
     "name": "Bitcoin Faith"
+  },
+  "9969": {
+    "index": "9969",
+    "hex": "0x800026f1",
+    "symbol": "OSMI",
+    "name": "Osmium"
   },
   "9999": {
     "index": "9999",
@@ -7066,6 +7102,12 @@
     "hex": "0x807c8fc7",
     "symbol": "AFS",
     "name": "ANFS"
+  },
+  "10000118": {
+    "index": "10000118",
+    "hex": "0x805d30b6",
+    "symbol": "OSMO",
+    "name": "Osmosis"
   },
   "11259375": {
     "index": "11259375",

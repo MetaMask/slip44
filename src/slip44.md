@@ -721,7 +721,7 @@ All these constants are used as hardened derivation.
 | 690        | 0x800002b2                    | KLV     | KleverChain                       |
 | 691        | 0x800002b3                    | TNT     | Tangle
 | 692        | 0x800002b4                    | GTG     | Gotigin
-| 693        | 0x800002b5                    |         |
+| 693        | 0x800002b5                    | NET     | RealityNet                        |
 | 694        | 0x800002b6                    | VTBC    | VTB Community                     |
 | 695        | 0x800002b7                    |         |
 | 696        | 0x800002b8                    | LUM     | Lumos                             |
@@ -768,7 +768,7 @@ All these constants are used as hardened derivation.
 | 737        | 0x800002e1                    | ATOP    | Financial Blockchain              |
 | 738        | 0x800002e2                    | BTE     | Bitweb                            |
 | 739        | 0x800002e3                    | DPC     | Dpowcoin (DualPowCoin)            |
-| 740        | 0x800002e4                    |         |
+| 740        | 0x800002e4                    | MDC     | MyDataCoin                        |
 | 741        | 0x800002e5                    |         |
 | 742        | 0x800002e6                    |         |
 | 743        | 0x800002e7                    |         |
@@ -892,7 +892,7 @@ All these constants are used as hardened derivation.
 | 861        | 0x8000035d                    |         |
 | 862        | 0x8000035e                    |         |
 | 863        | 0x8000035f                    |         |
-| 864        | 0x80000360                    |         |
+| 864        | 0x80000360                    | CVM     | Convex                            |
 | 865        | 0x80000361                    |         |
 | 866        | 0x80000362                    | MOB     | MobileCoin                        |
 | 867        | 0x80000363                    |         |
@@ -901,7 +901,7 @@ All these constants are used as hardened derivation.
 | 870        | 0x80000366                    |         |
 | 871        | 0x80000367                    |         |
 | 872        | 0x80000368                    |         |
-| 873        | 0x80000369                    |         |
+| 873        | 0x80000369                    | QUORUM  | Quorum
 | 874        | 0x8000036a                    |         |
 | 875        | 0x8000036b                    |         |
 | 876        | 0x8000036c                    |         |
@@ -1197,6 +1197,7 @@ All these constants are used as hardened derivation.
 | 4343       | 0x800010f7                    | XYM     | Symbol                            |
 | 4444       | 0x8000115c                    | C4E     | Chain4Energy                      |
 | 4919       | 0x80001337                    | XVM     | Venidium                          |
+| 4976       | 0x80001370                    | VARA    | Vara                              |
 | 4999       | 0x80001387                    | BXN     | BlackFort Exchange Network        |
 | 5000       | 0x80001388                    | V12     | Vet The Vote                      |
 | 5006       | 0x8000138e                    | SBC     | Senior Blockchain                 |
@@ -1222,6 +1223,7 @@ All these constants are used as hardened derivation.
 | 7000       | 0x80001b58                    | ZETA    | ZetaChain                         |
 | 7027       | 0x80001b73                    | ELLA    | Ella the heart                    |
 | 7028       | 0x80001b74                    | AA      | Arthera                           |
+| 7070       | 0x80001b9e                    | DOI     | Doichain                          |
 | 7091       | 0x80001bb3                    | TOPL    | Topl                              |
 | 7331       | 0x80001ca3                    | KLY     | KLYNTAR                           |
 | 7341       | 0x80001cad                    | SHFT    | Shyft                             |
@@ -1257,6 +1259,7 @@ All these constants are used as hardened derivation.
 | 9006       | 0x8000232e                    | BSC     | Binance Smart Chain               |
 | 9797       | 0x80002645                    | NRG     | Energi                            |
 | 9888       | 0x800026a0                    | BTF     | Bitcoin Faith                     |
+| 9969       | 0x800026f1                    | OSMI    | Osmium                            |
 | 9999       | 0x8000270f                    | GOD     | Bitcoin God                       |
 | 10000      | 0x80002710                    | FO      | FIBOS                             |
 | 10001      | 0x80002711                    | SPACE   | Space                             |
@@ -1336,7 +1339,7 @@ All these constants are used as hardened derivation.
 | 424242     | 0x80067932                    | X42     | x42                               |
 | 534352     | 0x80082750                    | SCR     | Scroll                            |
 | 666666     | 0x800a2c2a                    | VITE    | Vite                              |
-| 696365     | 0x800b3206                    | ICE     | Ice Network                       | 
+| 696365     | 0x800b3206                    | ICE     | Ice Network                       |
 | 888888     | 0x800d9038                    | SEA     | Second Exchange Alliance          |
 | 999999     | 0x800c9061                    | WTC     | WaltonChain                       |
 | 1048576    | 0x80100000                    | AMAX    | Armonia Meta Chain                |
@@ -1362,6 +1365,7 @@ All these constants are used as hardened derivation.
 | 7825266    | 0x80776772                    | WGR     | WGR                               |
 | 7825267    | 0x80776773                    | OBSR    | OBServer                          |
 | 8163271    | 0x807c8fc7                    | AFS     | ANFS                              |
+| 10000118   | 0x805d30b6                    | OSMO    | Osmosis                           |
 | 15118976   | 0x80e6b280                    | XDS     | XDS                               |
 | 61717561   | 0x83adbc39                    | AQUA    | Aquachain                         |
 | 77777777   | 0x84a2cb71                    | AZT     | Aztecoin                          |
