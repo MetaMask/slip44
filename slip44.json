@@ -4115,17 +4115,47 @@
     "symbol": "KLV",
     "name": "KleverChain"
   },
+  "691": {
+    "index": "691",
+    "hex": "0x800002b3",
+    "symbol": "TNT",
+    "name": "Tangle"
+  },
+  "692": {
+    "index": "692",
+    "hex": "0x800002b4",
+    "symbol": "GTG",
+    "name": "Gotigin"
+  },
+  "693": {
+    "index": "693",
+    "hex": "0x800002b5",
+    "symbol": "NET",
+    "name": "RealityNet"
+  },
   "694": {
     "index": "694",
     "hex": "0x800002b6",
     "symbol": "VTBC",
     "name": "VTB Community"
   },
+  "695": {
+    "index": "695",
+    "hex": "0x800002b7",
+    "symbol": "DIONE",
+    "name": "Odyssey Chain"
+  },
   "696": {
     "index": "696",
     "hex": "0x800002b8",
     "symbol": "LUM",
     "name": "Lumos"
+  },
+  "697": {
+    "index": "697",
+    "hex": "0x800002b9",
+    "symbol": "AVA",
+    "name": "Avalon"
   },
   "698": {
     "index": "698",
@@ -4289,6 +4319,12 @@
     "symbol": "MCX",
     "name": "MultiCash"
   },
+  "726": {
+    "index": "726",
+    "hex": "0x800002d6",
+    "symbol": "TARA",
+    "name": "Taraxa"
+  },
   "727": {
     "index": "727",
     "hex": "0x800002d7",
@@ -4313,6 +4349,12 @@
     "symbol": "BMK",
     "name": "Bitmark"
   },
+  "733": {
+    "index": "733",
+    "hex": "0x800002dd",
+    "symbol": "TBC",
+    "name": "TBChat"
+  },
   "734": {
     "index": "734",
     "hex": "0x800002de",
@@ -4336,6 +4378,18 @@
     "hex": "0x800002e3",
     "symbol": "DPC",
     "name": "Dpowcoin (DualPowCoin)"
+  },
+  "740": {
+    "index": "740",
+    "hex": "0x800002e4",
+    "symbol": "MDC",
+    "name": "MyDataCoin"
+  },
+  "744": {
+    "index": "744",
+    "hex": "0x800002e8",
+    "symbol": "DUSK",
+    "name": "Dusk"
   },
   "747": {
     "index": "747",
@@ -4366,6 +4420,12 @@
     "hex": "0x800002f5",
     "symbol": "HONEY",
     "name": "HoneyWood"
+  },
+  "758": {
+    "index": "758",
+    "hex": "0x800002f6",
+    "symbol": "XDD",
+    "name": "XDDCoin"
   },
   "765": {
     "index": "765",
@@ -4444,6 +4504,12 @@
     "hex": "0x80000310",
     "symbol": "SUI",
     "name": "Sui"
+  },
+  "785": {
+    "index": "785",
+    "hex": "0x80000311",
+    "symbol": "ULTIMA",
+    "name": "ULTIMA"
   },
   "786": {
     "index": "786",
@@ -4751,6 +4817,18 @@
     "symbol": "HVH",
     "name": "HAVAH"
   },
+  "860": {
+    "index": "860",
+    "hex": "0x8000035c",
+    "symbol": "XBIT",
+    "name": "XBIT Coin"
+  },
+  "864": {
+    "index": "864",
+    "hex": "0x80000360",
+    "symbol": "CVM",
+    "name": "Convex"
+  },
   "866": {
     "index": "866",
     "hex": "0x80000362",
@@ -4762,6 +4840,12 @@
     "hex": "0x80000364",
     "symbol": "IF",
     "name": "Infinitefuture"
+  },
+  "873": {
+    "index": "873",
+    "hex": "0x80000369",
+    "symbol": "QUORUM",
+    "name": "Quorum"
   },
   "877": {
     "index": "877",
@@ -4846,6 +4930,12 @@
     "hex": "0x80000388",
     "symbol": "HNT",
     "name": "Helium"
+  },
+  "906": {
+    "index": "906",
+    "hex": "0x8000038a",
+    "symbol": "XPX",
+    "name": "Sirius"
   },
   "907": {
     "index": "907",
@@ -5573,6 +5663,12 @@
     "symbol": "BITCI",
     "name": "Bitcicoin"
   },
+  "1918": {
+    "index": "1918",
+    "hex": "0x8000077e",
+    "symbol": "BKC",
+    "name": "Briskcoin"
+  },
   "1919": {
     "index": "1919",
     "hex": "0x8000077f",
@@ -6083,11 +6179,23 @@
     "symbol": "C4E",
     "name": "Chain4Energy"
   },
+  "4646": {
+    "index": "4646",
+    "hex": "0x80001226",
+    "symbol": "MST",
+    "name": "MST"
+  },
   "4919": {
     "index": "4919",
     "hex": "0x80001337",
     "symbol": "XVM",
     "name": "Venidium"
+  },
+  "4976": {
+    "index": "4976",
+    "hex": "0x80001370",
+    "symbol": "VARA",
+    "name": "Vara"
   },
   "4999": {
     "index": "4999",
@@ -6239,6 +6347,12 @@
     "symbol": "AA",
     "name": "Arthera"
   },
+  "7070": {
+    "index": "7070",
+    "hex": "0x80001b9e",
+    "symbol": "DOI",
+    "name": "Doichain"
+  },
   "7091": {
     "index": "7091",
     "hex": "0x80001bb3",
@@ -6314,8 +6428,8 @@
   "8217": {
     "index": "8217",
     "hex": "0x80002019",
-    "symbol": "KLAY",
-    "name": "KLAY"
+    "symbol": "KAIA",
+    "name": "KAIA"
   },
   "8339": {
     "index": "8339",
@@ -6443,6 +6557,12 @@
     "symbol": "BTF",
     "name": "Bitcoin Faith"
   },
+  "9969": {
+    "index": "9969",
+    "hex": "0x800026f1",
+    "symbol": "OSMI",
+    "name": "Osmium"
+  },
   "9999": {
     "index": "9999",
     "hex": "0x8000270f",
@@ -6460,6 +6580,12 @@
     "hex": "0x80002711",
     "symbol": "SPACE",
     "name": "Space"
+  },
+  "10007": {
+    "index": "10007",
+    "hex": "0x80002717",
+    "symbol": "S",
+    "name": "SONIC"
   },
   "10111": {
     "index": "10111",
@@ -6899,6 +7025,12 @@
     "symbol": "X42",
     "name": "x42"
   },
+  "440017": {
+    "index": "440017",
+    "hex": "0x8006b6d1",
+    "symbol": "@G",
+    "name": "Graphite"
+  },
   "534352": {
     "index": "534352",
     "hex": "0x80082750",
@@ -7067,6 +7199,12 @@
     "symbol": "AFS",
     "name": "ANFS"
   },
+  "10000118": {
+    "index": "10000118",
+    "hex": "0x805d30b6",
+    "symbol": "OSMO",
+    "name": "Osmosis"
+  },
   "11259375": {
     "index": "11259375",
     "hex": "0x80abcdef",
@@ -7078,6 +7216,12 @@
     "hex": "0x80e6b280",
     "symbol": "XDS",
     "name": "XDS"
+  },
+  "19000118": {
+    "index": "19000118",
+    "hex": "0x8121eb36",
+    "symbol": "SEI",
+    "name": "SEI"
   },
   "20230101": {
     "index": "20230101",
