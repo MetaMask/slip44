@@ -4337,6 +4337,12 @@
     "symbol": "BFC",
     "name": "BFC"
   },
+  "729": {
+    "index": "729",
+    "hex": "0x800002d9",
+    "symbol": "DCC",
+    "name": "DecentraCast"
+  },
   "730": {
     "index": "730",
     "hex": "0x800002da",
@@ -4384,6 +4390,12 @@
     "hex": "0x800002e4",
     "symbol": "MDC",
     "name": "MyDataCoin"
+  },
+  "741": {
+    "index": "741",
+    "hex": "0x800002e5",
+    "symbol": "RIV",
+    "name": "Rigvid"
   },
   "744": {
     "index": "744",
@@ -5369,6 +5381,12 @@
     "symbol": "DFI",
     "name": "DeFiChain EVM Network"
   },
+  "1133": {
+    "index": "1133",
+    "hex": "0x8000046d",
+    "symbol": "MESH",
+    "name": "StateMesh"
+  },
   "1137": {
     "index": "1137",
     "hex": "0x80000471",
@@ -5627,12 +5645,6 @@
     "symbol": "CUBE",
     "name": "Cube Chain Native Token"
   },
-  "1856": {
-    "index": "1856",
-    "hex": "0x80000743",
-    "symbol": "TES",
-    "name": "Teslacoin"
-  },
   "1888": {
     "index": "1888",
     "hex": "0x80000760",
@@ -5795,6 +5807,12 @@
     "symbol": "MLN",
     "name": "Miraland"
   },
+  "2003": {
+    "index": "2003",
+    "hex": "0x800007d3",
+    "symbol": "ISNA",
+    "name": "iSarrana"
+  },
   "2015": {
     "index": "2015",
     "hex": "0x800007df",
@@ -5908,6 +5926,12 @@
     "hex": "0x80000840",
     "symbol": "IoTE",
     "name": "IoTE"
+  },
+  "2121": {
+    "index": "2121",
+    "hex": "0x80000849",
+    "symbol": "CBTC",
+    "name": "Coordinate BTC (Anduro)"
   },
   "2125": {
     "index": "2125",
@@ -6359,6 +6383,12 @@
     "symbol": "TOPL",
     "name": "Topl"
   },
+  "7272": {
+    "index": "7272",
+    "hex": "0x80001c68",
+    "symbol": "ABTC",
+    "name": "Alys BTC (Anduro)"
+  },
   "7331": {
     "index": "7331",
     "hex": "0x80001ca3",
@@ -6460,6 +6490,12 @@
     "hex": "0x8000221c",
     "symbol": "BLN",
     "name": "Bullions"
+  },
+  "8738": {
+    "index": "8738",
+    "hex": "0x80002222",
+    "symbol": "ALPH",
+    "name": "Alph Network"
   },
   "8866": {
     "index": "8866",
@@ -7055,12 +7091,6 @@
     "symbol": "SEA",
     "name": "Second Exchange Alliance"
   },
-  "999999": {
-    "index": "999999",
-    "hex": "0x800c9061",
-    "symbol": "WTC",
-    "name": "WaltonChain"
-  },
   "1048576": {
     "index": "1048576",
     "hex": "0x80100000",
@@ -7289,6 +7319,12 @@
     "symbol": "FVDC",
     "name": "ForumCoin"
   },
+  "1010101010": {
+    "index": "1010101010",
+    "hex": "0xbc34eb12",
+    "symbol": "FAIC",
+    "name": "Free AI Chain"
+  },
   "1179993420": {
     "index": "1179993420",
     "hex": "0xc655454c",
@@ -7318,5 +7354,11 @@
     "hex": "0xc655456b",
     "symbol": "RWA",
     "name": "Asset Chain"
+  },
+  "1179993461": {
+    "index": "1179993461",
+    "hex": "0xc6554575",
+    "symbol": "HXC",
+    "name": "HuaXia Chain"
   }
 }
