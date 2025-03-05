@@ -5063,6 +5063,12 @@
     "symbol": "VKAX",
     "name": "Vkax"
   },
+  "965": {
+    "index": "965",
+    "hex": "0x800003c5",
+    "symbol": "ATLA",
+    "name": "Atleta Network"
+  },
   "966": {
     "index": "966",
     "hex": "0x800003c6",
@@ -5279,6 +5285,12 @@
     "symbol": "ZCX",
     "name": "ZEN Exchange Token"
   },
+  "1017": {
+    "index": "1017",
+    "hex": "0x800003f9",
+    "symbol": "ZTC",
+    "name": "Zenchain"
+  },
   "1020": {
     "index": "1020",
     "hex": "0x800003fc",
@@ -5381,9 +5393,9 @@
     "symbol": "DFI",
     "name": "DeFiChain EVM Network"
   },
-  "1133": {
-    "index": "1133",
-    "hex": "0x8000046d",
+  "1134": {
+    "index": "1134",
+    "hex": "0x8000046e",
     "symbol": "MESH",
     "name": "StateMesh"
   },
@@ -7264,6 +7276,12 @@
     "hex": "0x8134d82e",
     "symbol": "NLK",
     "name": "NuLinkCoin"
+  },
+  "22000118": {
+    "index": "22000118",
+    "hex": "0x814fb1f6",
+    "symbol": "DYDX",
+    "name": "Dydx"
   },
   "61717561": {
     "index": "61717561",

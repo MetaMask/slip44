@@ -993,7 +993,7 @@ All these constants are used as hardened derivation.
 | 962        | 0x800003c2                    |         |
 | 963        | 0x800003c3                    |         |
 | 964        | 0x800003c4                    |         |
-| 965        | 0x800003c5                    |         |
+| 965        | 0x800003c5                    | ATLA    | Atleta Network                    |
 | 966        | 0x800003c6                    | MATIC   | Matic                             |
 | 967        | 0x800003c7                    |         |
 | 968        | 0x800003c8                    | UNW     | UNW                               |
@@ -1045,6 +1045,7 @@ All these constants are used as hardened derivation.
 | 1014       | 0x800003f6                    | JOY     | Joystream                         |
 | 1015       | 0x800003f7                    | ZCX     | ZEN Exchange Token                |
 | 1016       | 0x800003f8                    | ---     | reserved                          |
+| 1017       | 0x800003f9                    | ZTC     | Zenchain                          |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
 | 1023       | 0x800003ff                    | ONE     | HARMONY-ONE (Legacy)              |
@@ -1062,7 +1063,7 @@ All these constants are used as hardened derivation.
 | 1128       | 0x80000468                    | ETSC    | Ethereum Social                   |
 | 1129       | 0x80000469                    | DFI     | DeFiChain                         |
 | 1130       | 0x8000046a                    | DFI     | DeFiChain EVM Network             |
-| 1133       | 0x8000046d                    | MESH    | StateMesh                         |
+| 1134       | 0x8000046e                    | MESH    | StateMesh                         |
 | 1137       | 0x80000471                    | $DAG    | Constellation Labs                |
 | 1145       | 0x80000479                    | CDY     | Bitcoin Candy                     |
 | 1155       | 0x80000483                    | ENJ     | Enjin Coin                        |
@@ -1375,6 +1376,7 @@ All these constants are used as hardened derivation.
 | 10000118   | 0x805d30b6                    | OSMO    | Osmosis                           |
 | 15118976   | 0x80e6b280                    | XDS     | XDS                               |
 | 19000118   | 0x8121eb36                    | SEI     | SEI                               |
+| 22000118   | 0x814fb1f6                    | DYDX    | Dydx                              |
 | 61717561   | 0x83adbc39                    | AQUA    | Aquachain                         |
 | 77777777   | 0x84a2cb71                    | AZT     | Aztecoin                          |
 | 88888888   | 0x854c5638                    | HATCH   | Hatch                             |
