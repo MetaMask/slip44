@@ -4355,6 +4355,12 @@
     "symbol": "BMK",
     "name": "Bitmark"
   },
+  "732": {
+    "index": "732",
+    "hex": "0x800002dc",
+    "symbol": "FUGA",
+    "name": "Fuga token"
+  },
   "733": {
     "index": "733",
     "hex": "0x800002dd",
@@ -5825,6 +5831,12 @@
     "symbol": "ISNA",
     "name": "iSarrana"
   },
+  "2013": {
+    "index": "2013",
+    "hex": "0x800007dd",
+    "symbol": "JKC",
+    "name": "Junkcoin"
+  },
   "2015": {
     "index": "2015",
     "hex": "0x800007df",
@@ -6082,6 +6094,12 @@
     "hex": "0x80000bd6",
     "symbol": "HBAR",
     "name": "Hedera HBAR"
+  },
+  "3054": {
+    "index": "3054",
+    "hex": "0x80000bee",
+    "symbol": "HIVE",
+    "name": "Hive Blockchain"
   },
   "3077": {
     "index": "3077",
@@ -6700,6 +6718,12 @@
     "hex": "0x8000312a",
     "symbol": "MINA",
     "name": "Mina"
+  },
+  "12850": {
+    "index": "12850",
+    "hex": "0x80003232",
+    "symbol": "ANLOG",
+    "name": "Analog Timechain"
   },
   "13107": {
     "index": "13107",
@@ -7330,6 +7354,12 @@
     "hex": "0x85f5e0ff",
     "symbol": "QKC",
     "name": "QuarkChain"
+  },
+  "240079435": {
+    "index": "240079435",
+    "hex": "0x8e4f524b",
+    "symbol": "ZORK",
+    "name": "Zork Network"
   },
   "608589380": {
     "index": "608589380",

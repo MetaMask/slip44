@@ -760,7 +760,7 @@ All these constants are used as hardened derivation.
 | 729        | 0x800002d9                    | DCC     | DecentraCast                      |
 | 730        | 0x800002da                    | HEALIOS | Tenacity                          |
 | 731        | 0x800002db                    | BMK     | Bitmark                           |
-| 732        | 0x800002dc                    |         |
+| 732        | 0x800002dc                    | FUGA    | Fuga token                        |
 | 733        | 0x800002dd                    | TBC     | TBChat                            |
 | 734        | 0x800002de                    | DENTX   | DENTNet                           |
 | 735        | 0x800002df                    |         |
@@ -1135,6 +1135,7 @@ All these constants are used as hardened derivation.
 | 2001       | 0x800007d1                    | MNP     | MNPCoin                           |
 | 2002       | 0x800007d2                    | MLN     | Miraland                          |
 | 2003       | 0x800007d3                    | ISNA    | iSarrana                          |
+| 2013       | 0x800007dd                    | JKC     | Junkcoin                          |
 | 2015       | 0x800007df                    | TEER    | Integritee                        |
 | 2017       | 0x800007e1                    | KIN     | Kin                               |
 | 2018       | 0x800007e2                    | EOSC    | EOSClassic                        |
@@ -1178,6 +1179,7 @@ All these constants are used as hardened derivation.
 | 3000       | 0x80000bb8                    | SM      | Stealth Message                   |
 | 3003       | 0x80000bbb                    | LUX     | LUX                               |
 | 3030       | 0x80000bd6                    | HBAR    | Hedera HBAR                       |
+| 3054       | 0x80000bee                    | HIVE    | Hive Blockchain                   |
 | 3077       | 0x80000c05                    | COS     | Contentos                         |
 | 3276       | 0x80000ccc                    | CCC     | CodeChain                         |
 | 3344       | 0x80000d10                    | PLMC    | Polimec                           |
@@ -1282,6 +1284,7 @@ All these constants are used as hardened derivation.
 | 11743      | 0x80002ddf                    | TNKR    | Tinkernet                         |
 | 12345      | 0x80003039                    | IPOS    | IPOS                              |
 | 12586      | 0x8000312a                    | MINA    | Mina                              |
+| 12850      | 0x80003232                    | ANLOG   | Analog Timechain                  |
 | 13107      | 0x80003333                    | BTY     | BitYuan                           |
 | 13108      | 0x80003334                    | YCC     | Yuan Chain Coin                   |
 | 13381      | 0x80003445                    | PHX     | Phoenix                           |
@@ -1388,6 +1391,7 @@ All these constants are used as hardened derivation.
 | 11259375   | 0x80abcdef                    | LBR     | 0L                                |
 | 20230101   | 0x8134afd5                    | ROH     | Rooch                             |
 | 20240430   | 0x8134d82e                    | NLK     | NuLinkCoin                        |
+| 240079435  | 0x8e4f524b                    | ZORK    | Zork Network                      |
 | 608589380  | 0xa4465644                    | FVDC    | ForumCoin                         |
 | 1010101010 | 0xbc34eb12                    | FAIC    | Free AI Chain                     |
 | 1179993420 | 0xc655454c                    |         | Fuel                              |
