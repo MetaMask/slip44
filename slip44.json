@@ -5357,6 +5357,12 @@
     "symbol": "MFID",
     "name": "Moonfish ID"
   },
+  "1100": {
+    "index": "1100",
+    "hex": "0x8000044c",
+    "symbol": "CROSS",
+    "name": "Cross Chain"
+  },
   "1111": {
     "index": "1111",
     "hex": "0x80000457",
@@ -6106,6 +6112,12 @@
     "hex": "0x80000c05",
     "symbol": "COS",
     "name": "Contentos"
+  },
+  "3131": {
+    "index": "3131",
+    "hex": "0x80000c3b",
+    "symbol": "EZC",
+    "name": "Ezcon Blockchain"
   },
   "3276": {
     "index": "3276",
