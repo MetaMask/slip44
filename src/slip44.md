@@ -27,7 +27,7 @@ These are the registered coin types for usage in level 2 of BIP44 described in c
 All these constants are used as hardened derivation.
 
 | Coin type  | Path component (`coin_type'`) | Symbol  | Coin                              |
-| ---------- | ----------------------------- | ------- | --------------------------------- |
+| ---------- | ----------------------------- |---------|-----------------------------------|
 | 0          | 0x80000000                    | BTC     | Bitcoin                           |
 | 1          | 0x80000001                    |         | Testnet (all coins)               |
 | 2          | 0x80000002                    | LTC     | Litecoin                          |
@@ -222,7 +222,7 @@ All these constants are used as hardened derivation.
 | 191        | 0x800000bf                    |         | Lynx                              |
 | 192        | 0x800000c0                    | LCC     | LitecoinCash                      |
 | 193        | 0x800000c1                    | XFE     | Feirm                             |
-| 194        | 0x800000c2                    | EOS     | EOS                               |
+| 194        | 0x800000c2                    | A       | Vaulta                            |
 | 195        | 0x800000c3                    | TRX     | Tron                              |
 | 196        | 0x800000c4                    | KOBO    | Kobocoin                          |
 | 197        | 0x800000c5                    | HUSH    | HUSH                              |
