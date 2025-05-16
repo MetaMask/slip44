@@ -1056,6 +1056,7 @@ All these constants are used as hardened derivation.
 | 1028       | 0x80000404                    | PLS     | Pulse Coin                        |
 | 1032       | 0x80000408                    | BTCR    | BTCR                              |
 | 1042       | 0x80000412                    | MFID    | Moonfish ID                       |
+| 1100       | 0x8000044c                    | CROSS   | Cross Chain                       |
 | 1111       | 0x80000457                    | BBC     | Big Bitcoin                       |
 | 1116       | 0x8000045c                    | CORE    | Core                              |
 | 1120       | 0x80000460                    | RISE    | RISE                              |
@@ -1181,6 +1182,7 @@ All these constants are used as hardened derivation.
 | 3030       | 0x80000bd6                    | HBAR    | Hedera HBAR                       |
 | 3054       | 0x80000bee                    | HIVE    | Hive Blockchain                   |
 | 3077       | 0x80000c05                    | COS     | Contentos                         |
+| 3131       | 0x80000c3b                    | EZC     | Ezcon Blockchain                  |
 | 3276       | 0x80000ccc                    | CCC     | CodeChain                         |
 | 3344       | 0x80000d10                    | PLMC    | Polimec                           |
 | 3333       | 0x80000d05                    | SXP     | Solar                             |
