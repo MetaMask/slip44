@@ -9,16 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [4.2.0]
 
-### Uncategorized
+### Changed
 
 - Update with latest data as of 2025-05-02 ([#182](https://github.com/MetaMask/slip44/pull/182))
-- Update with latest data as of 2025-04-02 ([#180](https://github.com/MetaMask/slip44/pull/180))
-- Update workflows to use `MetaMask/action-checkout-and-setup` ([#179](https://github.com/MetaMask/slip44/pull/179))
-- Bump the npm_and_yarn group with 2 updates ([#173](https://github.com/MetaMask/slip44/pull/173))
-- Update with latest data as of 2025-03-02 ([#178](https://github.com/MetaMask/slip44/pull/178))
-- chore: add workflow_dispatch to security-code-scanner ([#177](https://github.com/MetaMask/slip44/pull/177))
-- Update with latest data as of 2025-02-02 ([#176](https://github.com/MetaMask/slip44/pull/176))
-- Update with latest data as of 2025-01-02 ([#175](https://github.com/MetaMask/slip44/pull/175))
 
 ## [4.1.0]
 
