@@ -1148,7 +1148,7 @@
   "191": {
     "index": "191",
     "hex": "0x800000bf",
-    "symbol": "",
+    "symbol": "LYNX",
     "name": "Lynx"
   },
   "192": {
@@ -4403,6 +4403,12 @@
     "symbol": "RIV",
     "name": "Rigvid"
   },
+  "742": {
+    "index": "742",
+    "hex": "0x800002e6",
+    "symbol": "LTO",
+    "name": "LTO Network"
+  },
   "744": {
     "index": "744",
     "hex": "0x800002e8",
@@ -4450,6 +4456,12 @@
     "hex": "0x800002fd",
     "symbol": "TGN",
     "name": "Tagion"
+  },
+  "767": {
+    "index": "767",
+    "hex": "0x800002ff",
+    "symbol": "LLD",
+    "name": "Liberland"
   },
   "768": {
     "index": "768",
@@ -4552,6 +4564,12 @@
     "hex": "0x80000315",
     "symbol": "TAU",
     "name": "Lamden"
+  },
+  "790": {
+    "index": "790",
+    "hex": "0x80000316",
+    "symbol": "LKY",
+    "name": "Luckycoin"
   },
   "794": {
     "index": "794",
@@ -5098,6 +5116,12 @@
     "hex": "0x800003ca",
     "symbol": "TWINS",
     "name": "TWINS"
+  },
+  "975": {
+    "index": "975",
+    "hex": "0x800003cf",
+    "symbol": "",
+    "name": "TrustNet"
   },
   "977": {
     "index": "977",
@@ -5963,6 +5987,12 @@
     "symbol": "CBTC",
     "name": "Coordinate BTC (Anduro)"
   },
+  "2122": {
+    "index": "2122",
+    "hex": "0x8000084a",
+    "symbol": "QBTC",
+    "name": "Quasar BTC (Anduro)"
+  },
   "2125": {
     "index": "2125",
     "hex": "0x8000084d",
@@ -6119,6 +6149,12 @@
     "symbol": "EZC",
     "name": "Ezcon Blockchain"
   },
+  "3141": {
+    "index": "3141",
+    "hex": "0x80000c45",
+    "symbol": "B1T",
+    "name": "Bit"
+  },
   "3276": {
     "index": "3276",
     "hex": "0x80000ccc",
@@ -6190,6 +6226,12 @@
     "hex": "0x80000e11",
     "symbol": "CY",
     "name": "Cybits"
+  },
+  "3630": {
+    "index": "3630",
+    "hex": "0x80000e2e",
+    "symbol": "EPPIE",
+    "name": "Eppie"
   },
   "3757": {
     "index": "3757",
@@ -6622,6 +6664,12 @@
     "hex": "0x8000232e",
     "symbol": "BSC",
     "name": "Binance Smart Chain"
+  },
+  "9007": {
+    "index": "9007",
+    "hex": "0x8000232f",
+    "symbol": "SATOX",
+    "name": "Satoxcoin"
   },
   "9797": {
     "index": "9797",
