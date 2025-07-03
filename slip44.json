@@ -4373,6 +4373,18 @@
     "symbol": "DENTX",
     "name": "DENTNet"
   },
+  "735": {
+    "index": "735",
+    "hex": "0x800002df",
+    "symbol": "NBY",
+    "name": "Neobytes"
+  },
+  "736": {
+    "index": "736",
+    "hex": "0x800002e0",
+    "symbol": "BABY",
+    "name": "BABY"
+  },
   "737": {
     "index": "737",
     "hex": "0x800002e1",
@@ -4408,6 +4420,12 @@
     "hex": "0x800002e6",
     "symbol": "LTO",
     "name": "LTO Network"
+  },
+  "743": {
+    "index": "743",
+    "hex": "0x800002e7",
+    "symbol": "LKY",
+    "name": "LuckyCoin"
   },
   "744": {
     "index": "744",
@@ -4570,6 +4588,12 @@
     "hex": "0x80000316",
     "symbol": "LKY",
     "name": "Luckycoin"
+  },
+  "791": {
+    "index": "791",
+    "hex": "0x80000317",
+    "symbol": "SOMA",
+    "name": "Soma"
   },
   "794": {
     "index": "794",
@@ -5549,6 +5573,12 @@
     "symbol": "TENTSLP",
     "name": "TENT Simple Ledger Protocol"
   },
+  "1420": {
+    "index": "1420",
+    "hex": "0x8000058c",
+    "symbol": "DEV",
+    "name": "DogecoinEV"
+  },
   "1510": {
     "index": "1510",
     "hex": "0x800005e6",
@@ -5860,6 +5890,12 @@
     "hex": "0x800007d3",
     "symbol": "ISNA",
     "name": "iSarrana"
+  },
+  "2010": {
+    "index": "2010",
+    "hex": "0x800007da",
+    "symbol": "XBT",
+    "name": "Bitcoin Classic"
   },
   "2013": {
     "index": "2013",
@@ -6514,6 +6550,12 @@
     "hex": "0x80001f40",
     "symbol": "SKY",
     "name": "Skycoin"
+  },
+  "8008": {
+    "index": "8008",
+    "hex": "0x80001f48",
+    "symbol": "BERA",
+    "name": "Berachain"
   },
   "8017": {
     "index": "8017",
@@ -7181,6 +7223,24 @@
     "symbol": "ICE",
     "name": "Ice Network"
   },
+  "827166": {
+    "index": "827166",
+    "hex": "0x800c9f1e",
+    "symbol": "",
+    "name": "RGB on Bitcoin (mainnet)"
+  },
+  "827167": {
+    "index": "827167",
+    "hex": "0x800c9f1f",
+    "symbol": "",
+    "name": "RGB on Bitcoin (testnet)"
+  },
+  "828942": {
+    "index": "828942",
+    "hex": "0x800ca60e",
+    "symbol": "",
+    "name": "RGB on Liquid (mainnet)"
+  },
   "888888": {
     "index": "888888",
     "hex": "0x800d9038",
@@ -7228,6 +7288,12 @@
     "hex": "0x80485944",
     "symbol": "HYD",
     "name": "Hydra Token"
+  },
+  "5063758": {
+    "index": "5063758",
+    "hex": "0x804d444e",
+    "symbol": "",
+    "name": "Miden"
   },
   "5249353": {
     "index": "5249353",
@@ -7468,5 +7534,11 @@
     "hex": "0xc6554575",
     "symbol": "HXC",
     "name": "HuaXia Chain"
+  },
+  "1179993471": {
+    "index": "1179993471",
+    "hex": "0xc655457f",
+    "symbol": "AME",
+    "name": "AME Chain"
   }
 }
