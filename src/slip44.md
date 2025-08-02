@@ -1120,6 +1120,7 @@ All these constants are used as hardened derivation.
 | 1951       | 0x8000079f                    | ESA     | Esa                               |
 | 1952       | 0x800007a0                    | ESC     | EsaCoin                           |
 | 1955       | 0x800007a3                    | XX      | xx coin                           |
+| 1969       | 0x800007b1                    | MVRK    | Mavryk Network                    |
 | 1977       | 0x800007b9                    | XMX     | Xuma                              |
 | 1984       | 0x800007c0                    | TRTL    | TurtleCoin                        |
 | 1985       | 0x800007c1                    | SLRT    | Solarti Chain                     |
@@ -1228,6 +1229,7 @@ All these constants are used as hardened derivation.
 | 6144       | 0x80001800                    | DTS     | Datos                             |
 | 6174       | 0x8000181e                    | MOI     | My Own Internet                   |
 | 6278       | 0x80001886                    | STEAMX  | Rails Network Mainnet             |
+| 6310       | 0x800018a6                    | VRL     | Virel Protocol                    |
 | 6532       | 0x80001984                    | UM      | Penumbra                          |
 | 6599       | 0x800019c7                    | RSC     | Royal Sports City                 |
 | 6666       | 0x80001a0a                    | BPA     | Bitcoin Pizza                     |
