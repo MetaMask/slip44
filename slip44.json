@@ -5789,6 +5789,12 @@
     "symbol": "XX",
     "name": "xx coin"
   },
+  "1969": {
+    "index": "1969",
+    "hex": "0x800007b1",
+    "symbol": "MVRK",
+    "name": "Mavryk Network"
+  },
   "1977": {
     "index": "1977",
     "hex": "0x800007b9",
@@ -6436,6 +6442,12 @@
     "hex": "0x80001886",
     "symbol": "STEAMX",
     "name": "Rails Network Mainnet"
+  },
+  "6310": {
+    "index": "6310",
+    "hex": "0x800018a6",
+    "symbol": "VRL",
+    "name": "Virel Protocol"
   },
   "6532": {
     "index": "6532",
