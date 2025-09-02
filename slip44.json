@@ -4433,6 +4433,12 @@
     "symbol": "DUSK",
     "name": "Dusk"
   },
+  "745": {
+    "index": "745",
+    "hex": "0x800002e9",
+    "symbol": "DIMI",
+    "name": "DiminutiveCoin"
+  },
   "747": {
     "index": "747",
     "hex": "0x800002eb",
@@ -4468,6 +4474,12 @@
     "hex": "0x800002f6",
     "symbol": "XDD",
     "name": "XDDCoin"
+  },
+  "759": {
+    "index": "759",
+    "hex": "0x800002f7",
+    "symbol": "TBI",
+    "name": "TBicloud"
   },
   "765": {
     "index": "765",
@@ -4522,6 +4534,12 @@
     "hex": "0x80000309",
     "symbol": "BTW",
     "name": "Bitcoin World"
+  },
+  "779": {
+    "index": "779",
+    "hex": "0x8000030b",
+    "symbol": "UCHAIN",
+    "name": "UCHAIN"
   },
   "780": {
     "index": "780",
@@ -5093,6 +5111,12 @@
     "symbol": "UNLOCK",
     "name": "Jasiri protocol"
   },
+  "950": {
+    "index": "950",
+    "hex": "0x800003b6",
+    "symbol": "CNDT",
+    "name": "Conduct Protocol"
+  },
   "955": {
     "index": "955",
     "hex": "0x800003bb",
@@ -5411,6 +5435,12 @@
     "symbol": "CROSS",
     "name": "Cross Chain"
   },
+  "1110": {
+    "index": "1110",
+    "hex": "0x80000456",
+    "symbol": "ZRA",
+    "name": "ZERA"
+  },
   "1111": {
     "index": "1111",
     "hex": "0x80000457",
@@ -5482,6 +5512,12 @@
     "hex": "0x80000492",
     "symbol": "HOO",
     "name": "Hoo Smart Chain"
+  },
+  "1200": {
+    "index": "1200",
+    "hex": "0x800004b0",
+    "symbol": "GNK",
+    "name": "Gonka"
   },
   "1234": {
     "index": "1234",
@@ -6329,6 +6365,12 @@
     "symbol": "C4E",
     "name": "Chain4Energy"
   },
+  "4474": {
+    "index": "4474",
+    "hex": "0x8000117a",
+    "symbol": "SHIC",
+    "name": "ShibaCoin"
+  },
   "4646": {
     "index": "4646",
     "hex": "0x80001226",
@@ -6472,6 +6514,12 @@
     "hex": "0x80001a20",
     "symbol": "SAFE",
     "name": "SAFE"
+  },
+  "6767": {
+    "index": "6767",
+    "hex": "0x80001a6f",
+    "symbol": "CC",
+    "name": "Canton Coin"
   },
   "6779": {
     "index": "6779",
