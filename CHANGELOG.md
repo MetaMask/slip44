@@ -9,13 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [4.3.0]
 
-### Uncategorized
+### Changed
 
-- fix: Loosen validation a bit to account for invalid Markdown ([#190](https://github.com/MetaMask/slip44/pull/190))
 - Update with latest data as of 2025-09-02 ([#189](https://github.com/MetaMask/slip44/pull/189))
-- Update with latest data as of 2025-08-02 ([#187](https://github.com/MetaMask/slip44/pull/187))
-- Update with latest data as of 2025-07-02 ([#186](https://github.com/MetaMask/slip44/pull/186))
-- Update with latest data as of 2025-06-02 ([#185](https://github.com/MetaMask/slip44/pull/185))
 
 ## [4.2.0]
 
