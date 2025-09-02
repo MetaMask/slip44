@@ -9,10 +9,10 @@ const slip44Content = fs.readFileSync(rawSlip44Path, 'utf8');
 
 const entries = {};
 for (const line of slip44Content.split('\n')) {
-  const segments = line.split('|').slice(1, -1);
+  const segments = line.split('|').slice(1);
   if (
-    segments.length === 4 &&
-    /^\|\s*\d+\s*\|\s*0x[a-z0-9]+\s*\|/iu.test(line)
+    segments.length >= 4 &&
+    /^\|\s*\d+\s*\|\s*0x[a-z0-9]+\s*\|\s.+\|\s.+\|?$/iu.test(line)
   ) {
     // eslint-disable-next-line id-denylist
     const [index, hex, symbol, name] = segments.map((seg) => seg.trim());
