@@ -4943,6 +4943,12 @@
     "symbol": "LUM",
     "name": "Lum Network"
   },
+  "881": {
+    "index": "881",
+    "hex": "0x80000371",
+    "symbol": "AEGS",
+    "name": "Aegisum"
+  },
   "883": {
     "index": "883",
     "hex": "0x80000373",
