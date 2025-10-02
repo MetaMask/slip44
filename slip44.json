@@ -4439,6 +4439,12 @@
     "symbol": "DIMI",
     "name": "DiminutiveCoin"
   },
+  "746": {
+    "index": "746",
+    "hex": "0x800002ea",
+    "symbol": "PLM",
+    "name": "Palladium"
+  },
   "747": {
     "index": "747",
     "hex": "0x800002eb",
@@ -4480,6 +4486,12 @@
     "hex": "0x800002f7",
     "symbol": "TBI",
     "name": "TBicloud"
+  },
+  "762": {
+    "index": "762",
+    "hex": "0x800002fa",
+    "symbol": "BELLS",
+    "name": "Bellscoin"
   },
   "765": {
     "index": "765",
@@ -5723,6 +5735,12 @@
     "symbol": "BCX",
     "name": "BitcoinX"
   },
+  "1707": {
+    "index": "1707",
+    "hex": "0x800006ab",
+    "symbol": "TRMP",
+    "name": "TrumPOW"
+  },
   "1729": {
     "index": "1729",
     "hex": "0x800006c1",
@@ -5890,6 +5908,12 @@
     "hex": "0x800007c7",
     "symbol": "SC",
     "name": "Sia"
+  },
+  "1995": {
+    "index": "1995",
+    "hex": "0x800007cb",
+    "symbol": "MYDOGE",
+    "name": "Mydogecoin"
   },
   "1996": {
     "index": "1996",
@@ -6286,6 +6310,12 @@
     "hex": "0x80000d6a",
     "symbol": "PEPE",
     "name": "Pepecoin Core"
+  },
+  "3499": {
+    "index": "3499",
+    "hex": "0x80000dab",
+    "symbol": "BLAZE",
+    "name": "Blaze"
   },
   "3501": {
     "index": "3501",
@@ -7211,6 +7241,12 @@
     "symbol": "APTA",
     "name": "Bloqs4Good"
   },
+  "189189": {
+    "index": "189189",
+    "hex": "0x8002e305",
+    "symbol": "QUAN",
+    "name": "Quantus Network"
+  },
   "200625": {
     "index": "200625",
     "hex": "0x80030fb1",
@@ -7288,6 +7324,12 @@
     "hex": "0x800b3206",
     "symbol": "ICE",
     "name": "Ice Network"
+  },
+  "696969": {
+    "index": "696969",
+    "hex": "0x800aa289",
+    "symbol": "TXC",
+    "name": "TEXITcoin"
   },
   "827166": {
     "index": "827166",
