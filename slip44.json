@@ -4433,6 +4433,18 @@
     "symbol": "DUSK",
     "name": "Dusk"
   },
+  "745": {
+    "index": "745",
+    "hex": "0x800002e9",
+    "symbol": "DIMI",
+    "name": "DiminutiveCoin"
+  },
+  "746": {
+    "index": "746",
+    "hex": "0x800002ea",
+    "symbol": "PLM",
+    "name": "Palladium"
+  },
   "747": {
     "index": "747",
     "hex": "0x800002eb",
@@ -4468,6 +4480,18 @@
     "hex": "0x800002f6",
     "symbol": "XDD",
     "name": "XDDCoin"
+  },
+  "759": {
+    "index": "759",
+    "hex": "0x800002f7",
+    "symbol": "TBI",
+    "name": "TBicloud"
+  },
+  "762": {
+    "index": "762",
+    "hex": "0x800002fa",
+    "symbol": "BELLS",
+    "name": "Bellscoin"
   },
   "765": {
     "index": "765",
@@ -4522,6 +4546,12 @@
     "hex": "0x80000309",
     "symbol": "BTW",
     "name": "Bitcoin World"
+  },
+  "779": {
+    "index": "779",
+    "hex": "0x8000030b",
+    "symbol": "UCHAIN",
+    "name": "UCHAIN"
   },
   "780": {
     "index": "780",
@@ -4925,6 +4955,12 @@
     "symbol": "LUM",
     "name": "Lum Network"
   },
+  "881": {
+    "index": "881",
+    "hex": "0x80000371",
+    "symbol": "AEGS",
+    "name": "Aegisum"
+  },
   "883": {
     "index": "883",
     "hex": "0x80000373",
@@ -5092,6 +5128,12 @@
     "hex": "0x800003b1",
     "symbol": "UNLOCK",
     "name": "Jasiri protocol"
+  },
+  "950": {
+    "index": "950",
+    "hex": "0x800003b6",
+    "symbol": "CNDT",
+    "name": "Conduct Protocol"
   },
   "955": {
     "index": "955",
@@ -5411,6 +5453,12 @@
     "symbol": "CROSS",
     "name": "Cross Chain"
   },
+  "1110": {
+    "index": "1110",
+    "hex": "0x80000456",
+    "symbol": "ZRA",
+    "name": "ZERA"
+  },
   "1111": {
     "index": "1111",
     "hex": "0x80000457",
@@ -5482,6 +5530,12 @@
     "hex": "0x80000492",
     "symbol": "HOO",
     "name": "Hoo Smart Chain"
+  },
+  "1200": {
+    "index": "1200",
+    "hex": "0x800004b0",
+    "symbol": "GNK",
+    "name": "Gonka"
   },
   "1234": {
     "index": "1234",
@@ -5681,6 +5735,12 @@
     "symbol": "BCX",
     "name": "BitcoinX"
   },
+  "1707": {
+    "index": "1707",
+    "hex": "0x800006ab",
+    "symbol": "TRMP",
+    "name": "TrumPOW"
+  },
   "1729": {
     "index": "1729",
     "hex": "0x800006c1",
@@ -5789,6 +5849,12 @@
     "symbol": "XX",
     "name": "xx coin"
   },
+  "1969": {
+    "index": "1969",
+    "hex": "0x800007b1",
+    "symbol": "MVRK",
+    "name": "Mavryk Network"
+  },
   "1977": {
     "index": "1977",
     "hex": "0x800007b9",
@@ -5842,6 +5908,12 @@
     "hex": "0x800007c7",
     "symbol": "SC",
     "name": "Sia"
+  },
+  "1995": {
+    "index": "1995",
+    "hex": "0x800007cb",
+    "symbol": "MYDOGE",
+    "name": "Mydogecoin"
   },
   "1996": {
     "index": "1996",
@@ -6239,6 +6311,12 @@
     "symbol": "PEPE",
     "name": "Pepecoin Core"
   },
+  "3499": {
+    "index": "3499",
+    "hex": "0x80000dab",
+    "symbol": "BLAZE",
+    "name": "Blaze"
+  },
   "3501": {
     "index": "3501",
     "hex": "0x80000dad",
@@ -6322,6 +6400,12 @@
     "hex": "0x8000115c",
     "symbol": "C4E",
     "name": "Chain4Energy"
+  },
+  "4474": {
+    "index": "4474",
+    "hex": "0x8000117a",
+    "symbol": "SHIC",
+    "name": "ShibaCoin"
   },
   "4646": {
     "index": "4646",
@@ -6437,6 +6521,12 @@
     "symbol": "STEAMX",
     "name": "Rails Network Mainnet"
   },
+  "6310": {
+    "index": "6310",
+    "hex": "0x800018a6",
+    "symbol": "VRL",
+    "name": "Virel Protocol"
+  },
   "6532": {
     "index": "6532",
     "hex": "0x80001984",
@@ -6460,6 +6550,12 @@
     "hex": "0x80001a20",
     "symbol": "SAFE",
     "name": "SAFE"
+  },
+  "6767": {
+    "index": "6767",
+    "hex": "0x80001a6f",
+    "symbol": "CC",
+    "name": "Canton Coin"
   },
   "6779": {
     "index": "6779",
@@ -7145,6 +7241,12 @@
     "symbol": "APTA",
     "name": "Bloqs4Good"
   },
+  "189189": {
+    "index": "189189",
+    "hex": "0x8002e305",
+    "symbol": "QUAN",
+    "name": "Quantus Network"
+  },
   "200625": {
     "index": "200625",
     "hex": "0x80030fb1",
@@ -7222,6 +7324,12 @@
     "hex": "0x800b3206",
     "symbol": "ICE",
     "name": "Ice Network"
+  },
+  "696969": {
+    "index": "696969",
+    "hex": "0x800aa289",
+    "symbol": "TXC",
+    "name": "TEXITcoin"
   },
   "827166": {
     "index": "827166",

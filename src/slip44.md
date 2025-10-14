@@ -773,8 +773,8 @@ All these constants are used as hardened derivation.
 | 742        | 0x800002e6                    | LTO     | LTO Network                       |
 | 743        | 0x800002e7                    | LKY     | LuckyCoin                         |
 | 744        | 0x800002e8                    | DUSK    | Dusk                              |
-| 745        | 0x800002e9                    |         |
-| 746        | 0x800002ea                    |         |
+| 745        | 0x800002e9                    | DIMI    | DiminutiveCoin                    |
+| 746        | 0x800002ea                    | PLM     | Palladium
 | 747        | 0x800002eb                    | CFG     | Centrifuge                        |
 | 748        | 0x800002ec                    |         |
 | 749        | 0x800002ed                    |         |
@@ -787,10 +787,10 @@ All these constants are used as hardened derivation.
 | 756        | 0x800002f4                    |         |
 | 757        | 0x800002f5                    | HONEY   | HoneyWood                         |
 | 758        | 0x800002f6                    | XDD     | XDDCoin                           |
-| 759        | 0x800002f7                    |         |
+| 759        | 0x800002f7                    | TBI     | TBicloud                          |
 | 760        | 0x800002f8                    |         |
 | 761        | 0x800002f9                    |         |
-| 762        | 0x800002fa                    |         |
+| 762        | 0x800002fa                    | BELLS   | Bellscoin                         |
 | 763        | 0x800002fb                    |         |
 | 764        | 0x800002fc                    |         |
 | 765        | 0x800002fd                    | TGN     | Tagion                            |
@@ -807,7 +807,7 @@ All these constants are used as hardened derivation.
 | 776        | 0x80000308                    | KEY     | Keymaker Coin                     |
 | 777        | 0x80000309                    | BTW     | Bitcoin World                     |
 | 778        | 0x8000030a                    |         |
-| 779        | 0x8000030b                    |         |
+| 779        | 0x8000030b                    | UCHAIN  | UCHAIN                            |
 | 780        | 0x8000030c                    | PLCUC   | PLC Ultima Classic                |
 | 781        | 0x8000030d                    | PLCUX   | PLC Ultima X                      |
 | 782        | 0x8000030e                    | PLCU    | PLC Ultima                        |
@@ -909,7 +909,7 @@ All these constants are used as hardened derivation.
 | 878        | 0x8000036e                    | SCR     | Scorum Network                    |
 | 879        | 0x8000036f                    |         |
 | 880        | 0x80000370                    | LUM     | Lum Network                       |
-| 881        | 0x80000371                    |         |
+| 881        | 0x80000371                    | AEGS    | Aegisum
 | 882        | 0x80000372                    |         |
 | 883        | 0x80000373                    | ZBC     | ZooBC                             |
 | 884        | 0x80000374                    |         |
@@ -978,7 +978,7 @@ All these constants are used as hardened derivation.
 | 947        | 0x800003b3                    |         |
 | 948        | 0x800003b4                    |         |
 | 949        | 0x800003b5                    |         |
-| 950        | 0x800003b6                    |         |
+| 950        | 0x800003b6                    | CNDT    | Conduct Protocol                  |
 | 951        | 0x800003b7                    |         |
 | 952        | 0x800003b8                    |         |
 | 953        | 0x800003b9                    |         |
@@ -1057,6 +1057,7 @@ All these constants are used as hardened derivation.
 | 1032       | 0x80000408                    | BTCR    | BTCR                              |
 | 1042       | 0x80000412                    | MFID    | Moonfish ID                       |
 | 1100       | 0x8000044c                    | CROSS   | Cross Chain                       |
+| 1110       | 0x80000456                    | ZRA     | ZERA                              |
 | 1111       | 0x80000457                    | BBC     | Big Bitcoin                       |
 | 1116       | 0x8000045c                    | CORE    | Core                              |
 | 1120       | 0x80000460                    | RISE    | RISE                              |
@@ -1069,6 +1070,7 @@ All these constants are used as hardened derivation.
 | 1145       | 0x80000479                    | CDY     | Bitcoin Candy                     |
 | 1155       | 0x80000483                    | ENJ     | Enjin Coin                        |
 | 1170       | 0x80000492                    | HOO     | Hoo Smart Chain                   |
+| 1200       | 0x800004b0                    | GNK     | Gonka                             |
 | 1234       | 0x800004d2                    | ALPH    | Alephium                          |
 | 1236       | 0x800004d4                    |         | Masca                             |
 | 1237       | 0x800004d5                    |         | Nostr                             |
@@ -1102,6 +1104,7 @@ All these constants are used as hardened derivation.
 | 1668       | 0x80000684                    | NEOX    | Neoxa                             |
 | 1669       | 0x80000685                    | MEWC    | Meowcoin                          |
 | 1688       | 0x80000698                    | BCX     | BitcoinX                          |
+| 1707       | 0x800006ab                    | TRMP    | TrumPOW                           |
 | 1729       | 0x800006c1                    | XTZ     | Tezos                             |
 | 1776       | 0x800006f0                    | LBTC    | Liquid BTC                        |
 | 1777       | 0x800006f1                    | BBP     | Biblepay                          |
@@ -1120,6 +1123,7 @@ All these constants are used as hardened derivation.
 | 1951       | 0x8000079f                    | ESA     | Esa                               |
 | 1952       | 0x800007a0                    | ESC     | EsaCoin                           |
 | 1955       | 0x800007a3                    | XX      | xx coin                           |
+| 1969       | 0x800007b1                    | MVRK    | Mavryk Network                    |
 | 1977       | 0x800007b9                    | XMX     | Xuma                              |
 | 1984       | 0x800007c0                    | TRTL    | TurtleCoin                        |
 | 1985       | 0x800007c1                    | SLRT    | Solarti Chain                     |
@@ -1129,6 +1133,7 @@ All these constants are used as hardened derivation.
 | 1989       | 0x800007c5                    | HODL    | HOdlcoin                          |
 | 1990       | 0x800007c6                    | PHL     | Placeholders                      |
 | 1991       | 0x800007c7                    | SC      | Sia                               |
+| 1995       | 0x800007cb                    | MYDOGE  | Mydogecoin                        |
 | 1996       | 0x800007cc                    | MYT     | Mineyourtime                      |
 | 1997       | 0x800007cd                    | POLIS   | Polis                             |
 | 1998       | 0x800007ce                    | XMCC    | Monoeci                           |
@@ -1195,6 +1200,7 @@ All these constants are used as hardened derivation.
 | 3381       | 0x80000d35                    | DYN     | Dynamic                           |
 | 3383       | 0x80000d37                    | SEQ     | Sequence                          |
 | 3434       | 0x80000d6a                    | PEPE    | Pepecoin Core                     |
+| 3499       | 0x80000dab                    | BLAZE   | Blaze                             |
 | 3501       | 0x80000dad                    | JFIN    | JFIN Coin                         |
 | 3552       | 0x80000de0                    | DEO     | Destocoin                         |
 | 3564       | 0x80000dec                    | DST     | DeStream                          |
@@ -1209,6 +1215,7 @@ All these constants are used as hardened derivation.
 | 4242       | 0x80001092                    | AXE     | Axe                               |
 | 4343       | 0x800010f7                    | XYM     | Symbol                            |
 | 4444       | 0x8000115c                    | C4E     | Chain4Energy                      |
+| 4474       | 0x8000117a                    | SHIC    | ShibaCoin                         |
 | 4646       | 0x80001226                    | MST     | MST                               |
 | 4919       | 0x80001337                    | XVM     | Venidium                          |
 | 4976       | 0x80001370                    | VARA    | Vara                              |
@@ -1228,10 +1235,12 @@ All these constants are used as hardened derivation.
 | 6144       | 0x80001800                    | DTS     | Datos                             |
 | 6174       | 0x8000181e                    | MOI     | My Own Internet                   |
 | 6278       | 0x80001886                    | STEAMX  | Rails Network Mainnet             |
+| 6310       | 0x800018a6                    | VRL     | Virel Protocol                    |
 | 6532       | 0x80001984                    | UM      | Penumbra                          |
 | 6599       | 0x800019c7                    | RSC     | Royal Sports City                 |
 | 6666       | 0x80001a0a                    | BPA     | Bitcoin Pizza                     |
 | 6688       | 0x80001a20                    | SAFE    | SAFE                              |
+| 6767       | 0x80001a6f                    | CC      | Canton Coin                       |
 | 6779       | 0x80001a7b                    | COTI    | COTI                              |
 | 6969       | 0x80001b39                    | ROGER   | TheHolyrogerCoin                  |
 | 7000       | 0x80001b58                    | ZETA    | ZetaChain                         |
@@ -1348,6 +1357,7 @@ All these constants are used as hardened derivation.
 | 123456     | 0x8001e240                    | SPR     | Spectre                           |
 | 130822     | 0x8001ff06                    | WBT     | WhiteBIT Coin                     |
 | 161803     | 0x8002780b                    | APTA    | Bloqs4Good                        |
+| 189189     | 0x8002e305                    | QUAN    | Quantus Network                   |
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
 | 200901     | 0x800310c5                    | BTR     | Bitlayer                          |
 | 224433     | 0x80036cb1                    | CONET   | CONET Holesky Network             |
@@ -1361,6 +1371,7 @@ All these constants are used as hardened derivation.
 | 534352     | 0x80082750                    | SCR     | Scroll                            |
 | 666666     | 0x800a2c2a                    | VITE    | Vite                              |
 | 696365     | 0x800b3206                    | ICE     | Ice Network                       |
+| 696969     | 0x800aa289                    | TXC     | TEXITcoin                         |
 | 827166     | 0x800c9f1e                    |         | RGB on Bitcoin (mainnet)          |
 | 827167     | 0x800c9f1f                    |         | RGB on Bitcoin (testnet)          |
 | 828942     | 0x800ca60e                    |         | RGB on Liquid (mainnet)           |
