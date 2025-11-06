@@ -4739,11 +4739,23 @@
     "symbol": "BDB",
     "name": "BigchainDB"
   },
+  "823": {
+    "index": "823",
+    "hex": "0x80000337",
+    "symbol": "TBL",
+    "name": "TBLINK"
+  },
   "824": {
     "index": "824",
     "hex": "0x80000338",
     "symbol": "RBNT",
     "name": "Redbelly Network"
+  },
+  "826": {
+    "index": "826",
+    "hex": "0x8000033a",
+    "symbol": "YBC",
+    "name": "YBChain"
   },
   "827": {
     "index": "827",
@@ -4900,6 +4912,12 @@
     "hex": "0x80000355",
     "symbol": "PRCY",
     "name": "PRCY Coin"
+  },
+  "856": {
+    "index": "856",
+    "hex": "0x80000358",
+    "symbol": "TB",
+    "name": "TBCoin"
   },
   "858": {
     "index": "858",
@@ -5609,6 +5627,12 @@
     "symbol": "IRON",
     "name": "Iron Fish"
   },
+  "1339": {
+    "index": "1339",
+    "hex": "0x8000053b",
+    "symbol": "WNSD",
+    "name": "Winsdet"
+  },
   "1348": {
     "index": "1348",
     "hex": "0x80000544",
@@ -5632,6 +5656,12 @@
     "hex": "0x8000058c",
     "symbol": "DEV",
     "name": "DogecoinEV"
+  },
+  "1447": {
+    "index": "1447",
+    "hex": "0x800005a7",
+    "symbol": "DNR",
+    "name": "Dinero"
   },
   "1510": {
     "index": "1510",
@@ -5764,6 +5794,12 @@
     "hex": "0x800006f8",
     "symbol": "JPYS",
     "name": "JPY Stablecoin"
+  },
+  "1788": {
+    "index": "1788",
+    "hex": "0x800006fc",
+    "symbol": "USVAC",
+    "name": "USVACoin"
   },
   "1789": {
     "index": "1789",
@@ -6179,6 +6215,12 @@
     "symbol": "XIN",
     "name": "Mixin"
   },
+  "2457": {
+    "index": "2457",
+    "hex": "0x80000999",
+    "symbol": "HYPE",
+    "name": "Hyperliquid"
+  },
   "2500": {
     "index": "2500",
     "hex": "0x800009c4",
@@ -6254,8 +6296,8 @@
   "3131": {
     "index": "3131",
     "hex": "0x80000c3b",
-    "symbol": "EZC",
-    "name": "Ezcon Blockchain"
+    "symbol": "DIP",
+    "name": "Dipnet Blockchain"
   },
   "3141": {
     "index": "3141",
@@ -6493,7 +6535,7 @@
   },
   "5995": {
     "index": "5995",
-    "hex": "0x8000176B",
+    "hex": "0x8000176b",
     "symbol": "DUSK",
     "name": "Dusk Network"
   },
@@ -7594,6 +7636,12 @@
     "hex": "0x8e4f524b",
     "symbol": "ZORK",
     "name": "Zork Network"
+  },
+  "268435779": {
+    "index": "268435779",
+    "hex": "0x90000143",
+    "symbol": "MON",
+    "name": "Monad"
   },
   "608589380": {
     "index": "608589380",
