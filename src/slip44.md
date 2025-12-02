@@ -913,7 +913,7 @@ All these constants are used as hardened derivation.
 | 882        | 0x80000372                    |         |
 | 883        | 0x80000373                    | ZBC     | ZooBC                             |
 | 884        | 0x80000374                    |         |
-| 885        | 0x80000375                    |         |
+| 885        | 0x80000375                    | XCN     | XCoin                             |
 | 886        | 0x80000376                    | ADF     | AD Token                          |
 | 887        | 0x80000377                    |         |
 | 888        | 0x80000378                    | NEO     | NEO                               |
@@ -1288,6 +1288,7 @@ All these constants are used as hardened derivation.
 | 9005       | 0x8000232d                    | AVAXC   | Avalanche C-Chain                 |
 | 9006       | 0x8000232e                    | BSC     | Binance Smart Chain               |
 | 9007       | 0x8000232f                    | SATOX   | Satoxcoin                         |
+| 9345       | 0x80002481                    | WEIL    | Weilliptic                        |
 | 9797       | 0x80002645                    | NRG     | Energi                            |
 | 9888       | 0x800026a0                    | BTF     | Bitcoin Faith                     |
 | 9969       | 0x800026f1                    | OSMI    | Osmium                            |
@@ -1366,6 +1367,7 @@ All these constants are used as hardened derivation.
 | 200901     | 0x800310c5                    | BTR     | Bitlayer                          |
 | 224433     | 0x80036cb1                    | CONET   | CONET Holesky Network             |
 | 246529     | 0x8003c301                    | ATS     | ARTIS sigma1                      |
+| 251022     | 0x8003d48e                    | AUTOX   | Autox Coin                        |
 | 261131     | 0x8003fc0b                    | ZAMA    | Zama                              |
 | 314159     | 0x8004cb2f                    | PI      | Pi Network                        |
 | 333332     | 0x80051614                    | VALUE   | Value Chain                       |
@@ -1408,6 +1410,7 @@ All these constants are used as hardened derivation.
 | 15118976   | 0x80e6b280                    | XDS     | XDS                               |
 | 19000118   | 0x8121eb36                    | SEI     | SEI                               |
 | 22000118   | 0x814fb1f6                    | DYDX    | Dydx                              |
+| 22000119   | 0x814fb1f7                    | INJ     | Injective                         |
 | 61717561   | 0x83adbc39                    | AQUA    | Aquachain                         |
 | 77777777   | 0x84a2cb71                    | AZT     | Aztecoin                          |
 | 88888888   | 0x854c5638                    | HATCH   | Hatch                             |
@@ -1419,6 +1422,7 @@ All these constants are used as hardened derivation.
 | 11259375   | 0x80abcdef                    | LBR     | 0L                                |
 | 20230101   | 0x8134afd5                    | ROH     | Rooch                             |
 | 20240430   | 0x8134d82e                    | NLK     | NuLinkCoin                        |
+| 35600000   | 0x821f3680                    | AXX     | AtlasX Chain                      |
 | 240079435  | 0x8e4f524b                    | ZORK    | Zork Network                      |
 | 268435779  | 0x90000143                    | MON     | Monad                             |
 | 608589380  | 0xa4465644                    | FVDC    | ForumCoin                         |
@@ -1430,6 +1434,8 @@ All these constants are used as hardened derivation.
 | 1179993451 | 0xc655456b                    | RWA     | Asset Chain                       |
 | 1179993461 | 0xc6554575                    | HXC     | HuaXia Chain                      |
 | 1179993471 | 0xc655457f                    | AME     | AME Chain                         |
+| 1869902945 | 0xef747461                    | ATTO    | Atto                              |
+
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
 
