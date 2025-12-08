@@ -4985,6 +4985,12 @@
     "symbol": "ZBC",
     "name": "ZooBC"
   },
+  "885": {
+    "index": "885",
+    "hex": "0x80000375",
+    "symbol": "XCN",
+    "name": "XCoin"
+  },
   "886": {
     "index": "886",
     "hex": "0x80000376",
@@ -6851,6 +6857,12 @@
     "symbol": "SATOX",
     "name": "Satoxcoin"
   },
+  "9345": {
+    "index": "9345",
+    "hex": "0x80002481",
+    "symbol": "WEIL",
+    "name": "Weilliptic"
+  },
   "9797": {
     "index": "9797",
     "hex": "0x80002645",
@@ -7313,6 +7325,12 @@
     "symbol": "ATS",
     "name": "ARTIS sigma1"
   },
+  "251022": {
+    "index": "251022",
+    "hex": "0x8003d48e",
+    "symbol": "AUTOX",
+    "name": "Autox Coin"
+  },
   "261131": {
     "index": "261131",
     "hex": "0x8003fc0b",
@@ -7583,6 +7601,18 @@
     "symbol": "DYDX",
     "name": "Dydx"
   },
+  "22000119": {
+    "index": "22000119",
+    "hex": "0x814fb1f7",
+    "symbol": "INJ",
+    "name": "Injective"
+  },
+  "35600000": {
+    "index": "35600000",
+    "hex": "0x821f3680",
+    "symbol": "AXX",
+    "name": "AtlasX Chain"
+  },
   "61717561": {
     "index": "61717561",
     "hex": "0x83adbc39",
@@ -7696,5 +7726,11 @@
     "hex": "0xc655457f",
     "symbol": "AME",
     "name": "AME Chain"
+  },
+  "1869902945": {
+    "index": "1869902945",
+    "hex": "0xef747461",
+    "symbol": "ATTO",
+    "name": "Atto"
   }
 }
