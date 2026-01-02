@@ -4637,6 +4637,12 @@
     "symbol": "KINT",
     "name": "Kintsugi"
   },
+  "797": {
+    "index": "797",
+    "hex": "0x8000031d",
+    "symbol": "MVRX",
+    "name": "Muvor ERP"
+  },
   "799": {
     "index": "799",
     "hex": "0x8000031f",
@@ -5044,6 +5050,12 @@
     "hex": "0x80000385",
     "symbol": "NXT",
     "name": "NxtMeta"
+  },
+  "903": {
+    "index": "903",
+    "hex": "0x80000387",
+    "symbol": "EGN",
+    "name": "EGAHN Intelligence Network"
   },
   "904": {
     "index": "904",
@@ -6574,6 +6586,12 @@
     "hex": "0x800018a6",
     "symbol": "VRL",
     "name": "Virel Protocol"
+  },
+  "6383": {
+    "index": "6383",
+    "hex": "0x800018ef",
+    "symbol": "NEUE",
+    "name": "Dap"
   },
   "6532": {
     "index": "6532",
