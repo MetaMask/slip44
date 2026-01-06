@@ -825,7 +825,7 @@ All these constants are used as hardened derivation.
 | 794        | 0x8000031a                    | INTR    | Interlay                          |
 | 795        | 0x8000031b                    | KINT    | Kintsugi                          |
 | 796        | 0x8000031c                    |         |
-| 797        | 0x8000031d                    |         |
+| 797        | 0x8000031d                    | MVRX    | Muvor ERP
 | 798        | 0x8000031e                    |         |
 | 799        | 0x8000031f                    | PDEX    | Polkadex                          |
 | 800        | 0x80000320                    | BEET    | Beetle Coin                       |
@@ -931,7 +931,7 @@ All these constants are used as hardened derivation.
 | 900        | 0x80000384                    | LMO     | Lumeneo                           |
 | 901        | 0x80000385                    | NXT     | NxtMeta                           |
 | 902        | 0x80000386                    |         |
-| 903        | 0x80000387                    |         |
+| 903        | 0x80000387                    | EGN     | EGAHN Intelligence Network
 | 904        | 0x80000388                    | HNT     | Helium                            |
 | 905        | 0x80000389                    |         |
 | 906        | 0x8000038a                    | XPX     | Sirius                            |
@@ -1240,6 +1240,7 @@ All these constants are used as hardened derivation.
 | 6174       | 0x8000181e                    | MOI     | My Own Internet                   |
 | 6278       | 0x80001886                    | STEAMX  | Rails Network Mainnet             |
 | 6310       | 0x800018a6                    | VRL     | Virel Protocol                    |
+| 6383       | 0x800018ef                    | NEUE    | Dap                               |
 | 6532       | 0x80001984                    | UM      | Penumbra                          |
 | 6599       | 0x800019c7                    | RSC     | Royal Sports City                 |
 | 6666       | 0x80001a0a                    | BPA     | Bitcoin Pizza                     |
