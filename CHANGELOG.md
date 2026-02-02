@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [4.4.0]
+### Changed
+- Update with latest data as of 2026-02-02 ([#197](https://github.com/MetaMask/slip44/pull/197))
+
 ## [4.3.0]
 ### Changed
 - Update with latest data as of 2025-09-02 ([#189](https://github.com/MetaMask/slip44/pull/189))
@@ -60,7 +64,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Initial release.
 
-[Unreleased]: https://github.com/MetaMask/slip44/compare/v4.3.0...HEAD
+[Unreleased]: https://github.com/MetaMask/slip44/compare/v4.4.0...HEAD
+[4.4.0]: https://github.com/MetaMask/slip44/compare/v4.3.0...v4.4.0
 [4.3.0]: https://github.com/MetaMask/slip44/compare/v4.2.0...v4.3.0
 [4.2.0]: https://github.com/MetaMask/slip44/compare/v4.1.0...v4.2.0
 [4.1.0]: https://github.com/MetaMask/slip44/compare/v4.0.0...v4.1.0
