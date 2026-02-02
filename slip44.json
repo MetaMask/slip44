@@ -5423,6 +5423,12 @@
     "symbol": "ZTC",
     "name": "Zenchain"
   },
+  "1019": {
+    "index": "1019",
+    "hex": "0x800003fb",
+    "symbol": "ZENO",
+    "name": "Zenotta"
+  },
   "1020": {
     "index": "1020",
     "hex": "0x800003fc",
@@ -5884,6 +5890,12 @@
     "hex": "0x80000786",
     "symbol": "CITY",
     "name": "City Coin"
+  },
+  "1935": {
+    "index": "1935",
+    "hex": "0x8000078f",
+    "symbol": "HRC",
+    "name": "Hypercoin"
   },
   "1951": {
     "index": "1951",
@@ -6881,6 +6893,12 @@
     "symbol": "WEIL",
     "name": "Weilliptic"
   },
+  "9633": {
+    "index": "9633",
+    "hex": "0x800025a1",
+    "symbol": "SYL",
+    "name": "OpenSY"
+  },
   "9797": {
     "index": "9797",
     "hex": "0x80002645",
@@ -7469,6 +7487,12 @@
     "symbol": "EPK",
     "name": "EPIK Protocol"
   },
+  "4353123": {
+    "index": "4353123",
+    "hex": "0x80426c63",
+    "symbol": "BBLU",
+    "name": "Bitcoin-Blu"
+  },
   "4741444": {
     "index": "4741444",
     "hex": "0x80485944",
@@ -7576,6 +7600,12 @@
     "hex": "0x807c8fc7",
     "symbol": "AFS",
     "name": "ANFS"
+  },
+  "8163321": {
+    "index": "8163321",
+    "hex": "0x807c8ff9",
+    "symbol": "BTCV",
+    "name": "Bitcoin-Value"
   },
   "10000118": {
     "index": "10000118",

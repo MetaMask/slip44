@@ -1115,6 +1115,7 @@ All these constants are used as hardened derivation.
 | 1789       | 0x800006fd                    | VEGA    | Vega Protocol                     |
 | 1815       | 0x80000717                    | ADA     | Cardano                           |
 | 1818       | 0x8000071a                    | CUBE    | Cube Chain Native Token           |
+| 1019       | 0x800003fb                    | ZENO    | Zenotta                           |
 | 1888       | 0x80000760                    | ZTX     | Zetrix                            |
 | 1899       | 0x8000076b                    | XEC     | eCash token                       |
 | 1900       | 0x8000076c                    | XNA     | Neurai                            |
@@ -1123,6 +1124,7 @@ All these constants are used as hardened derivation.
 | 1918       | 0x8000077e                    | BKC     | Briskcoin                         |
 | 1919       | 0x8000077f                    | VIPS    | VIPSTARCOIN                       |
 | 1926       | 0x80000786                    | CITY    | City Coin                         |
+| 1935       | 0x8000078f                    | HRC     | Hypercoin                         |
 | 1951       | 0x8000079f                    | ESA     | Esa                               |
 | 1952       | 0x800007a0                    | ESC     | EsaCoin                           |
 | 1955       | 0x800007a3                    | XX      | xx coin                           |
@@ -1290,6 +1292,7 @@ All these constants are used as hardened derivation.
 | 9006       | 0x8000232e                    | BSC     | Binance Smart Chain               |
 | 9007       | 0x8000232f                    | SATOX   | Satoxcoin                         |
 | 9345       | 0x80002481                    | WEIL    | Weilliptic                        |
+| 9633       | 0x800025a1                    | SYL     | OpenSY                            |
 | 9797       | 0x80002645                    | NRG     | Energi                            |
 | 9888       | 0x800026a0                    | BTF     | Bitcoin Faith                     |
 | 9969       | 0x800026f1                    | OSMI    | Osmium                            |
@@ -1389,6 +1392,7 @@ All these constants are used as hardened derivation.
 | 1313500    | 0x80140adc                    | XERO    | Xerom                             |
 | 1712144    | 0x801a2010                    | LAX     | LAPO                              |
 | 3924011    | 0x803be02b                    | EPK     | EPIK Protocol                     |
+| 4353123    | 0x80426c63                    | BBLU    | Bitcoin-Blu                       |
 | 4741444    | 0x80485944                    | HYD     | Hydra Token                       |
 | 5063758    | 0x804d444e                    |         | Miden                             |
 | 5249353    | 0x80501949                    | BCO     | BitcoinOre                        |
@@ -1407,6 +1411,7 @@ All these constants are used as hardened derivation.
 | 7825266    | 0x80776772                    | WGR     | WGR                               |
 | 7825267    | 0x80776773                    | OBSR    | OBServer                          |
 | 8163271    | 0x807c8fc7                    | AFS     | ANFS                              |
+| 8163321    | 0x807c8ff9                    | BTCV    | Bitcoin-Value                     |
 | 10000118   | 0x805d30b6                    | OSMO    | Osmosis                           |
 | 15118976   | 0x80e6b280                    | XDS     | XDS                               |
 | 19000118   | 0x8121eb36                    | SEI     | SEI                               |
@@ -1436,7 +1441,6 @@ All these constants are used as hardened derivation.
 | 1179993461 | 0xc6554575                    | HXC     | HuaXia Chain                      |
 | 1179993471 | 0xc655457f                    | AME     | AME Chain                         |
 | 1869902945 | 0xef747461                    | ATTO    | Atto                              |
-
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
 
