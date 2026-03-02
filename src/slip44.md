@@ -788,7 +788,7 @@ All these constants are used as hardened derivation.
 | 757        | 0x800002f5                    | HONEY   | HoneyWood                         |
 | 758        | 0x800002f6                    | XDD     | XDDCoin                           |
 | 759        | 0x800002f7                    | TBI     | TBicloud                          |
-| 760        | 0x800002f8                    |         |
+| 760        | 0x800002f8                    | FGC     | Figcoin                           |
 | 761        | 0x800002f9                    |         |
 | 762        | 0x800002fa                    | BELLS   | Bellscoin                         |
 | 763        | 0x800002fb                    |         |
@@ -825,7 +825,7 @@ All these constants are used as hardened derivation.
 | 794        | 0x8000031a                    | INTR    | Interlay                          |
 | 795        | 0x8000031b                    | KINT    | Kintsugi                          |
 | 796        | 0x8000031c                    |         |
-| 797        | 0x8000031d                    | MVRX    | Muvor ERP
+| 797        | 0x8000031d                    | MVRX    | Muvor ERP                         |
 | 798        | 0x8000031e                    |         |
 | 799        | 0x8000031f                    | PDEX    | Polkadex                          |
 | 800        | 0x80000320                    | BEET    | Beetle Coin                       |
@@ -897,7 +897,7 @@ All these constants are used as hardened derivation.
 | 866        | 0x80000362                    | MOB     | MobileCoin                        |
 | 867        | 0x80000363                    |         |
 | 868        | 0x80000364                    | IF      | Infinitefuture                    |
-| 869        | 0x80000365                    |         |
+| 869        | 0x80000365                    | TXFLOW  | TxFlow                            |
 | 870        | 0x80000366                    |         |
 | 871        | 0x80000367                    |         |
 | 872        | 0x80000368                    |         |
@@ -909,7 +909,7 @@ All these constants are used as hardened derivation.
 | 878        | 0x8000036e                    | SCR     | Scorum Network                    |
 | 879        | 0x8000036f                    |         |
 | 880        | 0x80000370                    | LUM     | Lum Network                       |
-| 881        | 0x80000371                    | AEGS    | Aegisum
+| 881        | 0x80000371                    | AEGS    | Aegisum                           |
 | 882        | 0x80000372                    |         |
 | 883        | 0x80000373                    | ZBC     | ZooBC                             |
 | 884        | 0x80000374                    |         |
@@ -931,7 +931,7 @@ All these constants are used as hardened derivation.
 | 900        | 0x80000384                    | LMO     | Lumeneo                           |
 | 901        | 0x80000385                    | NXT     | NxtMeta                           |
 | 902        | 0x80000386                    |         |
-| 903        | 0x80000387                    | EGN     | EGAHN Intelligence Network
+| 903        | 0x80000387                    | EGN     | EGAHN Intelligence Network        |
 | 904        | 0x80000388                    | HNT     | Helium                            |
 | 905        | 0x80000389                    |         |
 | 906        | 0x8000038a                    | XPX     | Sirius                            |
@@ -991,7 +991,7 @@ All these constants are used as hardened derivation.
 | 960        | 0x800003c0                    | VKAX    | Vkax                              |
 | 961        | 0x800003c1                    |         |
 | 962        | 0x800003c2                    |         |
-| 963        | 0x800003c3                    |         |
+| 963        | 0x800003c3                    | SYL     | OpenSY                            |
 | 964        | 0x800003c4                    |         |
 | 965        | 0x800003c5                    | ATLA    | Atleta Network                    |
 | 966        | 0x800003c6                    | MATIC   | Matic                             |
@@ -1046,6 +1046,7 @@ All these constants are used as hardened derivation.
 | 1015       | 0x800003f7                    | ZCX     | ZEN Exchange Token                |
 | 1016       | 0x800003f8                    | ---     | reserved                          |
 | 1017       | 0x800003f9                    | ZTC     | Zenchain                          |
+| 1018       | 0x800003fa                    | ZANO    | Zano                              |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
 | 1023       | 0x800003ff                    | ONE     | HARMONY-ONE (Legacy)              |
@@ -1219,6 +1220,7 @@ All these constants are used as hardened derivation.
 | 4218       | 0x8000107a                    | IOTA    | IOTA                              |
 | 4219       | 0x8000107b                    | SMR     | Shimmer                           |
 | 4242       | 0x80001092                    | AXE     | Axe                               |
+| 4298       | 0x800010CA                    | LOCA    | Loca                              |
 | 4343       | 0x800010f7                    | XYM     | Symbol                            |
 | 4444       | 0x8000115c                    | C4E     | Chain4Energy                      |
 | 4474       | 0x8000117a                    | SHIC    | ShibaCoin                         |
@@ -1269,6 +1271,7 @@ All these constants are used as hardened derivation.
 | 8181       | 0x80001ff5                    | BOC     | BeOne Chain                       |
 | 8192       | 0x80002000                    | PAC     | pacprotocol                       |
 | 8217       | 0x80002019                    | KAIA    | KAIA                              |
+| 8282       | 0x8000205a                    | HANEUL  | Haneul                            |
 | 8339       | 0x80002093                    | BTQ     | BitcoinQuark                      |
 | 8444       | 0x800020fc                    | XCH     | Chia                              |
 | 8453       | 0x80002105                    |         | Base                              |
@@ -1278,6 +1281,7 @@ All these constants are used as hardened derivation.
 | 8738       | 0x80002222                    | ALPH    | Alph Network                      |
 | 8866       | 0x800022a2                    | GGX     | Golden Gate                       |
 | 8886       | 0x800022b6                    | GGXT    | Golden Gate Sydney                |
+| 8887       | 0x800022b7                    | KTA     | Keeta                             |
 | 8888       | 0x800022b8                    | SBTC    | Super Bitcoin                     |
 | 8964       | 0x80002304                    | NULS    | NULS                              |
 | 8997       | 0x80002325                    | BBC     | Babacoin                          |
@@ -1292,7 +1296,6 @@ All these constants are used as hardened derivation.
 | 9006       | 0x8000232e                    | BSC     | Binance Smart Chain               |
 | 9007       | 0x8000232f                    | SATOX   | Satoxcoin                         |
 | 9345       | 0x80002481                    | WEIL    | Weilliptic                        |
-| 9633       | 0x800025a1                    | SYL     | OpenSY                            |
 | 9797       | 0x80002645                    | NRG     | Energi                            |
 | 9888       | 0x800026a0                    | BTF     | Bitcoin Faith                     |
 | 9969       | 0x800026f1                    | OSMI    | Osmium                            |
@@ -1309,6 +1312,7 @@ All these constants are used as hardened derivation.
 | 11111      | 0x80002b67                    | ESS     | Essentia One                      |
 | 11742      | 0x80002dde                    | VARCH   | InvArch                           |
 | 11743      | 0x80002ddf                    | TNKR    | Tinkernet                         |
+| 11995      | 0x80002edb                    | AUR     | Aureus                            |
 | 12345      | 0x80003039                    | IPOS    | IPOS                              |
 | 12586      | 0x8000312a                    | MINA    | Mina                              |
 | 12850      | 0x80003232                    | ANLOG   | Analog Timechain                  |
@@ -1325,6 +1329,7 @@ All these constants are used as hardened derivation.
 | 19169      | 0x80004ae1                    | RITO    | Ritocoin                          |
 | 19788      | 0x80004d4c                    | ML      | Mintlayer                         |
 | 20036      | 0x80004e44                    | XND     | ndau                              |
+| 20760      | 0x80005118                    | WJK     | WojakCoin                         |
 | 21004      | 0x8000520c                    | C4EI    | c4ei                              |
 | 21337      | 0x80005359                    | XAH     | Xahau                             |
 | 21888      | 0x80005580                    | PAC     | Pactus                            |
@@ -1340,6 +1345,7 @@ All these constants are used as hardened derivation.
 | 33416      | 0x80008288                    | TEO     | Trust Eth reOrigin                |
 | 33878      | 0x80008456                    | BTCS    | Bitcoin Stake                     |
 | 34952      | 0x80008888                    | BTT     | ByteTrade                         |
+| 36969      | 0x80009069                    | AMA     | AMA                               |
 | 37992      | 0x80009468                    | FXTC    | FixedTradeCoin                    |
 | 39321      | 0x80009999                    | AMA     | Amabig                            |
 | 42069      | 0x8000a455                    | FACT    | FACT0RN                           |
@@ -1350,6 +1356,7 @@ All these constants are used as hardened derivation.
 | 52752      | 0x8000ce10                    | CELO    | Celo                              |
 | 54176      | 0x8000d3a0                    | OVER    | OverProtocol                      |
 | 61616      | 0x8000f0b0                    | TH      | TianHe                            |
+| 61888      | 0x8000f200                    | MORM    | Morpheum                          |
 | 65536      | 0x80010000                    | KETH    | Krypton World                     |
 | 69420      | 0x80010f2c                    | GRLC    | Garlicoin                         |
 | 70007      | 0x80011177                    | GWL     | Gewel                             |
