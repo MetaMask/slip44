@@ -1018,7 +1018,7 @@ All these constants are used as hardened derivation.
 | 987        | 0x800003db                    | VCG     | VipCoin                           |
 | 988        | 0x800003dc                    | XAZAB   | Xazab core                        |
 | 989        | 0x800003dd                    | AIOZ    | AIOZ                              |
-| 990        | 0x800003de                    | CORE    | Coreum                            |
+| 990        | 0x800003de                    | CORE    | TX                                |
 | 991        | 0x800003df                    | PEC     | Phoenix                           |
 | 992        | 0x800003e0                    | UNT     | Unit                              |
 | 993        | 0x800003e1                    | XRB     | X Currency                        |
@@ -1047,6 +1047,7 @@ All these constants are used as hardened derivation.
 | 1016       | 0x800003f8                    | ---     | reserved                          |
 | 1017       | 0x800003f9                    | ZTC     | Zenchain                          |
 | 1018       | 0x800003fa                    | ZANO    | Zano                              |
+| 1019       | 0x800003fb                    | GEEQ    | Geeq                              |
 | 1020       | 0x800003fc                    | EVC     | Evrice                            |
 | 1021       | 0x800003fd                    | PKOIN   | Pocketcoin                        |
 | 1022       | 0x800003fe                    | XRD     | Radix DLT                         |
@@ -1083,6 +1084,7 @@ All these constants are used as hardened derivation.
 | 1298       | 0x80000512                    | WPC     | Wpc                               |
 | 1308       | 0x8000051c                    | WEI     | WEI                               |
 | 1312       | 0x80000520                    | BITS    | Entropy                           |
+| 1313       | 0x80000521                    | GAEL    | Gaelium                           |
 | 1337       | 0x80000539                    | DFC     | Defcoin                           |
 | 1338       | 0x8000053a                    | IRON    | Iron Fish                         |
 | 1339       | 0x8000053b                    | WNSD    | Winsdet                           |
@@ -1127,6 +1129,7 @@ All these constants are used as hardened derivation.
 | 1919       | 0x8000077f                    | VIPS    | VIPSTARCOIN                       |
 | 1926       | 0x80000786                    | CITY    | City Coin                         |
 | 1935       | 0x8000078f                    | HRC     | Hypercoin                         |
+| 1948       | 0x8000079c                    | DSV     | Doriancoin                        |
 | 1951       | 0x8000079f                    | ESA     | Esa                               |
 | 1952       | 0x800007a0                    | ESC     | EsaCoin                           |
 | 1955       | 0x800007a3                    | XX      | xx coin                           |
@@ -1162,12 +1165,14 @@ All these constants are used as hardened derivation.
 | 2024       | 0x800007e8                    | USBC    | Universal Ledger USBC             |
 | 2025       | 0x800007e9                    | ROCK    | Zenrock Labs                      |
 | 2026       | 0x800007ea                    | ASTRON  | ASTRON Token                      |
+| 2027       | 0x800007eb                    | UNC     | UniCash                           |
 | 2046       | 0x800007fe                    | ANY     | Any                               |
 | 2048       | 0x80000800                    | MCASH   | MCashChain                        |
 | 2049       | 0x80000801                    | TRUE    | TrueChain                         |
 | 2050       | 0x80000802                    | MOVO    | Movo Smart Chain                  |
 | 2086       | 0x80000826                    | KILT    | KILT Spiritnet                    |
 | 2091       | 0x8000082b                    | FRQCY   | Frequency                         |
+| 2102       | 0x80000836                    | LC2     | LitecoinII                        |
 | 2109       | 0x8000083d                    | SAMA    | Exosama Network                   |
 | 2112       | 0x80000840                    | IoTE    | IoTE                              |
 | 2121       | 0x80000849                    | CBTC    | Coordinate BTC (Anduro)           |
@@ -1188,6 +1193,7 @@ All these constants are used as hardened derivation.
 | 2457       | 0x80000999                    | HYPE    | Hyperliquid                       |
 | 2500       | 0x800009c4                    | NEXI    | Nexi                              |
 | 2570       | 0x80000a0a                    | AOA     | Aurora                            |
+| 2626       | 0x80000a42                    | AOXC    | AOXCHAIN                          |
 | 2686       | 0x80000a7e                    | AIPG    | AIPowerGrid                       |
 | 2718       | 0x80000a9e                    | NAS     | Nebulas                           |
 | 2809       | 0x80000af9                    | LAN     | Lanify                            |
@@ -1197,6 +1203,7 @@ All these constants are used as hardened derivation.
 | 3003       | 0x80000bbb                    | LUX     | LUX                               |
 | 3030       | 0x80000bd6                    | HBAR    | Hedera HBAR                       |
 | 3054       | 0x80000bee                    | HIVE    | Hive Blockchain                   |
+| 3073       | 0x80000c01                    | MOVE    | Movement                          |
 | 3077       | 0x80000c05                    | COS     | Contentos                         |
 | 3131       | 0x80000c3b                    | DIP     | Dipnet Blockchain                 |
 | 3141       | 0x80000c45                    | B1T     | Bit                               |
@@ -1315,6 +1322,7 @@ All these constants are used as hardened derivation.
 | 11742      | 0x80002dde                    | VARCH   | InvArch                           |
 | 11743      | 0x80002ddf                    | TNKR    | Tinkernet                         |
 | 11995      | 0x80002edb                    | AURE    | Aureus                            |
+| 18888      | 0x800049c8                    | BTGS    | BitcoinGold                       |
 | 12345      | 0x80003039                    | IPOS    | IPOS                              |
 | 12586      | 0x8000312a                    | MINA    | Mina                              |
 | 12850      | 0x80003232                    | ANLOG   | Analog Timechain                  |
@@ -1376,6 +1384,7 @@ All these constants are used as hardened derivation.
 | 130822     | 0x8001ff06                    | WBT     | WhiteBIT Coin                     |
 | 161803     | 0x8002780b                    | APTA    | Bloqs4Good                        |
 | 189189     | 0x8002e305                    | QUAN    | Quantus Network                   |
+| 190301     | 0x8002e75d                    | LOCUS   | Locus Chain                       | 
 | 200625     | 0x80030fb1                    | AKA     | Akroma                            |
 | 200901     | 0x800310c5                    | BTR     | Bitlayer                          |
 | 224433     | 0x80036cb1                    | CONET   | CONET Holesky Network             |
@@ -1395,6 +1404,7 @@ All these constants are used as hardened derivation.
 | 827167     | 0x800c9f1f                    |         | RGB on Bitcoin (testnet)          |
 | 828942     | 0x800ca60e                    |         | RGB on Liquid (mainnet)           |
 | 888888     | 0x800d9038                    | SEA     | Second Exchange Alliance          |
+| 969696     | 0x800ecbe0                    | ISK     | Iskander Coin                     |
 | 1048576    | 0x80100000                    | AMAX    | Armonia Meta Chain                |
 | 1171337    | 0x8011df89                    | ILT     | iOlite                            |
 | 1313114    | 0x8014095a                    | ETHO    | Etho Protocol                     |
@@ -1451,6 +1461,7 @@ All these constants are used as hardened derivation.
 | 1179993461 | 0xc6554575                    | HXC     | HuaXia Chain                      |
 | 1179993471 | 0xc655457f                    | AME     | AME Chain                         |
 | 1869902945 | 0xef747461                    | ATTO    | Atto                              |
+| 1869902946 | 0xef747462                    | CTA     | Crypterra                         |
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
 
