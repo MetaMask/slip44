@@ -5283,7 +5283,7 @@
     "index": "990",
     "hex": "0x800003de",
     "symbol": "CORE",
-    "name": "Coreum"
+    "name": "TX"
   },
   "991": {
     "index": "991",
@@ -5669,6 +5669,12 @@
     "symbol": "BITS",
     "name": "Entropy"
   },
+  "1313": {
+    "index": "1313",
+    "hex": "0x80000521",
+    "symbol": "GAEL",
+    "name": "Gaelium"
+  },
   "1337": {
     "index": "1337",
     "hex": "0x80000539",
@@ -5927,6 +5933,12 @@
     "symbol": "HRC",
     "name": "Hypercoin"
   },
+  "1948": {
+    "index": "1948",
+    "hex": "0x8000079c",
+    "symbol": "DSV",
+    "name": "Doriancoin"
+  },
   "1951": {
     "index": "1951",
     "hex": "0x8000079f",
@@ -6137,6 +6149,12 @@
     "symbol": "ASTRON",
     "name": "ASTRON Token"
   },
+  "2027": {
+    "index": "2027",
+    "hex": "0x800007eb",
+    "symbol": "UNC",
+    "name": "UniCash"
+  },
   "2046": {
     "index": "2046",
     "hex": "0x800007fe",
@@ -6172,6 +6190,12 @@
     "hex": "0x8000082b",
     "symbol": "FRQCY",
     "name": "Frequency"
+  },
+  "2102": {
+    "index": "2102",
+    "hex": "0x80000836",
+    "symbol": "LC2",
+    "name": "LitecoinII"
   },
   "2109": {
     "index": "2109",
@@ -6293,6 +6317,12 @@
     "symbol": "AOA",
     "name": "Aurora"
   },
+  "2626": {
+    "index": "2626",
+    "hex": "0x80000a42",
+    "symbol": "AOXC",
+    "name": "AOXCHAIN"
+  },
   "2686": {
     "index": "2686",
     "hex": "0x80000a7e",
@@ -6346,6 +6376,12 @@
     "hex": "0x80000bee",
     "symbol": "HIVE",
     "name": "Hive Blockchain"
+  },
+  "3073": {
+    "index": "3073",
+    "hex": "0x80000c01",
+    "symbol": "MOVE",
+    "name": "Movement"
   },
   "3077": {
     "index": "3077",
@@ -7115,6 +7151,12 @@
     "symbol": "MTR",
     "name": "Meter"
   },
+  "18888": {
+    "index": "18888",
+    "hex": "0x800049c8",
+    "symbol": "BTGS",
+    "name": "BitcoinGold"
+  },
   "19165": {
     "index": "19165",
     "hex": "0x80004add",
@@ -7409,6 +7451,12 @@
     "symbol": "QUAN",
     "name": "Quantus Network"
   },
+  "190301": {
+    "index": "190301",
+    "hex": "0x8002e75d",
+    "symbol": "LOCUS",
+    "name": "Locus Chain"
+  },
   "200625": {
     "index": "200625",
     "hex": "0x80030fb1",
@@ -7522,6 +7570,12 @@
     "hex": "0x800d9038",
     "symbol": "SEA",
     "name": "Second Exchange Alliance"
+  },
+  "969696": {
+    "index": "969696",
+    "hex": "0x800ecbe0",
+    "symbol": "ISK",
+    "name": "Iskander Coin"
   },
   "1048576": {
     "index": "1048576",
@@ -7858,5 +7912,11 @@
     "hex": "0xef747461",
     "symbol": "ATTO",
     "name": "Atto"
+  },
+  "1869902946": {
+    "index": "1869902946",
+    "hex": "0xef747462",
+    "symbol": "CTA",
+    "name": "Crypterra"
   }
 }
