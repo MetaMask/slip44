@@ -5627,6 +5627,30 @@
     "symbol": "",
     "name": "Nostr"
   },
+  "1238": {
+    "index": "1238",
+    "hex": "0x800004d6",
+    "symbol": "",
+    "name": "SSH"
+  },
+  "1239": {
+    "index": "1239",
+    "hex": "0x800004d7",
+    "symbol": "",
+    "name": "OpenPGP"
+  },
+  "1240": {
+    "index": "1240",
+    "hex": "0x800004d8",
+    "symbol": "",
+    "name": "X.509"
+  },
+  "1241": {
+    "index": "1241",
+    "hex": "0x800004d9",
+    "symbol": "",
+    "name": "WireGuard"
+  },
   "1280": {
     "index": "1280",
     "hex": "0x80000500",
@@ -5675,6 +5699,12 @@
     "symbol": "GAEL",
     "name": "Gaelium"
   },
+  "1331": {
+    "index": "1331",
+    "hex": "0x80000533",
+    "symbol": "NACKL",
+    "name": "Acki Nacki"
+  },
   "1337": {
     "index": "1337",
     "hex": "0x80000539",
@@ -5722,6 +5752,12 @@
     "hex": "0x800005a7",
     "symbol": "DNR",
     "name": "Dinero"
+  },
+  "1448": {
+    "index": "1448",
+    "hex": "0x800005a8",
+    "symbol": "DIN",
+    "name": "Dinero v7"
   },
   "1510": {
     "index": "1510",
@@ -5878,6 +5914,12 @@
     "hex": "0x8000071a",
     "symbol": "CUBE",
     "name": "Cube Chain Native Token"
+  },
+  "1842": {
+    "index": "1842",
+    "hex": "0x80000732",
+    "symbol": "LIF",
+    "name": "Lifcoin"
   },
   "1888": {
     "index": "1888",
@@ -6509,6 +6551,12 @@
     "symbol": "YEE",
     "name": "YeeCo"
   },
+  "4134": {
+    "index": "4134",
+    "hex": "0x80001026",
+    "symbol": "DMD",
+    "name": "DebitMyData"
+  },
   "4218": {
     "index": "4218",
     "hex": "0x8000107a",
@@ -6529,7 +6577,7 @@
   },
   "4298": {
     "index": "4298",
-    "hex": "0x800010CA",
+    "hex": "0x800010ca",
     "symbol": "LOCA",
     "name": "Loca"
   },
@@ -6586,6 +6634,12 @@
     "hex": "0x8000138e",
     "symbol": "SBC",
     "name": "Senior Blockchain"
+  },
+  "5042": {
+    "index": "5042",
+    "hex": "0x800013b2",
+    "symbol": "USDC",
+    "name": "Arc"
   },
   "5248": {
     "index": "5248",
@@ -6725,6 +6779,12 @@
     "symbol": "ZETA",
     "name": "ZetaChain"
   },
+  "7007": {
+    "index": "7007",
+    "hex": "0x80001b5f",
+    "symbol": "SVRN7",
+    "name": "Web 7.0 Sovrona"
+  },
   "7027": {
     "index": "7027",
     "hex": "0x80001b73",
@@ -6839,6 +6899,12 @@
     "symbol": "HANEUL",
     "name": "Haneul"
   },
+  "8327": {
+    "index": "8327",
+    "hex": "0x80002087",
+    "symbol": "RXB",
+    "name": "Record X-core Blockchain"
+  },
   "8339": {
     "index": "8339",
     "hex": "0x80002093",
@@ -6874,6 +6940,12 @@
     "hex": "0x80002222",
     "symbol": "ALPH",
     "name": "Alph Network"
+  },
+  "8800": {
+    "index": "8800",
+    "hex": "0x80002260",
+    "symbol": "AIIR",
+    "name": "BitAiir"
   },
   "8866": {
     "index": "8866",
@@ -6971,11 +7043,23 @@
     "symbol": "SATOX",
     "name": "Satoxcoin"
   },
+  "9333": {
+    "index": "9333",
+    "hex": "0x80002475",
+    "symbol": "B3C",
+    "name": "B3Chain"
+  },
   "9345": {
     "index": "9345",
     "hex": "0x80002481",
     "symbol": "WEIL",
     "name": "Weilliptic"
+  },
+  "9508": {
+    "index": "9508",
+    "hex": "0x80002524",
+    "symbol": "VARTA",
+    "name": "Monetarium"
   },
   "9555": {
     "index": "9555",
@@ -7127,6 +7211,12 @@
     "symbol": "WAX",
     "name": "Worldwide Asset Exchange"
   },
+  "14159": {
+    "index": "14159",
+    "hex": "0x8000374f",
+    "symbol": "FBC",
+    "name": "Fistbump"
+  },
   "15845": {
     "index": "15845",
     "hex": "0x80003de5",
@@ -7180,6 +7270,12 @@
     "hex": "0x80004d4c",
     "symbol": "ML",
     "name": "Mintlayer"
+  },
+  "19999": {
+    "index": "19999",
+    "hex": "0x80004e1f",
+    "symbol": "CS",
+    "name": "Cloud Service"
   },
   "20036": {
     "index": "20036",
@@ -7240,6 +7336,12 @@
     "hex": "0x80006731",
     "symbol": "G1",
     "name": "Ğ1"
+  },
+  "28465": {
+    "index": "28465",
+    "hex": "0x80006f31",
+    "symbol": "BTCC",
+    "name": "Bitcoin-Classic"
   },
   "29223": {
     "index": "29223",
@@ -7345,7 +7447,7 @@
   },
   "61888": {
     "index": "61888",
-    "hex": "0x8000f200",
+    "hex": "0x8000f1c0",
     "symbol": "MORM",
     "name": "Morpheum"
   },
@@ -7354,6 +7456,12 @@
     "hex": "0x80010000",
     "symbol": "KETH",
     "name": "Krypton World"
+  },
+  "68291": {
+    "index": "68291",
+    "hex": "0x80010ac3",
+    "symbol": "CERA",
+    "name": "CERA"
   },
   "69420": {
     "index": "69420",
@@ -7438,6 +7546,12 @@
     "hex": "0x8001ff06",
     "symbol": "WBT",
     "name": "WhiteBIT Coin"
+  },
+  "140586": {
+    "index": "140586",
+    "hex": "0x8002252a",
+    "symbol": "BEX",
+    "name": "BEXChain"
   },
   "161803": {
     "index": "161803",
@@ -7537,7 +7651,7 @@
   },
   "696365": {
     "index": "696365",
-    "hex": "0x800b3206",
+    "hex": "0x800aa02d",
     "symbol": "ICE",
     "name": "Ice Network"
   },
@@ -7612,6 +7726,12 @@
     "hex": "0x803be02b",
     "symbol": "EPK",
     "name": "EPIK Protocol"
+  },
+  "4151811": {
+    "index": "4151811",
+    "hex": "0x803f5a03",
+    "symbol": "DORK",
+    "name": "Dorkcoin"
   },
   "4353123": {
     "index": "4353123",
@@ -7741,7 +7861,7 @@
   },
   "10000118": {
     "index": "10000118",
-    "hex": "0x805d30b6",
+    "hex": "0x809896f6",
     "symbol": "OSMO",
     "name": "Osmosis"
   },
@@ -7774,6 +7894,12 @@
     "hex": "0x8134d82e",
     "symbol": "NLK",
     "name": "NuLinkCoin"
+  },
+  "20260424": {
+    "index": "20260424",
+    "hex": "0x81352648",
+    "symbol": "SOLEN",
+    "name": "Solen"
   },
   "22000118": {
     "index": "22000118",
@@ -7907,6 +8033,12 @@
     "symbol": "AME",
     "name": "AME Chain"
   },
+  "1414421071": {
+    "index": "1414421071",
+    "hex": "0xd44e5a4f",
+    "symbol": "TNZO",
+    "name": "Tenzro"
+  },
   "1869902945": {
     "index": "1869902945",
     "hex": "0xef747461",
@@ -7918,5 +8050,11 @@
     "hex": "0xef747462",
     "symbol": "CTA",
     "name": "Crypterra"
+  },
+  "1869902947": {
+    "index": "1869902947",
+    "hex": "0xef747463",
+    "symbol": "SOST",
+    "name": "Sovereign Stock Token"
   }
 }
