@@ -11,11 +11,19 @@ const entries = {};
 for (const line of slip44Content.split('\n')) {
   const segments = line.split('|').slice(1);
   if (
-    segments.length >= 4 &&
-    /^\|\s*\d+\s*\|\s*0x[a-z0-9]+\s*\|\s.+\|\s.+\|?$/iu.test(line)
+    segments.length >= 3 &&
+    /^\|\s*\d+\s*\|\s.+\|\s.+\|?$/iu.test(line)
   ) {
+    const [index, symbol, name] = segments.map((seg) => seg.trim());
+    
+    const coinType = (index | 0x80000000) >>> 0;
     // eslint-disable-next-line id-denylist
-    const [index, hex, symbol, name] = segments.map((seg) => seg.trim());
+    const hex = `0x${coinType.toString(16)}`;
+
+    // Ignore empty entries
+    if (symbol === '' && name === '') {
+      continue;
+    }
 
     // Ignore reserved entries
     if (symbol === '---' && name === 'reserved') {
