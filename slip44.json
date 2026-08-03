@@ -5507,6 +5507,12 @@
     "symbol": "PLS",
     "name": "Pulse Coin"
   },
+  "1030": {
+    "index": "1030",
+    "hex": "0x80000406",
+    "symbol": "XYNC",
+    "name": "Xync Network"
+  },
   "1032": {
     "index": "1032",
     "hex": "0x80000408",
@@ -5728,6 +5734,12 @@
     "hex": "0x80000544",
     "symbol": "ISLM",
     "name": "IslamicCoin"
+  },
+  "1370": {
+    "index": "1370",
+    "hex": "0x8000055a",
+    "symbol": "ELEK",
+    "name": "Elektron"
   },
   "1397": {
     "index": "1397",
@@ -6113,6 +6125,12 @@
     "symbol": "ISNA",
     "name": "iSarrana"
   },
+  "2009": {
+    "index": "2009",
+    "hex": "0x800007d9",
+    "symbol": "QBTC",
+    "name": "qBitcoin"
+  },
   "2010": {
     "index": "2010",
     "hex": "0x800007da",
@@ -6443,11 +6461,23 @@
     "symbol": "B1T",
     "name": "Bit"
   },
+  "3157": {
+    "index": "3157",
+    "hex": "0x80000c55",
+    "symbol": "IVX",
+    "name": "Interverse"
+  },
   "3276": {
     "index": "3276",
     "hex": "0x80000ccc",
     "symbol": "CCC",
     "name": "CodeChain"
+  },
+  "3282": {
+    "index": "3282",
+    "hex": "0x80000cd2",
+    "symbol": "IRYS",
+    "name": "Irys"
   },
   "3333": {
     "index": "3333",
@@ -6641,6 +6671,12 @@
     "symbol": "USDC",
     "name": "Arc"
   },
+  "5050": {
+    "index": "5050",
+    "hex": "0x800013ba",
+    "symbol": "TAR",
+    "name": "TARCOIN"
+  },
   "5248": {
     "index": "5248",
     "hex": "0x80001480",
@@ -6670,6 +6706,12 @@
     "hex": "0x800015b3",
     "symbol": "FUND",
     "name": "Unification"
+  },
+  "5755": {
+    "index": "5755",
+    "hex": "0x8000167b",
+    "symbol": "5TRAT",
+    "name": "5tratum Coin"
   },
   "5757": {
     "index": "5757",
@@ -6766,6 +6808,12 @@
     "hex": "0x80001a7b",
     "symbol": "COTI",
     "name": "COTI"
+  },
+  "6789": {
+    "index": "6789",
+    "hex": "0x80001a85",
+    "symbol": "KPEPE",
+    "name": "KingPepe"
   },
   "6969": {
     "index": "6969",
@@ -6874,6 +6922,12 @@
     "hex": "0x80001f90",
     "symbol": "",
     "name": "DSRV"
+  },
+  "8128": {
+    "index": "8128",
+    "hex": "0x80001fc0",
+    "symbol": "ECR",
+    "name": "eCurrency"
   },
   "8181": {
     "index": "8181",
@@ -7048,6 +7102,12 @@
     "hex": "0x80002475",
     "symbol": "B3C",
     "name": "B3Chain"
+  },
+  "9339": {
+    "index": "9339",
+    "hex": "0x8000247b",
+    "symbol": "BRVA",
+    "name": "Brisvia"
   },
   "9345": {
     "index": "9345",
@@ -8032,6 +8092,12 @@
     "hex": "0xc655457f",
     "symbol": "AME",
     "name": "AME Chain"
+  },
+  "1347371864": {
+    "index": "1347371864",
+    "hex": "0xd04f4358",
+    "symbol": "BTCX",
+    "name": "Bitcoin-PoCX"
   },
   "1414421071": {
     "index": "1414421071",
