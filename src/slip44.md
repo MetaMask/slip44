@@ -580,7 +580,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 547        | BHP     | BHP                               |
 | 548        | BBC     | BigBang Core                      |
 | 549        | MKF     | MarketFinance                     |
-| 550        | XDC     | XinFin                            |
+| 550        | XDC     | XDC Network                       |
 | 551        | STR     | Straightedge                      |
 | 552        | SUM     | Sumcoin                           |
 | 553        | HBC     | HuobiChain                        |
@@ -1060,6 +1060,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 1026       | KEX     | Kira Exchange Token               |
 | 1027       | MCM     | Mochimo                           |
 | 1028       | PLS     | Pulse Coin                        |
+| 1029       | ZIG     | Zig Zag                           |
 | 1030       | XYNC    | Xync Network                      |
 | 1032       | BTCR    | BTCR                              |
 | 1042       | MFID    | Moonfish ID                       |
@@ -1178,6 +1179,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 2025       | ROCK    | Zenrock Labs                      |
 | 2026       | ASTRON  | ASTRON Token                      |
 | 2027       | UNC     | UniCash                           |
+| 2028       | PISO    | PISO Chain                        |
 | 2046       | ANY     | Any                               |
 | 2048       | MCASH   | MCashChain                        |
 | 2049       | TRUE    | TrueChain                         |
@@ -1220,6 +1222,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 3131       | DIP     | Dipnet Blockchain                 |
 | 3141       | B1T     | Bit                               |
 | 3157       | IVX     | Interverse                        |
+| 3172       | PROS    | Pharos                            |
 | 3276       | CCC     | CodeChain                         |
 | 3282       | IRYS    | Irys                              |
 | 3333       | SXP     | Solar                             |
@@ -1253,6 +1256,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 4999       | BXN     | BlackFort Exchange Network        |
 | 5000       | V12     | Vet The Vote                      |
 | 5006       | SBC     | Senior Blockchain                 |
+| 5031       | SOMI    | Somnia                            |
 | 5042       | USDC    | Arc                               |
 | 5050       | TAR     | TARCOIN                           |
 | 5248       | FIC     | FIC                               |
@@ -1302,6 +1306,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 8217       | KAIA    | KAIA                              |
 | 8282       | HANEUL  | Haneul                            |
 | 8327       | RXB     | Record X-core Blockchain          |
+| 8328       | MONEU   | MONEU                             |
 | 8339       | BTQ     | BitcoinQuark                      |
 | 8444       | XCH     | Chia                              |
 | 8453       |         | Base                              |
@@ -1326,6 +1331,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 9005       | AVAXC   | Avalanche C-Chain                 |
 | 9006       | BSC     | Binance Smart Chain               |
 | 9007       | SATOX   | Satoxcoin                         |
+| 9138       | HRTH    | Hearth                            |
 | 9333       | B3C     | B3Chain                           |
 | 9339       | BRVA    | Brisvia                           |
 | 9345       | WEIL    | Weilliptic                        |
@@ -1358,6 +1364,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 14159      | FBC     | Fistbump                          |
 | 15845      | SDGO    | SanDeGo                           |
 | 16181      | XTX     | Totem Live Network                |
+| 16661      | 0G      | 0G                                |
 | 16754      | ARDR    | Ardor                             |
 | 18000      | MTR     | Meter                             |
 | 18888      | BTGS    | BitcoinGold                       |
@@ -1400,6 +1407,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 68291      | CERA    | CERA                              |
 | 69420      | GRLC    | Garlicoin                         |
 | 70007      | GWL     | Gewel                             |
+| 73571      | SMN     | SELEMAN                           |
 | 77777      | ZYN     | Wethio                            |
 | 83293      | QUBIC   | Qubic                             |
 | 88888      | RYO     | c0ban                             |
@@ -1443,6 +1451,8 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 1712144    | LAX     | LAPO                              |
 | 3924011    | EPK     | EPIK Protocol                     |
 | 4151811    | DORK    | Dorkcoin                          |
+| 4279885    | ANM     | Animica                           |
+| 4346950    | BITFLASH | Bitflash                         |
 | 4353123    | BBLU    | Bitcoin-Blu                       |
 | 4392018    | MCSH    | MetaMask Cash Account             |
 | 4741444    | HYD     | Hydra Token                       |
@@ -1451,6 +1461,7 @@ The hardened path component for coin type `n` is computed as `0x80000000 + n`.
 | 5249354    | BHD     | BitcoinHD                         |
 | 5264462    | PTN     | PalletOne                         |
 | 5655640    | VLX     | Velas                             |
+| 5718349    | WAM     | WAM Coin                          |
 | 5718350    | WAN     | Wanchain                          |
 | 5741564    | WAVES   | Waves                             |
 | 5741565    | WEST    | Waves Enterprise                  |
