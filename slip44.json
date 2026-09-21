@@ -3303,7 +3303,7 @@
     "index": "550",
     "hex": "0x80000226",
     "symbol": "XDC",
-    "name": "XinFin"
+    "name": "XDC Network"
   },
   "551": {
     "index": "551",
@@ -5507,6 +5507,12 @@
     "symbol": "PLS",
     "name": "Pulse Coin"
   },
+  "1029": {
+    "index": "1029",
+    "hex": "0x80000405",
+    "symbol": "ZIG",
+    "name": "Zig Zag"
+  },
   "1030": {
     "index": "1030",
     "hex": "0x80000406",
@@ -6215,6 +6221,12 @@
     "symbol": "UNC",
     "name": "UniCash"
   },
+  "2028": {
+    "index": "2028",
+    "hex": "0x800007ec",
+    "symbol": "PISO",
+    "name": "PISO Chain"
+  },
   "2046": {
     "index": "2046",
     "hex": "0x800007fe",
@@ -6467,6 +6479,12 @@
     "symbol": "IVX",
     "name": "Interverse"
   },
+  "3172": {
+    "index": "3172",
+    "hex": "0x80000c64",
+    "symbol": "PROS",
+    "name": "Pharos"
+  },
   "3276": {
     "index": "3276",
     "hex": "0x80000ccc",
@@ -6664,6 +6682,12 @@
     "hex": "0x8000138e",
     "symbol": "SBC",
     "name": "Senior Blockchain"
+  },
+  "5031": {
+    "index": "5031",
+    "hex": "0x800013a7",
+    "symbol": "SOMI",
+    "name": "Somnia"
   },
   "5042": {
     "index": "5042",
@@ -6959,6 +6983,12 @@
     "symbol": "RXB",
     "name": "Record X-core Blockchain"
   },
+  "8328": {
+    "index": "8328",
+    "hex": "0x80002088",
+    "symbol": "MONEU",
+    "name": "MONEU"
+  },
   "8339": {
     "index": "8339",
     "hex": "0x80002093",
@@ -7096,6 +7126,12 @@
     "hex": "0x8000232f",
     "symbol": "SATOX",
     "name": "Satoxcoin"
+  },
+  "9138": {
+    "index": "9138",
+    "hex": "0x800023b2",
+    "symbol": "HRTH",
+    "name": "Hearth"
   },
   "9333": {
     "index": "9333",
@@ -7288,6 +7324,12 @@
     "hex": "0x80003f35",
     "symbol": "XTX",
     "name": "Totem Live Network"
+  },
+  "16661": {
+    "index": "16661",
+    "hex": "0x80004115",
+    "symbol": "0G",
+    "name": "0G"
   },
   "16754": {
     "index": "16754",
@@ -7534,6 +7576,12 @@
     "hex": "0x80011177",
     "symbol": "GWL",
     "name": "Gewel"
+  },
+  "73571": {
+    "index": "73571",
+    "hex": "0x80011f63",
+    "symbol": "SMN",
+    "name": "SELEMAN"
   },
   "77777": {
     "index": "77777",
@@ -7793,6 +7841,18 @@
     "symbol": "DORK",
     "name": "Dorkcoin"
   },
+  "4279885": {
+    "index": "4279885",
+    "hex": "0x80414e4d",
+    "symbol": "ANM",
+    "name": "Animica"
+  },
+  "4346950": {
+    "index": "4346950",
+    "hex": "0x80425446",
+    "symbol": "BITFLASH",
+    "name": "Bitflash"
+  },
   "4353123": {
     "index": "4353123",
     "hex": "0x80426c63",
@@ -7840,6 +7900,12 @@
     "hex": "0x80564c58",
     "symbol": "VLX",
     "name": "Velas"
+  },
+  "5718349": {
+    "index": "5718349",
+    "hex": "0x8057414d",
+    "symbol": "WAM",
+    "name": "WAM Coin"
   },
   "5718350": {
     "index": "5718350",
